@@ -35,6 +35,8 @@ metadata.update_column(table_name='locations', column_name='region', sdtype='cat
 metadata.update_column(table_name='locations', column_name='population', sdtype='numerical')
 metadata.update_column(table_name='make_details', column_name='make_name', sdtype='categorical')
 metadata.update_column(table_name='stolen_vehicles', column_name='vehicle_desc', sdtype='categorical')
+metadata.update_column(table_name='owner', column_name='name', sdtype='categorical')
+metadata.update_column(table_name='owner', column_name='address', sdtype='categorical')
 
 # Visualize the metadata
 metadata.visualize(
@@ -69,7 +71,14 @@ diagnostic = run_diagnostic(real_data, synthetic_data, metadata)
 
 # 2. measure the statistical similarity
 print("Evaluating statistical similarity between real data and synthetic data generated...")
-evaluate_quality(real_data, synthetic_data, metadata)
+
+quality_report = evaluate_quality(real_data, synthetic_data, metadata)
+
+# Which columns have high and low scores
+quality_report.get_details('Column Shapes')
+quality_report.get_details('Column Pair Trends')
+quality_report.get_details('Cardinality')
+quality_report.get_details('Intertable Trends')
 
 # 3. plot the data
 # fig = get_column_plot(
