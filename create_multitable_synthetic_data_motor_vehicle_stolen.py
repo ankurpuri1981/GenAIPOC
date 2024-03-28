@@ -92,11 +92,17 @@ except ValueError:
 # Otherwise, model gives error - ValueError: invalid literal for int() with base 10:
 # metadata.update_column(table_name='locations', column_name='region', sdtype='categorical')
 metadata.update_column(table_name='locations', column_name='population', sdtype='numerical')
+metadata.update_column(table_name='license_details', column_name='License_ID', sdtype='id')
+metadata.update_column(table_name='stolen_vehicles', column_name='License_ID', sdtype='id')
 # metadata.update_column(table_name='make_details', column_name='make_name', sdtype='categorical')
 # metadata.update_column(table_name='stolen_vehicles', column_name='vehicle_desc', sdtype='categorical')
 # metadata.update_column(table_name='owner', column_name='name', sdtype='categorical')
 # metadata.update_column(table_name='owner', column_name='address', sdtype='categorical')
-#
+
+# Add relationship between tables manually if metadata object doesn't detect automatically
+metadata.add_relationship(parent_table_name='license_details', child_table_name='stolen_vehicles',
+                          parent_primary_key='License_ID', child_foreign_key='License_ID')
+
 # # Visualize the metadata
 metadata.visualize(
     show_table_details='full',
