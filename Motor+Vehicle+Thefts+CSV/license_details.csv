@@ -1,0 +1,4539 @@
+﻿License_ID,State,Latitude
+License_001,Auckland (7),-36.84959959
+License_002,Bay Of Plenty (2),-37.98291543
+License_003,Canterbury (4),-43.89790322
+License_004,Gisborne (3),-39.63821491
+License_005,Manawatu Wanganui (6),-41.13548786
+License_006,Marlborough (1),-41.52099404
+License_007,Nelson (1),-41.29258421
+License_008,Northland (1),-35.71995278
+License_009,Otago (3),-45.09731321
+License_010,Southland (1),-46.40942951
+License_011,Taranaki (1),-39.0641931
+License_012,Auckland (7),-43.00248031
+License_013,Bay Of Plenty (2),-43.37246055
+License_014,Auckland (7),-43.74244078
+License_015,Bay Of Plenty (2),-44.11242102
+License_016,Canterbury (4),-44.48240125
+License_017,Gisborne (3),-44.85238149
+License_018,Manawatu Wanganui (6),-45.22236173
+License_019,Marlborough (1),-45.59234196
+License_020,Nelson (1),-45.9623222
+License_021,Northland (1),-46.33230243
+License_022,Otago (3),-46.70228267
+License_023,Southland (1),-47.0722629
+License_024,Taranaki (1),-47.44224314
+License_025,Auckland (7),-47.81222338
+License_026,Bay Of Plenty (2),-48.18220361
+License_027,Auckland (7),-48.55218385
+License_028,Bay Of Plenty (2),-48.92216408
+License_029,Canterbury (4),-49.29214432
+License_030,Gisborne (3),-49.66212455
+License_031,Manawatu Wanganui (6),-50.03210479
+License_032,Marlborough (1),-50.40208503
+License_033,Nelson (1),-50.77206526
+License_034,Northland (1),-51.1420455
+License_035,Otago (3),-51.51202573
+License_036,Southland (1),-51.88200597
+License_037,Taranaki (1),-52.2519862
+License_038,Auckland (7),-52.62196644
+License_039,Bay Of Plenty (2),-52.99194668
+License_040,Auckland (7),-53.36192691
+License_041,Bay Of Plenty (2),-53.73190715
+License_042,Canterbury (4),-54.10188738
+License_043,Gisborne (3),-54.47186762
+License_044,Manawatu Wanganui (6),-54.84184785
+License_045,Marlborough (1),-55.21182809
+License_046,Nelson (1),-55.58180833
+License_047,Northland (1),-55.95178856
+License_048,Otago (3),-56.3217688
+License_049,Southland (1),-56.69174903
+License_050,Taranaki (1),-57.06172927
+License_051,Auckland (7),-57.4317095
+License_052,Bay Of Plenty (2),-57.80168974
+License_053,Auckland (7),-58.17166998
+License_054,Bay Of Plenty (2),-58.54165021
+License_055,Canterbury (4),-58.91163045
+License_056,Gisborne (3),-59.28161068
+License_057,Manawatu Wanganui (6),-59.65159092
+License_058,Marlborough (1),-60.02157115
+License_059,Nelson (1),-60.39155139
+License_060,Northland (1),-60.76153163
+License_061,Otago (3),-61.13151186
+License_062,Southland (1),-61.5014921
+License_063,Taranaki (1),-61.87147233
+License_064,Auckland (7),-62.24145257
+License_065,Bay Of Plenty (2),-62.6114328
+License_066,Auckland (7),-62.98141304
+License_067,Bay Of Plenty (2),-63.35139328
+License_068,Canterbury (4),-63.72137351
+License_069,Gisborne (3),-64.09135375
+License_070,Manawatu Wanganui (6),-64.46133398
+License_071,Marlborough (1),-64.83131422
+License_072,Nelson (1),-65.20129445
+License_073,Northland (1),-65.57127469
+License_074,Otago (3),-65.94125493
+License_075,Southland (1),-66.31123516
+License_076,Taranaki (1),-66.6812154
+License_077,Auckland (7),-67.05119563
+License_078,Bay Of Plenty (2),-67.42117587
+License_079,Auckland (7),-67.7911561
+License_080,Bay Of Plenty (2),-68.16113634
+License_081,Canterbury (4),-68.53111658
+License_082,Gisborne (3),-68.90109681
+License_083,Manawatu Wanganui (6),-69.27107705
+License_084,Marlborough (1),-69.64105728
+License_085,Nelson (1),-70.01103752
+License_086,Northland (1),-70.38101775
+License_087,Otago (3),-70.75099799
+License_088,Southland (1),-71.12097823
+License_089,Taranaki (1),-71.49095846
+License_090,Auckland (7),-71.8609387
+License_091,Bay Of Plenty (2),-72.23091893
+License_092,Auckland (7),-72.60089917
+License_093,Bay Of Plenty (2),-72.9708794
+License_094,Canterbury (4),-73.34085964
+License_095,Gisborne (3),-73.71083988
+License_096,Manawatu Wanganui (6),-74.08082011
+License_097,Marlborough (1),-74.45080035
+License_098,Nelson (1),-74.82078058
+License_099,Northland (1),-75.19076082
+License_100,Otago (3),-75.56074105
+License_101,Southland (1),-75.93072129
+License_102,Taranaki (1),-76.30070153
+License_103,Auckland (7),-76.67068176
+License_104,Bay Of Plenty (2),-77.040662
+License_105,Auckland (7),-77.41064223
+License_106,Bay Of Plenty (2),-77.78062247
+License_107,Canterbury (4),-78.1506027
+License_108,Gisborne (3),-78.52058294
+License_109,Manawatu Wanganui (6),-78.89056318
+License_110,Marlborough (1),-79.26054341
+License_111,Nelson (1),-79.63052365
+License_112,Northland (1),-80.00050388
+License_113,Otago (3),-80.37048412
+License_114,Southland (1),-80.74046435
+License_115,Taranaki (1),-81.11044459
+License_116,Auckland (7),-81.48042483
+License_117,Bay Of Plenty (2),-81.85040506
+License_118,Auckland (7),-82.2203853
+License_119,Bay Of Plenty (2),-82.59036553
+License_120,Canterbury (4),-82.96034577
+License_121,Gisborne (3),-83.330326
+License_122,Manawatu Wanganui (6),-83.70030624
+License_123,Marlborough (1),-84.07028648
+License_124,Nelson (1),-84.44026671
+License_125,Northland (1),-84.81024695
+License_126,Otago (3),-85.18022718
+License_127,Southland (1),-85.55020742
+License_128,Taranaki (1),-85.92018766
+License_129,Auckland (7),-86.29016789
+License_130,Bay Of Plenty (2),-86.66014813
+License_131,Auckland (7),-87.03012836
+License_132,Bay Of Plenty (2),-87.4001086
+License_133,Canterbury (4),-87.77008883
+License_134,Gisborne (3),-88.14006907
+License_135,Manawatu Wanganui (6),-88.51004931
+License_136,Marlborough (1),-88.88002954
+License_137,Nelson (1),-89.25000978
+License_138,Northland (1),-89.61999001
+License_139,Auckland (7),-89.98997025
+License_140,Bay Of Plenty (2),-90.35995048
+License_141,Canterbury (4),-90.72993072
+License_142,Gisborne (3),-91.09991096
+License_143,Manawatu Wanganui (6),-91.46989119
+License_144,Marlborough (1),-91.83987143
+License_145,Nelson (1),-92.20985166
+License_146,Northland (1),-92.5798319
+License_147,Otago (3),-92.94981213
+License_148,Southland (1),-93.31979237
+License_149,Taranaki (1),-93.68977261
+License_150,Auckland (7),-94.05975284
+License_151,Bay Of Plenty (2),-94.42973308
+License_152,Auckland (7),-94.79971331
+License_153,Bay Of Plenty (2),-95.16969355
+License_154,Canterbury (4),-95.53967378
+License_155,Gisborne (3),-95.90965402
+License_156,Manawatu Wanganui (6),-96.27963426
+License_157,Marlborough (1),-96.64961449
+License_158,Nelson (1),-97.01959473
+License_159,Northland (1),-97.38957496
+License_160,Otago (3),-97.7595552
+License_161,Southland (1),-98.12953543
+License_162,Taranaki (1),-98.49951567
+License_163,Auckland (7),-98.86949591
+License_164,Bay Of Plenty (2),-99.23947614
+License_165,Auckland (7),-99.60945638
+License_166,Bay Of Plenty (2),-99.97943661
+License_167,Canterbury (4),-100.3494168
+License_168,Gisborne (3),-100.7193971
+License_169,Manawatu Wanganui (6),-101.0893773
+License_170,Marlborough (1),-101.4593576
+License_171,Nelson (1),-101.8293378
+License_172,Northland (1),-102.199318
+License_173,Otago (3),-102.5692983
+License_174,Southland (1),-102.9392785
+License_175,Taranaki (1),-103.3092587
+License_176,Auckland (7),-103.679239
+License_177,Bay Of Plenty (2),-104.0492192
+License_178,Auckland (7),-104.4191994
+License_179,Bay Of Plenty (2),-104.7891797
+License_180,Canterbury (4),-105.1591599
+License_181,Gisborne (3),-105.5291401
+License_182,Manawatu Wanganui (6),-105.8991204
+License_183,Marlborough (1),-106.2691006
+License_184,Nelson (1),-106.6390809
+License_185,Northland (1),-107.0090611
+License_186,Otago (3),-107.3790413
+License_187,Southland (1),-107.7490216
+License_188,Taranaki (1),-108.1190018
+License_189,Auckland (7),-108.488982
+License_190,Bay Of Plenty (2),-108.8589623
+License_191,Auckland (7),-109.2289425
+License_192,Bay Of Plenty (2),-109.5989227
+License_193,Canterbury (4),-109.968903
+License_194,Gisborne (3),-110.3388832
+License_195,Manawatu Wanganui (6),-110.7088634
+License_196,Marlborough (1),-111.0788437
+License_197,Nelson (1),-111.4488239
+License_198,Northland (1),-111.8188042
+License_199,Otago (3),-112.1887844
+License_200,Southland (1),-112.5587646
+License_201,Taranaki (1),-112.9287449
+License_202,Auckland (7),-113.2987251
+License_203,Bay Of Plenty (2),-113.6687053
+License_204,Auckland (7),-114.0386856
+License_205,Bay Of Plenty (2),-114.4086658
+License_206,Canterbury (4),-114.778646
+License_207,Gisborne (3),-115.1486263
+License_208,Manawatu Wanganui (6),-115.5186065
+License_209,Marlborough (1),-115.8885867
+License_210,Nelson (1),-116.258567
+License_211,Northland (1),-116.6285472
+License_212,Otago (3),-116.9985275
+License_213,Southland (1),-117.3685077
+License_214,Taranaki (1),-117.7384879
+License_215,Auckland (7),-118.1084682
+License_216,Bay Of Plenty (2),-118.4784484
+License_217,Auckland (7),-118.8484286
+License_218,Bay Of Plenty (2),-119.2184089
+License_219,Canterbury (4),-119.5883891
+License_220,Gisborne (3),-119.9583693
+License_221,Manawatu Wanganui (6),-120.3283496
+License_222,Marlborough (1),-120.6983298
+License_223,Nelson (1),-121.06831
+License_224,Northland (1),-121.4382903
+License_225,Otago (3),-121.8082705
+License_226,Southland (1),-122.1782508
+License_227,Taranaki (1),-122.548231
+License_228,Auckland (7),-122.9182112
+License_229,Bay Of Plenty (2),-123.2881915
+License_230,Auckland (7),-123.6581717
+License_231,Bay Of Plenty (2),-124.0281519
+License_232,Canterbury (4),-124.3981322
+License_233,Gisborne (3),-124.7681124
+License_234,Manawatu Wanganui (6),-125.1380926
+License_235,Marlborough (1),-125.5080729
+License_236,Nelson (1),-125.8780531
+License_237,Northland (1),-126.2480333
+License_238,Otago (3),-126.6180136
+License_239,Southland (1),-126.9879938
+License_240,Taranaki (1),-127.3579741
+License_241,Auckland (7),-127.7279543
+License_242,Bay Of Plenty (2),-128.0979345
+License_243,Auckland (7),-128.4679148
+License_244,Bay Of Plenty (2),-128.837895
+License_245,Canterbury (4),-129.2078752
+License_246,Gisborne (3),-129.5778555
+License_247,Manawatu Wanganui (6),-129.9478357
+License_248,Marlborough (1),-130.3178159
+License_249,Nelson (1),-130.6877962
+License_250,Northland (1),-131.0577764
+License_251,Otago (3),-131.4277566
+License_252,Southland (1),-131.7977369
+License_253,Taranaki (1),-132.1677171
+License_254,Auckland (7),-132.5376974
+License_255,Bay Of Plenty (2),-132.9076776
+License_256,Auckland (7),-133.2776578
+License_257,Bay Of Plenty (2),-133.6476381
+License_258,Canterbury (4),-134.0176183
+License_259,Gisborne (3),-134.3875985
+License_260,Manawatu Wanganui (6),-134.7575788
+License_261,Marlborough (1),-135.127559
+License_262,Nelson (1),-135.4975392
+License_263,Northland (1),-135.8675195
+License_264,Otago (3),-136.2374997
+License_265,Southland (1),-136.6074799
+License_266,Taranaki (1),-136.9774602
+License_267,Auckland (7),-137.3474404
+License_268,Bay Of Plenty (2),-137.7174207
+License_269,Auckland (7),-138.0874009
+License_270,Bay Of Plenty (2),-138.4573811
+License_271,Canterbury (4),-138.8273614
+License_272,Gisborne (3),-139.1973416
+License_273,Manawatu Wanganui (6),-139.5673218
+License_274,Marlborough (1),-139.9373021
+License_275,Nelson (1),-140.3072823
+License_276,Northland (1),-140.6772625
+License_277,Auckland (7),-141.0472428
+License_278,Bay Of Plenty (2),-141.417223
+License_279,Canterbury (4),-141.7872032
+License_280,Gisborne (3),-142.1571835
+License_281,Manawatu Wanganui (6),-142.5271637
+License_282,Marlborough (1),-142.897144
+License_283,Nelson (1),-143.2671242
+License_284,Northland (1),-143.6371044
+License_285,Otago (3),-144.0070847
+License_286,Southland (1),-144.3770649
+License_287,Taranaki (1),-144.7470451
+License_288,Auckland (7),-145.1170254
+License_289,Bay Of Plenty (2),-145.4870056
+License_290,Auckland (7),-145.8569858
+License_291,Bay Of Plenty (2),-146.2269661
+License_292,Canterbury (4),-146.5969463
+License_293,Gisborne (3),-146.9669266
+License_294,Manawatu Wanganui (6),-147.3369068
+License_295,Marlborough (1),-147.706887
+License_296,Nelson (1),-148.0768673
+License_297,Northland (1),-148.4468475
+License_298,Otago (3),-148.8168277
+License_299,Southland (1),-149.186808
+License_300,Taranaki (1),-149.5567882
+License_301,Auckland (7),-149.9267684
+License_302,Bay Of Plenty (2),-150.2967487
+License_303,Auckland (7),-150.6667289
+License_304,Bay Of Plenty (2),-151.0367091
+License_305,Canterbury (4),-151.4066894
+License_306,Gisborne (3),-151.7766696
+License_307,Manawatu Wanganui (6),-152.1466499
+License_308,Marlborough (1),-152.5166301
+License_309,Nelson (1),-152.8866103
+License_310,Northland (1),-153.2565906
+License_311,Otago (3),-153.6265708
+License_312,Southland (1),-153.996551
+License_313,Taranaki (1),-154.3665313
+License_314,Auckland (7),-154.7365115
+License_315,Bay Of Plenty (2),-155.1064917
+License_316,Auckland (7),-155.476472
+License_317,Bay Of Plenty (2),-155.8464522
+License_318,Canterbury (4),-156.2164324
+License_319,Gisborne (3),-156.5864127
+License_320,Manawatu Wanganui (6),-156.9563929
+License_321,Marlborough (1),-157.3263732
+License_322,Nelson (1),-157.6963534
+License_323,Northland (1),-158.0663336
+License_324,Otago (3),-158.4363139
+License_325,Southland (1),-158.8062941
+License_326,Taranaki (1),-159.1762743
+License_327,Auckland (7),-159.5462546
+License_328,Bay Of Plenty (2),-159.9162348
+License_329,Auckland (7),-160.286215
+License_330,Bay Of Plenty (2),-160.6561953
+License_331,Canterbury (4),-161.0261755
+License_332,Gisborne (3),-161.3961557
+License_333,Manawatu Wanganui (6),-161.766136
+License_334,Marlborough (1),-162.1361162
+License_335,Nelson (1),-162.5060965
+License_336,Northland (1),-162.8760767
+License_337,Otago (3),-163.2460569
+License_338,Southland (1),-163.6160372
+License_339,Taranaki (1),-163.9860174
+License_340,Auckland (7),-164.3559976
+License_341,Bay Of Plenty (2),-164.7259779
+License_342,Auckland (7),-165.0959581
+License_343,Bay Of Plenty (2),-165.4659383
+License_344,Canterbury (4),-165.8359186
+License_345,Gisborne (3),-166.2058988
+License_346,Manawatu Wanganui (6),-166.575879
+License_347,Marlborough (1),-166.9458593
+License_348,Nelson (1),-167.3158395
+License_349,Northland (1),-167.6858198
+License_350,Otago (3),-168.0558
+License_351,Southland (1),-168.4257802
+License_352,Taranaki (1),-168.7957605
+License_353,Auckland (7),-169.1657407
+License_354,Bay Of Plenty (2),-169.5357209
+License_355,Auckland (7),-169.9057012
+License_356,Bay Of Plenty (2),-170.2756814
+License_357,Canterbury (4),-170.6456616
+License_358,Gisborne (3),-171.0156419
+License_359,Manawatu Wanganui (6),-171.3856221
+License_360,Marlborough (1),-171.7556023
+License_361,Nelson (1),-172.1255826
+License_362,Northland (1),-172.4955628
+License_363,Otago (3),-172.8655431
+License_364,Southland (1),-173.2355233
+License_365,Taranaki (1),-173.6055035
+License_366,Auckland (7),-173.9754838
+License_367,Bay Of Plenty (2),-174.345464
+License_368,Auckland (7),-174.7154442
+License_369,Bay Of Plenty (2),-175.0854245
+License_370,Canterbury (4),-175.4554047
+License_371,Gisborne (3),-175.8253849
+License_372,Manawatu Wanganui (6),-176.1953652
+License_373,Marlborough (1),-176.5653454
+License_374,Nelson (1),-176.9353256
+License_375,Northland (1),-177.3053059
+License_376,Otago (3),-177.6752861
+License_377,Southland (1),-178.0452664
+License_378,Taranaki (1),-178.4152466
+License_379,Auckland (7),-178.7852268
+License_380,Bay Of Plenty (2),-179.1552071
+License_381,Auckland (7),-179.5251873
+License_382,Bay Of Plenty (2),-179.8951675
+License_383,Canterbury (4),-180.2651478
+License_384,Gisborne (3),-180.635128
+License_385,Manawatu Wanganui (6),-181.0051082
+License_386,Marlborough (1),-181.3750885
+License_387,Nelson (1),-181.7450687
+License_388,Northland (1),-182.1150489
+License_389,Otago (3),-182.4850292
+License_390,Southland (1),-182.8550094
+License_391,Taranaki (1),-183.2249897
+License_392,Auckland (7),-183.5949699
+License_393,Bay Of Plenty (2),-183.9649501
+License_394,Auckland (7),-184.3349304
+License_395,Bay Of Plenty (2),-184.7049106
+License_396,Canterbury (4),-185.0748908
+License_397,Gisborne (3),-185.4448711
+License_398,Manawatu Wanganui (6),-185.8148513
+License_399,Marlborough (1),-186.1848315
+License_400,Nelson (1),-186.5548118
+License_401,Northland (1),-186.924792
+License_402,Otago (3),-187.2947722
+License_403,Southland (1),-187.6647525
+License_404,Taranaki (1),-188.0347327
+License_405,Auckland (7),-188.404713
+License_406,Bay Of Plenty (2),-188.7746932
+License_407,Auckland (7),-189.1446734
+License_408,Bay Of Plenty (2),-189.5146537
+License_409,Canterbury (4),-189.8846339
+License_410,Gisborne (3),-190.2546141
+License_411,Manawatu Wanganui (6),-190.6245944
+License_412,Marlborough (1),-190.9945746
+License_413,Nelson (1),-191.3645548
+License_414,Northland (1),-191.7345351
+License_415,Auckland (7),-192.1045153
+License_416,Bay Of Plenty (2),-192.4744955
+License_417,Canterbury (4),-192.8444758
+License_418,Gisborne (3),-193.214456
+License_419,Manawatu Wanganui (6),-193.5844363
+License_420,Marlborough (1),-193.9544165
+License_421,Nelson (1),-194.3243967
+License_422,Northland (1),-194.694377
+License_423,Otago (3),-195.0643572
+License_424,Southland (1),-195.4343374
+License_425,Taranaki (1),-195.8043177
+License_426,Auckland (7),-196.1742979
+License_427,Bay Of Plenty (2),-196.5442781
+License_428,Auckland (7),-196.9142584
+License_429,Bay Of Plenty (2),-197.2842386
+License_430,Canterbury (4),-197.6542188
+License_431,Gisborne (3),-198.0241991
+License_432,Manawatu Wanganui (6),-198.3941793
+License_433,Marlborough (1),-198.7641596
+License_434,Nelson (1),-199.1341398
+License_435,Northland (1),-199.50412
+License_436,Otago (3),-199.8741003
+License_437,Southland (1),-200.2440805
+License_438,Taranaki (1),-200.6140607
+License_439,Auckland (7),-200.984041
+License_440,Bay Of Plenty (2),-201.3540212
+License_441,Auckland (7),-201.7240014
+License_442,Bay Of Plenty (2),-202.0939817
+License_443,Canterbury (4),-202.4639619
+License_444,Gisborne (3),-202.8339421
+License_445,Manawatu Wanganui (6),-203.2039224
+License_446,Marlborough (1),-203.5739026
+License_447,Nelson (1),-203.9438829
+License_448,Northland (1),-204.3138631
+License_449,Otago (3),-204.6838433
+License_450,Southland (1),-205.0538236
+License_451,Taranaki (1),-205.4238038
+License_452,Auckland (7),-205.793784
+License_453,Bay Of Plenty (2),-206.1637643
+License_454,Auckland (7),-206.5337445
+License_455,Bay Of Plenty (2),-206.9037247
+License_456,Canterbury (4),-207.273705
+License_457,Gisborne (3),-207.6436852
+License_458,Manawatu Wanganui (6),-208.0136654
+License_459,Marlborough (1),-208.3836457
+License_460,Nelson (1),-208.7536259
+License_461,Northland (1),-209.1236062
+License_462,Otago (3),-209.4935864
+License_463,Southland (1),-209.8635666
+License_464,Taranaki (1),-210.2335469
+License_465,Auckland (7),-210.6035271
+License_466,Bay Of Plenty (2),-210.9735073
+License_467,Auckland (7),-211.3434876
+License_468,Bay Of Plenty (2),-211.7134678
+License_469,Canterbury (4),-212.083448
+License_470,Gisborne (3),-212.4534283
+License_471,Manawatu Wanganui (6),-212.8234085
+License_472,Marlborough (1),-213.1933887
+License_473,Nelson (1),-213.563369
+License_474,Northland (1),-213.9333492
+License_475,Otago (3),-214.3033295
+License_476,Southland (1),-214.6733097
+License_477,Taranaki (1),-215.0432899
+License_478,Auckland (7),-215.4132702
+License_479,Bay Of Plenty (2),-215.7832504
+License_480,Auckland (7),-216.1532306
+License_481,Bay Of Plenty (2),-216.5232109
+License_482,Canterbury (4),-216.8931911
+License_483,Gisborne (3),-217.2631713
+License_484,Manawatu Wanganui (6),-217.6331516
+License_485,Marlborough (1),-218.0031318
+License_486,Nelson (1),-218.373112
+License_487,Northland (1),-218.7430923
+License_488,Otago (3),-219.1130725
+License_489,Southland (1),-219.4830528
+License_490,Taranaki (1),-219.853033
+License_491,Auckland (7),-220.2230132
+License_492,Bay Of Plenty (2),-220.5929935
+License_493,Auckland (7),-220.9629737
+License_494,Bay Of Plenty (2),-221.3329539
+License_495,Canterbury (4),-221.7029342
+License_496,Gisborne (3),-222.0729144
+License_497,Manawatu Wanganui (6),-222.4428946
+License_498,Marlborough (1),-222.8128749
+License_499,Nelson (1),-223.1828551
+License_500,Northland (1),-223.5528353
+License_501,Otago (3),-223.9228156
+License_502,Southland (1),-224.2927958
+License_503,Taranaki (1),-224.6627761
+License_504,Auckland (7),-225.0327563
+License_505,Bay Of Plenty (2),-225.4027365
+License_506,Auckland (7),-225.7727168
+License_507,Bay Of Plenty (2),-226.142697
+License_508,Canterbury (4),-226.5126772
+License_509,Gisborne (3),-226.8826575
+License_510,Manawatu Wanganui (6),-227.2526377
+License_511,Marlborough (1),-227.6226179
+License_512,Nelson (1),-227.9925982
+License_513,Northland (1),-228.3625784
+License_514,Otago (3),-228.7325586
+License_515,Southland (1),-229.1025389
+License_516,Taranaki (1),-229.4725191
+License_517,Auckland (7),-229.8424994
+License_518,Bay Of Plenty (2),-230.2124796
+License_519,Auckland (7),-230.5824598
+License_520,Bay Of Plenty (2),-230.9524401
+License_521,Canterbury (4),-231.3224203
+License_522,Gisborne (3),-231.6924005
+License_523,Manawatu Wanganui (6),-232.0623808
+License_524,Marlborough (1),-232.432361
+License_525,Nelson (1),-232.8023412
+License_526,Northland (1),-233.1723215
+License_527,Otago (3),-233.5423017
+License_528,Southland (1),-233.9122819
+License_529,Taranaki (1),-234.2822622
+License_530,Auckland (7),-234.6522424
+License_531,Bay Of Plenty (2),-235.0222227
+License_532,Auckland (7),-235.3922029
+License_533,Bay Of Plenty (2),-235.7621831
+License_534,Canterbury (4),-236.1321634
+License_535,Gisborne (3),-236.5021436
+License_536,Manawatu Wanganui (6),-236.8721238
+License_537,Marlborough (1),-237.2421041
+License_538,Nelson (1),-237.6120843
+License_539,Northland (1),-237.9820645
+License_540,Otago (3),-238.3520448
+License_541,Southland (1),-238.722025
+License_542,Taranaki (1),-239.0920052
+License_543,Auckland (7),-239.4619855
+License_544,Bay Of Plenty (2),-239.8319657
+License_545,Auckland (7),-240.201946
+License_546,Bay Of Plenty (2),-240.5719262
+License_547,Canterbury (4),-240.9419064
+License_548,Gisborne (3),-241.3118867
+License_549,Manawatu Wanganui (6),-241.6818669
+License_550,Marlborough (1),-242.0518471
+License_551,Nelson (1),-242.4218274
+License_552,Northland (1),-242.7918076
+License_553,Auckland (7),-243.1617878
+License_554,Bay Of Plenty (2),-243.5317681
+License_555,Canterbury (4),-243.9017483
+License_556,Gisborne (3),-244.2717285
+License_557,Manawatu Wanganui (6),-244.6417088
+License_558,Marlborough (1),-245.011689
+License_559,Nelson (1),-245.3816693
+License_560,Northland (1),-245.7516495
+License_561,Otago (3),-246.1216297
+License_562,Southland (1),-246.49161
+License_563,Taranaki (1),-246.8615902
+License_564,Auckland (7),-247.2315704
+License_565,Bay Of Plenty (2),-247.6015507
+License_566,Auckland (7),-247.9715309
+License_567,Bay Of Plenty (2),-248.3415111
+License_568,Canterbury (4),-248.7114914
+License_569,Gisborne (3),-249.0814716
+License_570,Manawatu Wanganui (6),-249.4514518
+License_571,Marlborough (1),-249.8214321
+License_572,Nelson (1),-250.1914123
+License_573,Northland (1),-250.5613926
+License_574,Otago (3),-250.9313728
+License_575,Southland (1),-251.301353
+License_576,Taranaki (1),-251.6713333
+License_577,Auckland (7),-252.0413135
+License_578,Bay Of Plenty (2),-252.4112937
+License_579,Auckland (7),-252.781274
+License_580,Bay Of Plenty (2),-253.1512542
+License_581,Canterbury (4),-253.5212344
+License_582,Gisborne (3),-253.8912147
+License_583,Manawatu Wanganui (6),-254.2611949
+License_584,Marlborough (1),-254.6311751
+License_585,Nelson (1),-255.0011554
+License_586,Northland (1),-255.3711356
+License_587,Otago (3),-255.7411159
+License_588,Southland (1),-256.1110961
+License_589,Taranaki (1),-256.4810763
+License_590,Auckland (7),-256.8510566
+License_591,Bay Of Plenty (2),-257.2210368
+License_592,Auckland (7),-257.591017
+License_593,Bay Of Plenty (2),-257.9609973
+License_594,Canterbury (4),-258.3309775
+License_595,Gisborne (3),-258.7009577
+License_596,Manawatu Wanganui (6),-259.070938
+License_597,Marlborough (1),-259.4409182
+License_598,Nelson (1),-259.8108984
+License_599,Northland (1),-260.1808787
+License_600,Otago (3),-260.5508589
+License_601,Southland (1),-260.9208392
+License_602,Taranaki (1),-261.2908194
+License_603,Auckland (7),-261.6607996
+License_604,Bay Of Plenty (2),-262.0307799
+License_605,Auckland (7),-262.4007601
+License_606,Bay Of Plenty (2),-262.7707403
+License_607,Canterbury (4),-263.1407206
+License_608,Gisborne (3),-263.5107008
+License_609,Manawatu Wanganui (6),-263.880681
+License_610,Marlborough (1),-264.2506613
+License_611,Nelson (1),-264.6206415
+License_612,Northland (1),-264.9906217
+License_613,Otago (3),-265.360602
+License_614,Southland (1),-265.7305822
+License_615,Taranaki (1),-266.1005625
+License_616,Auckland (7),-266.4705427
+License_617,Bay Of Plenty (2),-266.8405229
+License_618,Auckland (7),-267.2105032
+License_619,Bay Of Plenty (2),-267.5804834
+License_620,Canterbury (4),-267.9504636
+License_621,Gisborne (3),-268.3204439
+License_622,Manawatu Wanganui (6),-268.6904241
+License_623,Marlborough (1),-269.0604043
+License_624,Nelson (1),-269.4303846
+License_625,Northland (1),-269.8003648
+License_626,Otago (3),-270.170345
+License_627,Southland (1),-270.5403253
+License_628,Taranaki (1),-270.9103055
+License_629,Auckland (7),-271.2802858
+License_630,Bay Of Plenty (2),-271.650266
+License_631,Auckland (7),-272.0202462
+License_632,Bay Of Plenty (2),-272.3902265
+License_633,Canterbury (4),-272.7602067
+License_634,Gisborne (3),-273.1301869
+License_635,Manawatu Wanganui (6),-273.5001672
+License_636,Marlborough (1),-273.8701474
+License_637,Nelson (1),-274.2401276
+License_638,Northland (1),-274.6101079
+License_639,Otago (3),-274.9800881
+License_640,Southland (1),-275.3500683
+License_641,Taranaki (1),-275.7200486
+License_642,Auckland (7),-276.0900288
+License_643,Bay Of Plenty (2),-276.4600091
+License_644,Auckland (7),-276.8299893
+License_645,Bay Of Plenty (2),-277.1999695
+License_646,Canterbury (4),-277.5699498
+License_647,Gisborne (3),-277.93993
+License_648,Manawatu Wanganui (6),-278.3099102
+License_649,Marlborough (1),-278.6798905
+License_650,Nelson (1),-279.0498707
+License_651,Northland (1),-279.4198509
+License_652,Otago (3),-279.7898312
+License_653,Southland (1),-280.1598114
+License_654,Taranaki (1),-280.5297916
+License_655,Auckland (7),-280.8997719
+License_656,Bay Of Plenty (2),-281.2697521
+License_657,Auckland (7),-281.6397324
+License_658,Bay Of Plenty (2),-282.0097126
+License_659,Canterbury (4),-282.3796928
+License_660,Gisborne (3),-282.7496731
+License_661,Manawatu Wanganui (6),-283.1196533
+License_662,Marlborough (1),-283.4896335
+License_663,Nelson (1),-283.8596138
+License_664,Northland (1),-284.229594
+License_665,Otago (3),-284.5995742
+License_666,Southland (1),-284.9695545
+License_667,Taranaki (1),-285.3395347
+License_668,Auckland (7),-285.7095149
+License_669,Bay Of Plenty (2),-286.0794952
+License_670,Auckland (7),-286.4494754
+License_671,Bay Of Plenty (2),-286.8194557
+License_672,Canterbury (4),-287.1894359
+License_673,Gisborne (3),-287.5594161
+License_674,Manawatu Wanganui (6),-287.9293964
+License_675,Marlborough (1),-288.2993766
+License_676,Nelson (1),-288.6693568
+License_677,Northland (1),-289.0393371
+License_678,Otago (3),-289.4093173
+License_679,Southland (1),-289.7792975
+License_680,Taranaki (1),-290.1492778
+License_681,Auckland (7),-290.519258
+License_682,Bay Of Plenty (2),-290.8892382
+License_683,Auckland (7),-291.2592185
+License_684,Bay Of Plenty (2),-291.6291987
+License_685,Canterbury (4),-291.999179
+License_686,Gisborne (3),-292.3691592
+License_687,Manawatu Wanganui (6),-292.7391394
+License_688,Marlborough (1),-293.1091197
+License_689,Nelson (1),-293.4790999
+License_690,Northland (1),-293.8490801
+License_691,Auckland (7),-294.2190604
+License_692,Bay Of Plenty (2),-294.5890406
+License_693,Canterbury (4),-294.9590208
+License_694,Gisborne (3),-295.3290011
+License_695,Manawatu Wanganui (6),-295.6989813
+License_696,Marlborough (1),-296.0689615
+License_697,Nelson (1),-296.4389418
+License_698,Northland (1),-296.808922
+License_699,Otago (3),-297.1789023
+License_700,Southland (1),-297.5488825
+License_701,Taranaki (1),-297.9188627
+License_702,Auckland (7),-298.288843
+License_703,Bay Of Plenty (2),-298.6588232
+License_704,Auckland (7),-299.0288034
+License_705,Bay Of Plenty (2),-299.3987837
+License_706,Canterbury (4),-299.7687639
+License_707,Gisborne (3),-300.1387441
+License_708,Manawatu Wanganui (6),-300.5087244
+License_709,Marlborough (1),-300.8787046
+License_710,Nelson (1),-301.2486848
+License_711,Northland (1),-301.6186651
+License_712,Otago (3),-301.9886453
+License_713,Southland (1),-302.3586256
+License_714,Taranaki (1),-302.7286058
+License_715,Auckland (7),-303.098586
+License_716,Bay Of Plenty (2),-303.4685663
+License_717,Auckland (7),-303.8385465
+License_718,Bay Of Plenty (2),-304.2085267
+License_719,Canterbury (4),-304.578507
+License_720,Gisborne (3),-304.9484872
+License_721,Manawatu Wanganui (6),-305.3184674
+License_722,Marlborough (1),-305.6884477
+License_723,Nelson (1),-306.0584279
+License_724,Northland (1),-306.4284081
+License_725,Otago (3),-306.7983884
+License_726,Southland (1),-307.1683686
+License_727,Taranaki (1),-307.5383489
+License_728,Auckland (7),-307.9083291
+License_729,Bay Of Plenty (2),-308.2783093
+License_730,Auckland (7),-308.6482896
+License_731,Bay Of Plenty (2),-309.0182698
+License_732,Canterbury (4),-309.38825
+License_733,Gisborne (3),-309.7582303
+License_734,Manawatu Wanganui (6),-310.1282105
+License_735,Marlborough (1),-310.4981907
+License_736,Nelson (1),-310.868171
+License_737,Northland (1),-311.2381512
+License_738,Otago (3),-311.6081314
+License_739,Southland (1),-311.9781117
+License_740,Taranaki (1),-312.3480919
+License_741,Auckland (7),-312.7180722
+License_742,Bay Of Plenty (2),-313.0880524
+License_743,Auckland (7),-313.4580326
+License_744,Bay Of Plenty (2),-313.8280129
+License_745,Canterbury (4),-314.1979931
+License_746,Gisborne (3),-314.5679733
+License_747,Manawatu Wanganui (6),-314.9379536
+License_748,Marlborough (1),-315.3079338
+License_749,Nelson (1),-315.677914
+License_750,Northland (1),-316.0478943
+License_751,Otago (3),-316.4178745
+License_752,Southland (1),-316.7878547
+License_753,Taranaki (1),-317.157835
+License_754,Auckland (7),-317.5278152
+License_755,Bay Of Plenty (2),-317.8977955
+License_756,Auckland (7),-318.2677757
+License_757,Bay Of Plenty (2),-318.6377559
+License_758,Canterbury (4),-319.0077362
+License_759,Gisborne (3),-319.3777164
+License_760,Manawatu Wanganui (6),-319.7476966
+License_761,Marlborough (1),-320.1176769
+License_762,Nelson (1),-320.4876571
+License_763,Northland (1),-320.8576373
+License_764,Otago (3),-321.2276176
+License_765,Southland (1),-321.5975978
+License_766,Taranaki (1),-321.967578
+License_767,Auckland (7),-322.3375583
+License_768,Bay Of Plenty (2),-322.7075385
+License_769,Auckland (7),-323.0775188
+License_770,Bay Of Plenty (2),-323.447499
+License_771,Canterbury (4),-323.8174792
+License_772,Gisborne (3),-324.1874595
+License_773,Manawatu Wanganui (6),-324.5574397
+License_774,Marlborough (1),-324.9274199
+License_775,Nelson (1),-325.2974002
+License_776,Northland (1),-325.6673804
+License_777,Otago (3),-326.0373606
+License_778,Southland (1),-326.4073409
+License_779,Taranaki (1),-326.7773211
+License_780,Auckland (7),-327.1473013
+License_781,Bay Of Plenty (2),-327.5172816
+License_782,Auckland (7),-327.8872618
+License_783,Bay Of Plenty (2),-328.2572421
+License_784,Canterbury (4),-328.6272223
+License_785,Gisborne (3),-328.9972025
+License_786,Manawatu Wanganui (6),-329.3671828
+License_787,Marlborough (1),-329.737163
+License_788,Nelson (1),-330.1071432
+License_789,Northland (1),-330.4771235
+License_790,Otago (3),-330.8471037
+License_791,Southland (1),-331.2170839
+License_792,Taranaki (1),-331.5870642
+License_793,Auckland (7),-331.9570444
+License_794,Bay Of Plenty (2),-332.3270246
+License_795,Auckland (7),-332.6970049
+License_796,Bay Of Plenty (2),-333.0669851
+License_797,Canterbury (4),-333.4369654
+License_798,Gisborne (3),-333.8069456
+License_799,Manawatu Wanganui (6),-334.1769258
+License_800,Marlborough (1),-334.5469061
+License_801,Nelson (1),-334.9168863
+License_802,Northland (1),-335.2868665
+License_803,Otago (3),-335.6568468
+License_804,Southland (1),-336.026827
+License_805,Taranaki (1),-336.3968072
+License_806,Auckland (7),-336.7667875
+License_807,Bay Of Plenty (2),-337.1367677
+License_808,Auckland (7),-337.5067479
+License_809,Bay Of Plenty (2),-337.8767282
+License_810,Canterbury (4),-338.2467084
+License_811,Gisborne (3),-338.6166887
+License_812,Manawatu Wanganui (6),-338.9866689
+License_813,Marlborough (1),-339.3566491
+License_814,Nelson (1),-339.7266294
+License_815,Northland (1),-340.0966096
+License_816,Otago (3),-340.4665898
+License_817,Southland (1),-340.8365701
+License_818,Taranaki (1),-341.2065503
+License_819,Auckland (7),-341.5765305
+License_820,Bay Of Plenty (2),-341.9465108
+License_821,Auckland (7),-342.316491
+License_822,Bay Of Plenty (2),-342.6864712
+License_823,Canterbury (4),-343.0564515
+License_824,Gisborne (3),-343.4264317
+License_825,Manawatu Wanganui (6),-343.796412
+License_826,Marlborough (1),-344.1663922
+License_827,Nelson (1),-344.5363724
+License_828,Northland (1),-344.9063527
+License_829,Auckland (7),-345.2763329
+License_830,Bay Of Plenty (2),-345.6463131
+License_831,Canterbury (4),-346.0162934
+License_832,Gisborne (3),-346.3862736
+License_833,Manawatu Wanganui (6),-346.7562538
+License_834,Marlborough (1),-347.1262341
+License_835,Nelson (1),-347.4962143
+License_836,Northland (1),-347.8661945
+License_837,Otago (3),-348.2361748
+License_838,Southland (1),-348.606155
+License_839,Taranaki (1),-348.9761353
+License_840,Auckland (7),-349.3461155
+License_841,Bay Of Plenty (2),-349.7160957
+License_842,Auckland (7),-350.086076
+License_843,Bay Of Plenty (2),-350.4560562
+License_844,Canterbury (4),-350.8260364
+License_845,Gisborne (3),-351.1960167
+License_846,Manawatu Wanganui (6),-351.5659969
+License_847,Marlborough (1),-351.9359771
+License_848,Nelson (1),-352.3059574
+License_849,Northland (1),-352.6759376
+License_850,Otago (3),-353.0459179
+License_851,Southland (1),-353.4158981
+License_852,Taranaki (1),-353.7858783
+License_853,Auckland (7),-354.1558586
+License_854,Bay Of Plenty (2),-354.5258388
+License_855,Auckland (7),-354.895819
+License_856,Bay Of Plenty (2),-355.2657993
+License_857,Canterbury (4),-355.6357795
+License_858,Gisborne (3),-356.0057597
+License_859,Manawatu Wanganui (6),-356.37574
+License_860,Marlborough (1),-356.7457202
+License_861,Nelson (1),-357.1157004
+License_862,Northland (1),-357.4856807
+License_863,Otago (3),-357.8556609
+License_864,Southland (1),-358.2256412
+License_865,Taranaki (1),-358.5956214
+License_866,Auckland (7),-358.9656016
+License_867,Bay Of Plenty (2),-359.3355819
+License_868,Auckland (7),-359.7055621
+License_869,Bay Of Plenty (2),-360.0755423
+License_870,Canterbury (4),-360.4455226
+License_871,Gisborne (3),-360.8155028
+License_872,Manawatu Wanganui (6),-361.185483
+License_873,Marlborough (1),-361.5554633
+License_874,Nelson (1),-361.9254435
+License_875,Northland (1),-362.2954237
+License_876,Otago (3),-362.665404
+License_877,Southland (1),-363.0353842
+License_878,Taranaki (1),-363.4053645
+License_879,Auckland (7),-363.7753447
+License_880,Bay Of Plenty (2),-364.1453249
+License_881,Auckland (7),-364.5153052
+License_882,Bay Of Plenty (2),-364.8852854
+License_883,Canterbury (4),-365.2552656
+License_884,Gisborne (3),-365.6252459
+License_885,Manawatu Wanganui (6),-365.9952261
+License_886,Marlborough (1),-366.3652063
+License_887,Nelson (1),-366.7351866
+License_888,Northland (1),-367.1051668
+License_889,Otago (3),-367.475147
+License_890,Southland (1),-367.8451273
+License_891,Taranaki (1),-368.2151075
+License_892,Auckland (7),-368.5850878
+License_893,Bay Of Plenty (2),-368.955068
+License_894,Auckland (7),-369.3250482
+License_895,Bay Of Plenty (2),-369.6950285
+License_896,Canterbury (4),-370.0650087
+License_897,Gisborne (3),-370.4349889
+License_898,Manawatu Wanganui (6),-370.8049692
+License_899,Marlborough (1),-371.1749494
+License_900,Nelson (1),-371.5449296
+License_901,Northland (1),-371.9149099
+License_902,Otago (3),-372.2848901
+License_903,Southland (1),-372.6548703
+License_904,Taranaki (1),-373.0248506
+License_905,Auckland (7),-373.3948308
+License_906,Bay Of Plenty (2),-373.7648111
+License_907,Auckland (7),-374.1347913
+License_908,Bay Of Plenty (2),-374.5047715
+License_909,Canterbury (4),-374.8747518
+License_910,Gisborne (3),-375.244732
+License_911,Manawatu Wanganui (6),-375.6147122
+License_912,Marlborough (1),-375.9846925
+License_913,Nelson (1),-376.3546727
+License_914,Northland (1),-376.7246529
+License_915,Otago (3),-377.0946332
+License_916,Southland (1),-377.4646134
+License_917,Taranaki (1),-377.8345936
+License_918,Auckland (7),-378.2045739
+License_919,Bay Of Plenty (2),-378.5745541
+License_920,Auckland (7),-378.9445344
+License_921,Bay Of Plenty (2),-379.3145146
+License_922,Canterbury (4),-379.6844948
+License_923,Gisborne (3),-380.0544751
+License_924,Manawatu Wanganui (6),-380.4244553
+License_925,Marlborough (1),-380.7944355
+License_926,Nelson (1),-381.1644158
+License_927,Northland (1),-381.534396
+License_928,Otago (3),-381.9043762
+License_929,Southland (1),-382.2743565
+License_930,Taranaki (1),-382.6443367
+License_931,Auckland (7),-383.0143169
+License_932,Bay Of Plenty (2),-383.3842972
+License_933,Auckland (7),-383.7542774
+License_934,Bay Of Plenty (2),-384.1242577
+License_935,Canterbury (4),-384.4942379
+License_936,Gisborne (3),-384.8642181
+License_937,Manawatu Wanganui (6),-385.2341984
+License_938,Marlborough (1),-385.6041786
+License_939,Nelson (1),-385.9741588
+License_940,Northland (1),-386.3441391
+License_941,Otago (3),-386.7141193
+License_942,Southland (1),-387.0840995
+License_943,Taranaki (1),-387.4540798
+License_944,Auckland (7),-387.82406
+License_945,Bay Of Plenty (2),-388.1940402
+License_946,Auckland (7),-388.5640205
+License_947,Bay Of Plenty (2),-388.9340007
+License_948,Canterbury (4),-389.303981
+License_949,Gisborne (3),-389.6739612
+License_950,Manawatu Wanganui (6),-390.0439414
+License_951,Marlborough (1),-390.4139217
+License_952,Nelson (1),-390.7839019
+License_953,Northland (1),-391.1538821
+License_954,Otago (3),-391.5238624
+License_955,Southland (1),-391.8938426
+License_956,Taranaki (1),-392.2638228
+License_957,Auckland (7),-392.6338031
+License_958,Bay Of Plenty (2),-393.0037833
+License_959,Auckland (7),-393.3737635
+License_960,Bay Of Plenty (2),-393.7437438
+License_961,Canterbury (4),-394.113724
+License_962,Gisborne (3),-394.4837043
+License_963,Manawatu Wanganui (6),-394.8536845
+License_964,Marlborough (1),-395.2236647
+License_965,Nelson (1),-395.593645
+License_966,Northland (1),-395.9636252
+License_967,Auckland (7),-396.3336054
+License_968,Bay Of Plenty (2),-396.7035857
+License_969,Canterbury (4),-397.0735659
+License_970,Gisborne (3),-397.4435461
+License_971,Manawatu Wanganui (6),-397.8135264
+License_972,Marlborough (1),-398.1835066
+License_973,Nelson (1),-398.5534868
+License_974,Northland (1),-398.9234671
+License_975,Otago (3),-399.2934473
+License_976,Southland (1),-399.6634276
+License_977,Taranaki (1),-400.0334078
+License_978,Auckland (7),-400.403388
+License_979,Bay Of Plenty (2),-400.7733683
+License_980,Auckland (7),-401.1433485
+License_981,Bay Of Plenty (2),-401.5133287
+License_982,Canterbury (4),-401.883309
+License_983,Gisborne (3),-402.2532892
+License_984,Manawatu Wanganui (6),-402.6232694
+License_985,Marlborough (1),-402.9932497
+License_986,Nelson (1),-403.3632299
+License_987,Northland (1),-403.7332101
+License_988,Otago (3),-404.1031904
+License_989,Southland (1),-404.4731706
+License_990,Taranaki (1),-404.8431509
+License_991,Auckland (7),-405.2131311
+License_992,Bay Of Plenty (2),-405.5831113
+License_993,Auckland (7),-405.9530916
+License_994,Bay Of Plenty (2),-406.3230718
+License_995,Canterbury (4),-406.693052
+License_996,Gisborne (3),-407.0630323
+License_997,Manawatu Wanganui (6),-407.4330125
+License_998,Marlborough (1),-407.8029927
+License_999,Nelson (1),-408.172973
+License_1000,Northland (1),-408.5429532
+License_1001,Otago (3),-408.9129334
+License_1002,Southland (1),-409.2829137
+License_1003,Taranaki (1),-409.6528939
+License_1004,Auckland (7),-410.0228742
+License_1005,Bay Of Plenty (2),-410.3928544
+License_1006,Auckland (7),-410.7628346
+License_1007,Bay Of Plenty (2),-411.1328149
+License_1008,Canterbury (4),-411.5027951
+License_1009,Gisborne (3),-411.8727753
+License_1010,Manawatu Wanganui (6),-412.2427556
+License_1011,Marlborough (1),-412.6127358
+License_1012,Nelson (1),-412.982716
+License_1013,Northland (1),-413.3526963
+License_1014,Otago (3),-413.7226765
+License_1015,Southland (1),-414.0926567
+License_1016,Taranaki (1),-414.462637
+License_1017,Auckland (7),-414.8326172
+License_1018,Bay Of Plenty (2),-415.2025975
+License_1019,Auckland (7),-415.5725777
+License_1020,Bay Of Plenty (2),-415.9425579
+License_1021,Canterbury (4),-416.3125382
+License_1022,Gisborne (3),-416.6825184
+License_1023,Manawatu Wanganui (6),-417.0524986
+License_1024,Marlborough (1),-417.4224789
+License_1025,Nelson (1),-417.7924591
+License_1026,Northland (1),-418.1624393
+License_1027,Otago (3),-418.5324196
+License_1028,Southland (1),-418.9023998
+License_1029,Taranaki (1),-419.27238
+License_1030,Auckland (7),-419.6423603
+License_1031,Bay Of Plenty (2),-420.0123405
+License_1032,Auckland (7),-420.3823208
+License_1033,Bay Of Plenty (2),-420.752301
+License_1034,Canterbury (4),-421.1222812
+License_1035,Gisborne (3),-421.4922615
+License_1036,Manawatu Wanganui (6),-421.8622417
+License_1037,Marlborough (1),-422.2322219
+License_1038,Nelson (1),-422.6022022
+License_1039,Northland (1),-422.9721824
+License_1040,Otago (3),-423.3421626
+License_1041,Southland (1),-423.7121429
+License_1042,Taranaki (1),-424.0821231
+License_1043,Auckland (7),-424.4521033
+License_1044,Bay Of Plenty (2),-424.8220836
+License_1045,Auckland (7),-425.1920638
+License_1046,Bay Of Plenty (2),-425.5620441
+License_1047,Canterbury (4),-425.9320243
+License_1048,Gisborne (3),-426.3020045
+License_1049,Manawatu Wanganui (6),-426.6719848
+License_1050,Marlborough (1),-427.041965
+License_1051,Nelson (1),-427.4119452
+License_1052,Northland (1),-427.7819255
+License_1053,Otago (3),-428.1519057
+License_1054,Southland (1),-428.5218859
+License_1055,Taranaki (1),-428.8918662
+License_1056,Auckland (7),-429.2618464
+License_1057,Bay Of Plenty (2),-429.6318266
+License_1058,Auckland (7),-430.0018069
+License_1059,Bay Of Plenty (2),-430.3717871
+License_1060,Canterbury (4),-430.7417674
+License_1061,Gisborne (3),-431.1117476
+License_1062,Manawatu Wanganui (6),-431.4817278
+License_1063,Marlborough (1),-431.8517081
+License_1064,Nelson (1),-432.2216883
+License_1065,Northland (1),-432.5916685
+License_1066,Otago (3),-432.9616488
+License_1067,Southland (1),-433.331629
+License_1068,Taranaki (1),-433.7016092
+License_1069,Auckland (7),-434.0715895
+License_1070,Bay Of Plenty (2),-434.4415697
+License_1071,Auckland (7),-434.8115499
+License_1072,Bay Of Plenty (2),-435.1815302
+License_1073,Canterbury (4),-435.5515104
+License_1074,Gisborne (3),-435.9214907
+License_1075,Manawatu Wanganui (6),-436.2914709
+License_1076,Marlborough (1),-436.6614511
+License_1077,Nelson (1),-437.0314314
+License_1078,Northland (1),-437.4014116
+License_1079,Otago (3),-437.7713918
+License_1080,Southland (1),-438.1413721
+License_1081,Taranaki (1),-438.5113523
+License_1082,Auckland (7),-438.8813325
+License_1083,Bay Of Plenty (2),-439.2513128
+License_1084,Auckland (7),-439.621293
+License_1085,Bay Of Plenty (2),-439.9912732
+License_1086,Canterbury (4),-440.3612535
+License_1087,Gisborne (3),-440.7312337
+License_1088,Manawatu Wanganui (6),-441.101214
+License_1089,Marlborough (1),-441.4711942
+License_1090,Nelson (1),-441.8411744
+License_1091,Northland (1),-442.2111547
+License_1092,Otago (3),-442.5811349
+License_1093,Southland (1),-442.9511151
+License_1094,Taranaki (1),-443.3210954
+License_1095,Auckland (7),-443.6910756
+License_1096,Bay Of Plenty (2),-444.0610558
+License_1097,Auckland (7),-444.4310361
+License_1098,Bay Of Plenty (2),-444.8010163
+License_1099,Canterbury (4),-445.1709965
+License_1100,Gisborne (3),-445.5409768
+License_1101,Manawatu Wanganui (6),-445.910957
+License_1102,Marlborough (1),-446.2809373
+License_1103,Nelson (1),-446.6509175
+License_1104,Northland (1),-447.0208977
+License_1105,Auckland (7),-447.390878
+License_1106,Bay Of Plenty (2),-447.7608582
+License_1107,Canterbury (4),-448.1308384
+License_1108,Gisborne (3),-448.5008187
+License_1109,Manawatu Wanganui (6),-448.8707989
+License_1110,Marlborough (1),-449.2407791
+License_1111,Nelson (1),-449.6107594
+License_1112,Northland (1),-449.9807396
+License_1113,Otago (3),-450.3507198
+License_1114,Southland (1),-450.7207001
+License_1115,Taranaki (1),-451.0906803
+License_1116,Auckland (7),-451.4606606
+License_1117,Bay Of Plenty (2),-451.8306408
+License_1118,Auckland (7),-452.200621
+License_1119,Bay Of Plenty (2),-452.5706013
+License_1120,Canterbury (4),-452.9405815
+License_1121,Gisborne (3),-453.3105617
+License_1122,Manawatu Wanganui (6),-453.680542
+License_1123,Marlborough (1),-454.0505222
+License_1124,Nelson (1),-454.4205024
+License_1125,Northland (1),-454.7904827
+License_1126,Otago (3),-455.1604629
+License_1127,Southland (1),-455.5304431
+License_1128,Taranaki (1),-455.9004234
+License_1129,Auckland (7),-456.2704036
+License_1130,Bay Of Plenty (2),-456.6403839
+License_1131,Auckland (7),-457.0103641
+License_1132,Bay Of Plenty (2),-457.3803443
+License_1133,Canterbury (4),-457.7503246
+License_1134,Gisborne (3),-458.1203048
+License_1135,Manawatu Wanganui (6),-458.490285
+License_1136,Marlborough (1),-458.8602653
+License_1137,Nelson (1),-459.2302455
+License_1138,Northland (1),-459.6002257
+License_1139,Otago (3),-459.970206
+License_1140,Southland (1),-460.3401862
+License_1141,Taranaki (1),-460.7101664
+License_1142,Auckland (7),-461.0801467
+License_1143,Bay Of Plenty (2),-461.4501269
+License_1144,Auckland (7),-461.8201072
+License_1145,Bay Of Plenty (2),-462.1900874
+License_1146,Canterbury (4),-462.5600676
+License_1147,Gisborne (3),-462.9300479
+License_1148,Manawatu Wanganui (6),-463.3000281
+License_1149,Marlborough (1),-463.6700083
+License_1150,Nelson (1),-464.0399886
+License_1151,Northland (1),-464.4099688
+License_1152,Otago (3),-464.779949
+License_1153,Southland (1),-465.1499293
+License_1154,Taranaki (1),-465.5199095
+License_1155,Auckland (7),-465.8898897
+License_1156,Bay Of Plenty (2),-466.25987
+License_1157,Auckland (7),-466.6298502
+License_1158,Bay Of Plenty (2),-466.9998305
+License_1159,Canterbury (4),-467.3698107
+License_1160,Gisborne (3),-467.7397909
+License_1161,Manawatu Wanganui (6),-468.1097712
+License_1162,Marlborough (1),-468.4797514
+License_1163,Nelson (1),-468.8497316
+License_1164,Northland (1),-469.2197119
+License_1165,Otago (3),-469.5896921
+License_1166,Southland (1),-469.9596723
+License_1167,Taranaki (1),-470.3296526
+License_1168,Auckland (7),-470.6996328
+License_1169,Bay Of Plenty (2),-471.069613
+License_1170,Auckland (7),-471.4395933
+License_1171,Bay Of Plenty (2),-471.8095735
+License_1172,Canterbury (4),-472.1795538
+License_1173,Gisborne (3),-472.549534
+License_1174,Manawatu Wanganui (6),-472.9195142
+License_1175,Marlborough (1),-473.2894945
+License_1176,Nelson (1),-473.6594747
+License_1177,Northland (1),-474.0294549
+License_1178,Otago (3),-474.3994352
+License_1179,Southland (1),-474.7694154
+License_1180,Taranaki (1),-475.1393956
+License_1181,Auckland (7),-475.5093759
+License_1182,Bay Of Plenty (2),-475.8793561
+License_1183,Auckland (7),-476.2493363
+License_1184,Bay Of Plenty (2),-476.6193166
+License_1185,Canterbury (4),-476.9892968
+License_1186,Gisborne (3),-477.3592771
+License_1187,Manawatu Wanganui (6),-477.7292573
+License_1188,Marlborough (1),-478.0992375
+License_1189,Nelson (1),-478.4692178
+License_1190,Northland (1),-478.839198
+License_1191,Otago (3),-479.2091782
+License_1192,Southland (1),-479.5791585
+License_1193,Taranaki (1),-479.9491387
+License_1194,Auckland (7),-480.3191189
+License_1195,Bay Of Plenty (2),-480.6890992
+License_1196,Auckland (7),-481.0590794
+License_1197,Bay Of Plenty (2),-481.4290596
+License_1198,Canterbury (4),-481.7990399
+License_1199,Gisborne (3),-482.1690201
+License_1200,Manawatu Wanganui (6),-482.5390004
+License_1201,Marlborough (1),-482.9089806
+License_1202,Nelson (1),-483.2789608
+License_1203,Northland (1),-483.6489411
+License_1204,Otago (3),-484.0189213
+License_1205,Southland (1),-484.3889015
+License_1206,Taranaki (1),-484.7588818
+License_1207,Auckland (7),-485.128862
+License_1208,Bay Of Plenty (2),-485.4988422
+License_1209,Auckland (7),-485.8688225
+License_1210,Bay Of Plenty (2),-486.2388027
+License_1211,Canterbury (4),-486.6087829
+License_1212,Gisborne (3),-486.9787632
+License_1213,Manawatu Wanganui (6),-487.3487434
+License_1214,Marlborough (1),-487.7187237
+License_1215,Nelson (1),-488.0887039
+License_1216,Northland (1),-488.4586841
+License_1217,Otago (3),-488.8286644
+License_1218,Southland (1),-489.1986446
+License_1219,Taranaki (1),-489.5686248
+License_1220,Auckland (7),-489.9386051
+License_1221,Bay Of Plenty (2),-490.3085853
+License_1222,Auckland (7),-490.6785655
+License_1223,Bay Of Plenty (2),-491.0485458
+License_1224,Canterbury (4),-491.418526
+License_1225,Gisborne (3),-491.7885062
+License_1226,Manawatu Wanganui (6),-492.1584865
+License_1227,Marlborough (1),-492.5284667
+License_1228,Nelson (1),-492.898447
+License_1229,Northland (1),-493.2684272
+License_1230,Otago (3),-493.6384074
+License_1231,Southland (1),-494.0083877
+License_1232,Taranaki (1),-494.3783679
+License_1233,Auckland (7),-494.7483481
+License_1234,Bay Of Plenty (2),-495.1183284
+License_1235,Auckland (7),-495.4883086
+License_1236,Bay Of Plenty (2),-495.8582888
+License_1237,Canterbury (4),-496.2282691
+License_1238,Gisborne (3),-496.5982493
+License_1239,Manawatu Wanganui (6),-496.9682295
+License_1240,Marlborough (1),-497.3382098
+License_1241,Nelson (1),-497.70819
+License_1242,Northland (1),-498.0781703
+License_1243,Auckland (7),-498.4481505
+License_1244,Bay Of Plenty (2),-498.8181307
+License_1245,Canterbury (4),-499.188111
+License_1246,Gisborne (3),-499.5580912
+License_1247,Manawatu Wanganui (6),-499.9280714
+License_1248,Marlborough (1),-500.2980517
+License_1249,Nelson (1),-500.6680319
+License_1250,Northland (1),-501.0380121
+License_1251,Otago (3),-501.4079924
+License_1252,Southland (1),-501.7779726
+License_1253,Taranaki (1),-502.1479528
+License_1254,Auckland (7),-502.5179331
+License_1255,Bay Of Plenty (2),-502.8879133
+License_1256,Auckland (7),-503.2578936
+License_1257,Bay Of Plenty (2),-503.6278738
+License_1258,Canterbury (4),-503.997854
+License_1259,Gisborne (3),-504.3678343
+License_1260,Manawatu Wanganui (6),-504.7378145
+License_1261,Marlborough (1),-505.1077947
+License_1262,Nelson (1),-505.477775
+License_1263,Northland (1),-505.8477552
+License_1264,Otago (3),-506.2177354
+License_1265,Southland (1),-506.5877157
+License_1266,Taranaki (1),-506.9576959
+License_1267,Auckland (7),-507.3276761
+License_1268,Bay Of Plenty (2),-507.6976564
+License_1269,Auckland (7),-508.0676366
+License_1270,Bay Of Plenty (2),-508.4376169
+License_1271,Canterbury (4),-508.8075971
+License_1272,Gisborne (3),-509.1775773
+License_1273,Manawatu Wanganui (6),-509.5475576
+License_1274,Marlborough (1),-509.9175378
+License_1275,Nelson (1),-510.287518
+License_1276,Northland (1),-510.6574983
+License_1277,Otago (3),-511.0274785
+License_1278,Southland (1),-511.3974587
+License_1279,Taranaki (1),-511.767439
+License_1280,Auckland (7),-512.1374192
+License_1281,Bay Of Plenty (2),-512.5073994
+License_1282,Auckland (7),-512.8773797
+License_1283,Bay Of Plenty (2),-513.2473599
+License_1284,Canterbury (4),-513.6173402
+License_1285,Gisborne (3),-513.9873204
+License_1286,Manawatu Wanganui (6),-514.3573006
+License_1287,Marlborough (1),-514.7272809
+License_1288,Nelson (1),-515.0972611
+License_1289,Northland (1),-515.4672413
+License_1290,Otago (3),-515.8372216
+License_1291,Southland (1),-516.2072018
+License_1292,Taranaki (1),-516.577182
+License_1293,Auckland (7),-516.9471623
+License_1294,Bay Of Plenty (2),-517.3171425
+License_1295,Auckland (7),-517.6871227
+License_1296,Bay Of Plenty (2),-518.057103
+License_1297,Canterbury (4),-518.4270832
+License_1298,Gisborne (3),-518.7970635
+License_1299,Manawatu Wanganui (6),-519.1670437
+License_1300,Marlborough (1),-519.5370239
+License_1301,Nelson (1),-519.9070042
+License_1302,Northland (1),-520.2769844
+License_1303,Otago (3),-520.6469646
+License_1304,Southland (1),-521.0169449
+License_1305,Taranaki (1),-521.3869251
+License_1306,Auckland (7),-521.7569053
+License_1307,Bay Of Plenty (2),-522.1268856
+License_1308,Auckland (7),-522.4968658
+License_1309,Bay Of Plenty (2),-522.866846
+License_1310,Canterbury (4),-523.2368263
+License_1311,Gisborne (3),-523.6068065
+License_1312,Manawatu Wanganui (6),-523.9767868
+License_1313,Marlborough (1),-524.346767
+License_1314,Nelson (1),-524.7167472
+License_1315,Northland (1),-525.0867275
+License_1316,Otago (3),-525.4567077
+License_1317,Southland (1),-525.8266879
+License_1318,Taranaki (1),-526.1966682
+License_1319,Auckland (7),-526.5666484
+License_1320,Bay Of Plenty (2),-526.9366286
+License_1321,Auckland (7),-527.3066089
+License_1322,Bay Of Plenty (2),-527.6765891
+License_1323,Canterbury (4),-528.0465693
+License_1324,Gisborne (3),-528.4165496
+License_1325,Manawatu Wanganui (6),-528.7865298
+License_1326,Marlborough (1),-529.1565101
+License_1327,Nelson (1),-529.5264903
+License_1328,Northland (1),-529.8964705
+License_1329,Otago (3),-530.2664508
+License_1330,Southland (1),-530.636431
+License_1331,Taranaki (1),-531.0064112
+License_1332,Auckland (7),-531.3763915
+License_1333,Bay Of Plenty (2),-531.7463717
+License_1334,Auckland (7),-532.1163519
+License_1335,Bay Of Plenty (2),-532.4863322
+License_1336,Canterbury (4),-532.8563124
+License_1337,Gisborne (3),-533.2262926
+License_1338,Manawatu Wanganui (6),-533.5962729
+License_1339,Marlborough (1),-533.9662531
+License_1340,Nelson (1),-534.3362334
+License_1341,Northland (1),-534.7062136
+License_1342,Otago (3),-535.0761938
+License_1343,Southland (1),-535.4461741
+License_1344,Taranaki (1),-535.8161543
+License_1345,Auckland (7),-536.1861345
+License_1346,Bay Of Plenty (2),-536.5561148
+License_1347,Auckland (7),-536.926095
+License_1348,Bay Of Plenty (2),-537.2960752
+License_1349,Canterbury (4),-537.6660555
+License_1350,Gisborne (3),-538.0360357
+License_1351,Manawatu Wanganui (6),-538.4060159
+License_1352,Marlborough (1),-538.7759962
+License_1353,Nelson (1),-539.1459764
+License_1354,Northland (1),-539.5159567
+License_1355,Otago (3),-539.8859369
+License_1356,Southland (1),-540.2559171
+License_1357,Taranaki (1),-540.6258974
+License_1358,Auckland (7),-540.9958776
+License_1359,Bay Of Plenty (2),-541.3658578
+License_1360,Auckland (7),-541.7358381
+License_1361,Bay Of Plenty (2),-542.1058183
+License_1362,Canterbury (4),-542.4757985
+License_1363,Gisborne (3),-542.8457788
+License_1364,Manawatu Wanganui (6),-543.215759
+License_1365,Marlborough (1),-543.5857392
+License_1366,Nelson (1),-543.9557195
+License_1367,Northland (1),-544.3256997
+License_1368,Otago (3),-544.69568
+License_1369,Southland (1),-545.0656602
+License_1370,Taranaki (1),-545.4356404
+License_1371,Auckland (7),-545.8056207
+License_1372,Bay Of Plenty (2),-546.1756009
+License_1373,Auckland (7),-546.5455811
+License_1374,Bay Of Plenty (2),-546.9155614
+License_1375,Canterbury (4),-547.2855416
+License_1376,Gisborne (3),-547.6555218
+License_1377,Manawatu Wanganui (6),-548.0255021
+License_1378,Marlborough (1),-548.3954823
+License_1379,Nelson (1),-548.7654625
+License_1380,Northland (1),-549.1354428
+License_1381,Auckland (7),-549.505423
+License_1382,Bay Of Plenty (2),-549.8754033
+License_1383,Canterbury (4),-550.2453835
+License_1384,Gisborne (3),-550.6153637
+License_1385,Manawatu Wanganui (6),-550.985344
+License_1386,Marlborough (1),-551.3553242
+License_1387,Nelson (1),-551.7253044
+License_1388,Northland (1),-552.0952847
+License_1389,Otago (3),-552.4652649
+License_1390,Southland (1),-552.8352451
+License_1391,Taranaki (1),-553.2052254
+License_1392,Auckland (7),-553.5752056
+License_1393,Bay Of Plenty (2),-553.9451859
+License_1394,Auckland (7),-554.3151661
+License_1395,Bay Of Plenty (2),-554.6851463
+License_1396,Canterbury (4),-555.0551266
+License_1397,Gisborne (3),-555.4251068
+License_1398,Manawatu Wanganui (6),-555.795087
+License_1399,Marlborough (1),-556.1650673
+License_1400,Nelson (1),-556.5350475
+License_1401,Northland (1),-556.9050277
+License_1402,Otago (3),-557.275008
+License_1403,Southland (1),-557.6449882
+License_1404,Taranaki (1),-558.0149684
+License_1405,Auckland (7),-558.3849487
+License_1406,Bay Of Plenty (2),-558.7549289
+License_1407,Auckland (7),-559.1249092
+License_1408,Bay Of Plenty (2),-559.4948894
+License_1409,Canterbury (4),-559.8648696
+License_1410,Gisborne (3),-560.2348499
+License_1411,Manawatu Wanganui (6),-560.6048301
+License_1412,Marlborough (1),-560.9748103
+License_1413,Nelson (1),-561.3447906
+License_1414,Northland (1),-561.7147708
+License_1415,Otago (3),-562.084751
+License_1416,Southland (1),-562.4547313
+License_1417,Taranaki (1),-562.8247115
+License_1418,Auckland (7),-563.1946917
+License_1419,Bay Of Plenty (2),-563.564672
+License_1420,Auckland (7),-563.9346522
+License_1421,Bay Of Plenty (2),-564.3046325
+License_1422,Canterbury (4),-564.6746127
+License_1423,Gisborne (3),-565.0445929
+License_1424,Manawatu Wanganui (6),-565.4145732
+License_1425,Marlborough (1),-565.7845534
+License_1426,Nelson (1),-566.1545336
+License_1427,Northland (1),-566.5245139
+License_1428,Otago (3),-566.8944941
+License_1429,Southland (1),-567.2644743
+License_1430,Taranaki (1),-567.6344546
+License_1431,Auckland (7),-568.0044348
+License_1432,Bay Of Plenty (2),-568.374415
+License_1433,Auckland (7),-568.7443953
+License_1434,Bay Of Plenty (2),-569.1143755
+License_1435,Canterbury (4),-569.4843558
+License_1436,Gisborne (3),-569.854336
+License_1437,Manawatu Wanganui (6),-570.2243162
+License_1438,Marlborough (1),-570.5942965
+License_1439,Nelson (1),-570.9642767
+License_1440,Northland (1),-571.3342569
+License_1441,Otago (3),-571.7042372
+License_1442,Southland (1),-572.0742174
+License_1443,Taranaki (1),-572.4441976
+License_1444,Auckland (7),-572.8141779
+License_1445,Bay Of Plenty (2),-573.1841581
+License_1446,Auckland (7),-573.5541383
+License_1447,Bay Of Plenty (2),-573.9241186
+License_1448,Canterbury (4),-574.2940988
+License_1449,Gisborne (3),-574.6640791
+License_1450,Manawatu Wanganui (6),-575.0340593
+License_1451,Marlborough (1),-575.4040395
+License_1452,Nelson (1),-575.7740198
+License_1453,Northland (1),-576.144
+License_1454,Otago (3),-576.5139802
+License_1455,Southland (1),-576.8839605
+License_1456,Taranaki (1),-577.2539407
+License_1457,Auckland (7),-577.6239209
+License_1458,Bay Of Plenty (2),-577.9939012
+License_1459,Auckland (7),-578.3638814
+License_1460,Bay Of Plenty (2),-578.7338616
+License_1461,Canterbury (4),-579.1038419
+License_1462,Gisborne (3),-579.4738221
+License_1463,Manawatu Wanganui (6),-579.8438024
+License_1464,Marlborough (1),-580.2137826
+License_1465,Nelson (1),-580.5837628
+License_1466,Northland (1),-580.9537431
+License_1467,Otago (3),-581.3237233
+License_1468,Southland (1),-581.6937035
+License_1469,Taranaki (1),-582.0636838
+License_1470,Auckland (7),-582.433664
+License_1471,Bay Of Plenty (2),-582.8036442
+License_1472,Auckland (7),-583.1736245
+License_1473,Bay Of Plenty (2),-583.5436047
+License_1474,Canterbury (4),-583.9135849
+License_1475,Gisborne (3),-584.2835652
+License_1476,Manawatu Wanganui (6),-584.6535454
+License_1477,Marlborough (1),-585.0235257
+License_1478,Nelson (1),-585.3935059
+License_1479,Northland (1),-585.7634861
+License_1480,Otago (3),-586.1334664
+License_1481,Southland (1),-586.5034466
+License_1482,Taranaki (1),-586.8734268
+License_1483,Auckland (7),-587.2434071
+License_1484,Bay Of Plenty (2),-587.6133873
+License_1485,Auckland (7),-587.9833675
+License_1486,Bay Of Plenty (2),-588.3533478
+License_1487,Canterbury (4),-588.723328
+License_1488,Gisborne (3),-589.0933082
+License_1489,Manawatu Wanganui (6),-589.4632885
+License_1490,Marlborough (1),-589.8332687
+License_1491,Nelson (1),-590.203249
+License_1492,Northland (1),-590.5732292
+License_1493,Otago (3),-590.9432094
+License_1494,Southland (1),-591.3131897
+License_1495,Taranaki (1),-591.6831699
+License_1496,Auckland (7),-592.0531501
+License_1497,Bay Of Plenty (2),-592.4231304
+License_1498,Auckland (7),-592.7931106
+License_1499,Bay Of Plenty (2),-593.1630908
+License_1500,Canterbury (4),-593.5330711
+License_1501,Gisborne (3),-593.9030513
+License_1502,Manawatu Wanganui (6),-594.2730315
+License_1503,Marlborough (1),-594.6430118
+License_1504,Nelson (1),-595.012992
+License_1505,Northland (1),-595.3829723
+License_1506,Otago (3),-595.7529525
+License_1507,Southland (1),-596.1229327
+License_1508,Taranaki (1),-596.492913
+License_1509,Auckland (7),-596.8628932
+License_1510,Bay Of Plenty (2),-597.2328734
+License_1511,Auckland (7),-597.6028537
+License_1512,Bay Of Plenty (2),-597.9728339
+License_1513,Canterbury (4),-598.3428141
+License_1514,Gisborne (3),-598.7127944
+License_1515,Manawatu Wanganui (6),-599.0827746
+License_1516,Marlborough (1),-599.4527548
+License_1517,Nelson (1),-599.8227351
+License_1518,Northland (1),-600.1927153
+License_1519,Auckland (7),-600.5626956
+License_1520,Bay Of Plenty (2),-600.9326758
+License_1521,Canterbury (4),-601.302656
+License_1522,Gisborne (3),-601.6726363
+License_1523,Manawatu Wanganui (6),-602.0426165
+License_1524,Marlborough (1),-602.4125967
+License_1525,Nelson (1),-602.782577
+License_1526,Northland (1),-603.1525572
+License_1527,Otago (3),-603.5225374
+License_1528,Southland (1),-603.8925177
+License_1529,Taranaki (1),-604.2624979
+License_1530,Auckland (7),-604.6324781
+License_1531,Bay Of Plenty (2),-605.0024584
+License_1532,Auckland (7),-605.3724386
+License_1533,Bay Of Plenty (2),-605.7424189
+License_1534,Canterbury (4),-606.1123991
+License_1535,Gisborne (3),-606.4823793
+License_1536,Manawatu Wanganui (6),-606.8523596
+License_1537,Marlborough (1),-607.2223398
+License_1538,Nelson (1),-607.59232
+License_1539,Northland (1),-607.9623003
+License_1540,Otago (3),-608.3322805
+License_1541,Southland (1),-608.7022607
+License_1542,Taranaki (1),-609.072241
+License_1543,Auckland (7),-609.4422212
+License_1544,Bay Of Plenty (2),-609.8122014
+License_1545,Auckland (7),-610.1821817
+License_1546,Bay Of Plenty (2),-610.5521619
+License_1547,Canterbury (4),-610.9221422
+License_1548,Gisborne (3),-611.2921224
+License_1549,Manawatu Wanganui (6),-611.6621026
+License_1550,Marlborough (1),-612.0320829
+License_1551,Nelson (1),-612.4020631
+License_1552,Northland (1),-612.7720433
+License_1553,Otago (3),-613.1420236
+License_1554,Southland (1),-613.5120038
+License_1555,Taranaki (1),-613.881984
+License_1556,Auckland (7),-614.2519643
+License_1557,Bay Of Plenty (2),-614.6219445
+License_1558,Auckland (7),-614.9919247
+License_1559,Bay Of Plenty (2),-615.361905
+License_1560,Canterbury (4),-615.7318852
+License_1561,Gisborne (3),-616.1018655
+License_1562,Manawatu Wanganui (6),-616.4718457
+License_1563,Marlborough (1),-616.8418259
+License_1564,Nelson (1),-617.2118062
+License_1565,Northland (1),-617.5817864
+License_1566,Otago (3),-617.9517666
+License_1567,Southland (1),-618.3217469
+License_1568,Taranaki (1),-618.6917271
+License_1569,Auckland (7),-619.0617073
+License_1570,Bay Of Plenty (2),-619.4316876
+License_1571,Auckland (7),-619.8016678
+License_1572,Bay Of Plenty (2),-620.171648
+License_1573,Canterbury (4),-620.5416283
+License_1574,Gisborne (3),-620.9116085
+License_1575,Manawatu Wanganui (6),-621.2815888
+License_1576,Marlborough (1),-621.651569
+License_1577,Nelson (1),-622.0215492
+License_1578,Northland (1),-622.3915295
+License_1579,Otago (3),-622.7615097
+License_1580,Southland (1),-623.1314899
+License_1581,Taranaki (1),-623.5014702
+License_1582,Auckland (7),-623.8714504
+License_1583,Bay Of Plenty (2),-624.2414306
+License_1584,Auckland (7),-624.6114109
+License_1585,Bay Of Plenty (2),-624.9813911
+License_1586,Canterbury (4),-625.3513713
+License_1587,Gisborne (3),-625.7213516
+License_1588,Manawatu Wanganui (6),-626.0913318
+License_1589,Marlborough (1),-626.4613121
+License_1590,Nelson (1),-626.8312923
+License_1591,Northland (1),-627.2012725
+License_1592,Otago (3),-627.5712528
+License_1593,Southland (1),-627.941233
+License_1594,Taranaki (1),-628.3112132
+License_1595,Auckland (7),-628.6811935
+License_1596,Bay Of Plenty (2),-629.0511737
+License_1597,Auckland (7),-629.4211539
+License_1598,Bay Of Plenty (2),-629.7911342
+License_1599,Canterbury (4),-630.1611144
+License_1600,Gisborne (3),-630.5310946
+License_1601,Manawatu Wanganui (6),-630.9010749
+License_1602,Marlborough (1),-631.2710551
+License_1603,Nelson (1),-631.6410354
+License_1604,Northland (1),-632.0110156
+License_1605,Otago (3),-632.3809958
+License_1606,Southland (1),-632.7509761
+License_1607,Taranaki (1),-633.1209563
+License_1608,Auckland (7),-633.4909365
+License_1609,Bay Of Plenty (2),-633.8609168
+License_1610,Auckland (7),-634.230897
+License_1611,Bay Of Plenty (2),-634.6008772
+License_1612,Canterbury (4),-634.9708575
+License_1613,Gisborne (3),-635.3408377
+License_1614,Manawatu Wanganui (6),-635.7108179
+License_1615,Marlborough (1),-636.0807982
+License_1616,Nelson (1),-636.4507784
+License_1617,Northland (1),-636.8207587
+License_1618,Otago (3),-637.1907389
+License_1619,Southland (1),-637.5607191
+License_1620,Taranaki (1),-637.9306994
+License_1621,Auckland (7),-638.3006796
+License_1622,Bay Of Plenty (2),-638.6706598
+License_1623,Auckland (7),-639.0406401
+License_1624,Bay Of Plenty (2),-639.4106203
+License_1625,Canterbury (4),-639.7806005
+License_1626,Gisborne (3),-640.1505808
+License_1627,Manawatu Wanganui (6),-640.520561
+License_1628,Marlborough (1),-640.8905412
+License_1629,Nelson (1),-641.2605215
+License_1630,Northland (1),-641.6305017
+License_1631,Otago (3),-642.000482
+License_1632,Southland (1),-642.3704622
+License_1633,Taranaki (1),-642.7404424
+License_1634,Auckland (7),-643.1104227
+License_1635,Bay Of Plenty (2),-643.4804029
+License_1636,Auckland (7),-643.8503831
+License_1637,Bay Of Plenty (2),-644.2203634
+License_1638,Canterbury (4),-644.5903436
+License_1639,Gisborne (3),-644.9603238
+License_1640,Manawatu Wanganui (6),-645.3303041
+License_1641,Marlborough (1),-645.7002843
+License_1642,Nelson (1),-646.0702645
+License_1643,Northland (1),-646.4402448
+License_1644,Otago (3),-646.810225
+License_1645,Southland (1),-647.1802053
+License_1646,Taranaki (1),-647.5501855
+License_1647,Auckland (7),-647.9201657
+License_1648,Bay Of Plenty (2),-648.290146
+License_1649,Auckland (7),-648.6601262
+License_1650,Bay Of Plenty (2),-649.0301064
+License_1651,Canterbury (4),-649.4000867
+License_1652,Gisborne (3),-649.7700669
+License_1653,Manawatu Wanganui (6),-650.1400471
+License_1654,Marlborough (1),-650.5100274
+License_1655,Nelson (1),-650.8800076
+License_1656,Northland (1),-651.2499878
+License_1657,Auckland (7),-651.6199681
+License_1658,Bay Of Plenty (2),-651.9899483
+License_1659,Canterbury (4),-652.3599286
+License_1660,Gisborne (3),-652.7299088
+License_1661,Manawatu Wanganui (6),-653.099889
+License_1662,Marlborough (1),-653.4698693
+License_1663,Nelson (1),-653.8398495
+License_1664,Northland (1),-654.2098297
+License_1665,Otago (3),-654.57981
+License_1666,Southland (1),-654.9497902
+License_1667,Taranaki (1),-655.3197704
+License_1668,Auckland (7),-655.6897507
+License_1669,Bay Of Plenty (2),-656.0597309
+License_1670,Auckland (7),-656.4297111
+License_1671,Bay Of Plenty (2),-656.7996914
+License_1672,Canterbury (4),-657.1696716
+License_1673,Gisborne (3),-657.5396519
+License_1674,Manawatu Wanganui (6),-657.9096321
+License_1675,Marlborough (1),-658.2796123
+License_1676,Nelson (1),-658.6495926
+License_1677,Northland (1),-659.0195728
+License_1678,Otago (3),-659.389553
+License_1679,Southland (1),-659.7595333
+License_1680,Taranaki (1),-660.1295135
+License_1681,Auckland (7),-660.4994937
+License_1682,Bay Of Plenty (2),-660.869474
+License_1683,Auckland (7),-661.2394542
+License_1684,Bay Of Plenty (2),-661.6094344
+License_1685,Canterbury (4),-661.9794147
+License_1686,Gisborne (3),-662.3493949
+License_1687,Manawatu Wanganui (6),-662.7193752
+License_1688,Marlborough (1),-663.0893554
+License_1689,Nelson (1),-663.4593356
+License_1690,Northland (1),-663.8293159
+License_1691,Otago (3),-664.1992961
+License_1692,Southland (1),-664.5692763
+License_1693,Taranaki (1),-664.9392566
+License_1694,Auckland (7),-665.3092368
+License_1695,Bay Of Plenty (2),-665.679217
+License_1696,Auckland (7),-666.0491973
+License_1697,Bay Of Plenty (2),-666.4191775
+License_1698,Canterbury (4),-666.7891577
+License_1699,Gisborne (3),-667.159138
+License_1700,Manawatu Wanganui (6),-667.5291182
+License_1701,Marlborough (1),-667.8990985
+License_1702,Nelson (1),-668.2690787
+License_1703,Northland (1),-668.6390589
+License_1704,Otago (3),-669.0090392
+License_1705,Southland (1),-669.3790194
+License_1706,Taranaki (1),-669.7489996
+License_1707,Auckland (7),-670.1189799
+License_1708,Bay Of Plenty (2),-670.4889601
+License_1709,Auckland (7),-670.8589403
+License_1710,Bay Of Plenty (2),-671.2289206
+License_1711,Canterbury (4),-671.5989008
+License_1712,Gisborne (3),-671.968881
+License_1713,Manawatu Wanganui (6),-672.3388613
+License_1714,Marlborough (1),-672.7088415
+License_1715,Nelson (1),-673.0788218
+License_1716,Northland (1),-673.448802
+License_1717,Otago (3),-673.8187822
+License_1718,Southland (1),-674.1887625
+License_1719,Taranaki (1),-674.5587427
+License_1720,Auckland (7),-674.9287229
+License_1721,Bay Of Plenty (2),-675.2987032
+License_1722,Auckland (7),-675.6686834
+License_1723,Bay Of Plenty (2),-676.0386636
+License_1724,Canterbury (4),-676.4086439
+License_1725,Gisborne (3),-676.7786241
+License_1726,Manawatu Wanganui (6),-677.1486043
+License_1727,Marlborough (1),-677.5185846
+License_1728,Nelson (1),-677.8885648
+License_1729,Northland (1),-678.2585451
+License_1730,Otago (3),-678.6285253
+License_1731,Southland (1),-678.9985055
+License_1732,Taranaki (1),-679.3684858
+License_1733,Auckland (7),-679.738466
+License_1734,Bay Of Plenty (2),-680.1084462
+License_1735,Auckland (7),-680.4784265
+License_1736,Bay Of Plenty (2),-680.8484067
+License_1737,Canterbury (4),-681.2183869
+License_1738,Gisborne (3),-681.5883672
+License_1739,Manawatu Wanganui (6),-681.9583474
+License_1740,Marlborough (1),-682.3283276
+License_1741,Nelson (1),-682.6983079
+License_1742,Northland (1),-683.0682881
+License_1743,Otago (3),-683.4382684
+License_1744,Southland (1),-683.8082486
+License_1745,Taranaki (1),-684.1782288
+License_1746,Auckland (7),-684.5482091
+License_1747,Bay Of Plenty (2),-684.9181893
+License_1748,Auckland (7),-685.2881695
+License_1749,Bay Of Plenty (2),-685.6581498
+License_1750,Canterbury (4),-686.02813
+License_1751,Gisborne (3),-686.3981102
+License_1752,Manawatu Wanganui (6),-686.7680905
+License_1753,Marlborough (1),-687.1380707
+License_1754,Nelson (1),-687.5080509
+License_1755,Northland (1),-687.8780312
+License_1756,Otago (3),-688.2480114
+License_1757,Southland (1),-688.6179917
+License_1758,Taranaki (1),-688.9879719
+License_1759,Auckland (7),-689.3579521
+License_1760,Bay Of Plenty (2),-689.7279324
+License_1761,Auckland (7),-690.0979126
+License_1762,Bay Of Plenty (2),-690.4678928
+License_1763,Canterbury (4),-690.8378731
+License_1764,Gisborne (3),-691.2078533
+License_1765,Manawatu Wanganui (6),-691.5778335
+License_1766,Marlborough (1),-691.9478138
+License_1767,Nelson (1),-692.317794
+License_1768,Northland (1),-692.6877742
+License_1769,Otago (3),-693.0577545
+License_1770,Southland (1),-693.4277347
+License_1771,Taranaki (1),-693.797715
+License_1772,Auckland (7),-694.1676952
+License_1773,Bay Of Plenty (2),-694.5376754
+License_1774,Auckland (7),-694.9076557
+License_1775,Bay Of Plenty (2),-695.2776359
+License_1776,Canterbury (4),-695.6476161
+License_1777,Gisborne (3),-696.0175964
+License_1778,Manawatu Wanganui (6),-696.3875766
+License_1779,Marlborough (1),-696.7575568
+License_1780,Nelson (1),-697.1275371
+License_1781,Northland (1),-697.4975173
+License_1782,Otago (3),-697.8674975
+License_1783,Southland (1),-698.2374778
+License_1784,Taranaki (1),-698.607458
+License_1785,Auckland (7),-698.9774383
+License_1786,Bay Of Plenty (2),-699.3474185
+License_1787,Auckland (7),-699.7173987
+License_1788,Bay Of Plenty (2),-700.087379
+License_1789,Canterbury (4),-700.4573592
+License_1790,Gisborne (3),-700.8273394
+License_1791,Manawatu Wanganui (6),-701.1973197
+License_1792,Marlborough (1),-701.5672999
+License_1793,Nelson (1),-701.9372801
+License_1794,Northland (1),-702.3072604
+License_1795,Auckland (7),-702.6772406
+License_1796,Bay Of Plenty (2),-703.0472208
+License_1797,Canterbury (4),-703.4172011
+License_1798,Gisborne (3),-703.7871813
+License_1799,Manawatu Wanganui (6),-704.1571616
+License_1800,Marlborough (1),-704.5271418
+License_1801,Nelson (1),-704.897122
+License_1802,Northland (1),-705.2671023
+License_1803,Otago (3),-705.6370825
+License_1804,Southland (1),-706.0070627
+License_1805,Taranaki (1),-706.377043
+License_1806,Auckland (7),-706.7470232
+License_1807,Bay Of Plenty (2),-707.1170034
+License_1808,Auckland (7),-707.4869837
+License_1809,Bay Of Plenty (2),-707.8569639
+License_1810,Canterbury (4),-708.2269441
+License_1811,Gisborne (3),-708.5969244
+License_1812,Manawatu Wanganui (6),-708.9669046
+License_1813,Marlborough (1),-709.3368849
+License_1814,Nelson (1),-709.7068651
+License_1815,Northland (1),-710.0768453
+License_1816,Otago (3),-710.4468256
+License_1817,Southland (1),-710.8168058
+License_1818,Taranaki (1),-711.186786
+License_1819,Auckland (7),-711.5567663
+License_1820,Bay Of Plenty (2),-711.9267465
+License_1821,Auckland (7),-712.2967267
+License_1822,Bay Of Plenty (2),-712.666707
+License_1823,Canterbury (4),-713.0366872
+License_1824,Gisborne (3),-713.4066674
+License_1825,Manawatu Wanganui (6),-713.7766477
+License_1826,Marlborough (1),-714.1466279
+License_1827,Nelson (1),-714.5166082
+License_1828,Northland (1),-714.8865884
+License_1829,Otago (3),-715.2565686
+License_1830,Southland (1),-715.6265489
+License_1831,Taranaki (1),-715.9965291
+License_1832,Auckland (7),-716.3665093
+License_1833,Bay Of Plenty (2),-716.7364896
+License_1834,Auckland (7),-717.1064698
+License_1835,Bay Of Plenty (2),-717.47645
+License_1836,Canterbury (4),-717.8464303
+License_1837,Gisborne (3),-718.2164105
+License_1838,Manawatu Wanganui (6),-718.5863907
+License_1839,Marlborough (1),-718.956371
+License_1840,Nelson (1),-719.3263512
+License_1841,Northland (1),-719.6963315
+License_1842,Otago (3),-720.0663117
+License_1843,Southland (1),-720.4362919
+License_1844,Taranaki (1),-720.8062722
+License_1845,Auckland (7),-721.1762524
+License_1846,Bay Of Plenty (2),-721.5462326
+License_1847,Auckland (7),-721.9162129
+License_1848,Bay Of Plenty (2),-722.2861931
+License_1849,Canterbury (4),-722.6561733
+License_1850,Gisborne (3),-723.0261536
+License_1851,Manawatu Wanganui (6),-723.3961338
+License_1852,Marlborough (1),-723.766114
+License_1853,Nelson (1),-724.1360943
+License_1854,Northland (1),-724.5060745
+License_1855,Otago (3),-724.8760548
+License_1856,Southland (1),-725.246035
+License_1857,Taranaki (1),-725.6160152
+License_1858,Auckland (7),-725.9859955
+License_1859,Bay Of Plenty (2),-726.3559757
+License_1860,Auckland (7),-726.7259559
+License_1861,Bay Of Plenty (2),-727.0959362
+License_1862,Canterbury (4),-727.4659164
+License_1863,Gisborne (3),-727.8358966
+License_1864,Manawatu Wanganui (6),-728.2058769
+License_1865,Marlborough (1),-728.5758571
+License_1866,Nelson (1),-728.9458373
+License_1867,Northland (1),-729.3158176
+License_1868,Otago (3),-729.6857978
+License_1869,Southland (1),-730.0557781
+License_1870,Taranaki (1),-730.4257583
+License_1871,Auckland (7),-730.7957385
+License_1872,Bay Of Plenty (2),-731.1657188
+License_1873,Auckland (7),-731.535699
+License_1874,Bay Of Plenty (2),-731.9056792
+License_1875,Canterbury (4),-732.2756595
+License_1876,Gisborne (3),-732.6456397
+License_1877,Manawatu Wanganui (6),-733.0156199
+License_1878,Marlborough (1),-733.3856002
+License_1879,Nelson (1),-733.7555804
+License_1880,Northland (1),-734.1255606
+License_1881,Otago (3),-734.4955409
+License_1882,Southland (1),-734.8655211
+License_1883,Taranaki (1),-735.2355014
+License_1884,Auckland (7),-735.6054816
+License_1885,Bay Of Plenty (2),-735.9754618
+License_1886,Auckland (7),-736.3454421
+License_1887,Bay Of Plenty (2),-736.7154223
+License_1888,Canterbury (4),-737.0854025
+License_1889,Gisborne (3),-737.4553828
+License_1890,Manawatu Wanganui (6),-737.825363
+License_1891,Marlborough (1),-738.1953432
+License_1892,Nelson (1),-738.5653235
+License_1893,Northland (1),-738.9353037
+License_1894,Otago (3),-739.3052839
+License_1895,Southland (1),-739.6752642
+License_1896,Taranaki (1),-740.0452444
+License_1897,Auckland (7),-740.4152247
+License_1898,Bay Of Plenty (2),-740.7852049
+License_1899,Auckland (7),-741.1551851
+License_1900,Bay Of Plenty (2),-741.5251654
+License_1901,Canterbury (4),-741.8951456
+License_1902,Gisborne (3),-742.2651258
+License_1903,Manawatu Wanganui (6),-742.6351061
+License_1904,Marlborough (1),-743.0050863
+License_1905,Nelson (1),-743.3750665
+License_1906,Northland (1),-743.7450468
+License_1907,Otago (3),-744.115027
+License_1908,Southland (1),-744.4850072
+License_1909,Taranaki (1),-744.8549875
+License_1910,Auckland (7),-745.2249677
+License_1911,Bay Of Plenty (2),-745.594948
+License_1912,Auckland (7),-745.9649282
+License_1913,Bay Of Plenty (2),-746.3349084
+License_1914,Canterbury (4),-746.7048887
+License_1915,Gisborne (3),-747.0748689
+License_1916,Manawatu Wanganui (6),-747.4448491
+License_1917,Marlborough (1),-747.8148294
+License_1918,Nelson (1),-748.1848096
+License_1919,Northland (1),-748.5547898
+License_1920,Otago (3),-748.9247701
+License_1921,Southland (1),-749.2947503
+License_1922,Taranaki (1),-749.6647305
+License_1923,Auckland (7),-750.0347108
+License_1924,Bay Of Plenty (2),-750.404691
+License_1925,Auckland (7),-750.7746713
+License_1926,Bay Of Plenty (2),-751.1446515
+License_1927,Canterbury (4),-751.5146317
+License_1928,Gisborne (3),-751.884612
+License_1929,Manawatu Wanganui (6),-752.2545922
+License_1930,Marlborough (1),-752.6245724
+License_1931,Nelson (1),-752.9945527
+License_1932,Northland (1),-753.3645329
+License_1933,Auckland (7),-753.7345131
+License_1934,Bay Of Plenty (2),-754.1044934
+License_1935,Canterbury (4),-754.4744736
+License_1936,Gisborne (3),-754.8444538
+License_1937,Manawatu Wanganui (6),-755.2144341
+License_1938,Marlborough (1),-755.5844143
+License_1939,Nelson (1),-755.9543946
+License_1940,Northland (1),-756.3243748
+License_1941,Otago (3),-756.694355
+License_1942,Southland (1),-757.0643353
+License_1943,Taranaki (1),-757.4343155
+License_1944,Auckland (7),-757.8042957
+License_1945,Bay Of Plenty (2),-758.174276
+License_1946,Auckland (7),-758.5442562
+License_1947,Bay Of Plenty (2),-758.9142364
+License_1948,Canterbury (4),-759.2842167
+License_1949,Gisborne (3),-759.6541969
+License_1950,Manawatu Wanganui (6),-760.0241772
+License_1951,Marlborough (1),-760.3941574
+License_1952,Nelson (1),-760.7641376
+License_1953,Northland (1),-761.1341179
+License_1954,Otago (3),-761.5040981
+License_1955,Southland (1),-761.8740783
+License_1956,Taranaki (1),-762.2440586
+License_1957,Auckland (7),-762.6140388
+License_1958,Bay Of Plenty (2),-762.984019
+License_1959,Auckland (7),-763.3539993
+License_1960,Bay Of Plenty (2),-763.7239795
+License_1961,Canterbury (4),-764.0939597
+License_1962,Gisborne (3),-764.46394
+License_1963,Manawatu Wanganui (6),-764.8339202
+License_1964,Marlborough (1),-765.2039005
+License_1965,Nelson (1),-765.5738807
+License_1966,Northland (1),-765.9438609
+License_1967,Otago (3),-766.3138412
+License_1968,Southland (1),-766.6838214
+License_1969,Taranaki (1),-767.0538016
+License_1970,Auckland (7),-767.4237819
+License_1971,Bay Of Plenty (2),-767.7937621
+License_1972,Auckland (7),-768.1637423
+License_1973,Bay Of Plenty (2),-768.5337226
+License_1974,Canterbury (4),-768.9037028
+License_1975,Gisborne (3),-769.273683
+License_1976,Manawatu Wanganui (6),-769.6436633
+License_1977,Marlborough (1),-770.0136435
+License_1978,Nelson (1),-770.3836238
+License_1979,Northland (1),-770.753604
+License_1980,Otago (3),-771.1235842
+License_1981,Southland (1),-771.4935645
+License_1982,Taranaki (1),-771.8635447
+License_1983,Auckland (7),-772.2335249
+License_1984,Bay Of Plenty (2),-772.6035052
+License_1985,Auckland (7),-772.9734854
+License_1986,Bay Of Plenty (2),-773.3434656
+License_1987,Canterbury (4),-773.7134459
+License_1988,Gisborne (3),-774.0834261
+License_1989,Manawatu Wanganui (6),-774.4534063
+License_1990,Marlborough (1),-774.8233866
+License_1991,Nelson (1),-775.1933668
+License_1992,Northland (1),-775.5633471
+License_1993,Otago (3),-775.9333273
+License_1994,Southland (1),-776.3033075
+License_1995,Taranaki (1),-776.6732878
+License_1996,Auckland (7),-777.043268
+License_1997,Bay Of Plenty (2),-777.4132482
+License_1998,Auckland (7),-777.7832285
+License_1999,Bay Of Plenty (2),-778.1532087
+License_2000,Canterbury (4),-778.5231889
+License_2001,Gisborne (3),-778.8931692
+License_2002,Manawatu Wanganui (6),-779.2631494
+License_2003,Marlborough (1),-779.6331296
+License_2004,Nelson (1),-780.0031099
+License_2005,Northland (1),-780.3730901
+License_2006,Otago (3),-780.7430704
+License_2007,Southland (1),-781.1130506
+License_2008,Taranaki (1),-781.4830308
+License_2009,Auckland (7),-781.8530111
+License_2010,Bay Of Plenty (2),-782.2229913
+License_2011,Auckland (7),-782.5929715
+License_2012,Bay Of Plenty (2),-782.9629518
+License_2013,Canterbury (4),-783.332932
+License_2014,Gisborne (3),-783.7029122
+License_2015,Manawatu Wanganui (6),-784.0728925
+License_2016,Marlborough (1),-784.4428727
+License_2017,Nelson (1),-784.8128529
+License_2018,Northland (1),-785.1828332
+License_2019,Otago (3),-785.5528134
+License_2020,Southland (1),-785.9227937
+License_2021,Taranaki (1),-786.2927739
+License_2022,Auckland (7),-786.6627541
+License_2023,Bay Of Plenty (2),-787.0327344
+License_2024,Auckland (7),-787.4027146
+License_2025,Bay Of Plenty (2),-787.7726948
+License_2026,Canterbury (4),-788.1426751
+License_2027,Gisborne (3),-788.5126553
+License_2028,Manawatu Wanganui (6),-788.8826355
+License_2029,Marlborough (1),-789.2526158
+License_2030,Nelson (1),-789.622596
+License_2031,Northland (1),-789.9925762
+License_2032,Otago (3),-790.3625565
+License_2033,Southland (1),-790.7325367
+License_2034,Taranaki (1),-791.102517
+License_2035,Auckland (7),-791.4724972
+License_2036,Bay Of Plenty (2),-791.8424774
+License_2037,Auckland (7),-792.2124577
+License_2038,Bay Of Plenty (2),-792.5824379
+License_2039,Canterbury (4),-792.9524181
+License_2040,Gisborne (3),-793.3223984
+License_2041,Manawatu Wanganui (6),-793.6923786
+License_2042,Marlborough (1),-794.0623588
+License_2043,Nelson (1),-794.4323391
+License_2044,Northland (1),-794.8023193
+License_2045,Otago (3),-795.1722995
+License_2046,Southland (1),-795.5422798
+License_2047,Taranaki (1),-795.91226
+License_2048,Auckland (7),-796.2822403
+License_2049,Bay Of Plenty (2),-796.6522205
+License_2050,Auckland (7),-797.0222007
+License_2051,Bay Of Plenty (2),-797.392181
+License_2052,Canterbury (4),-797.7621612
+License_2053,Gisborne (3),-798.1321414
+License_2054,Manawatu Wanganui (6),-798.5021217
+License_2055,Marlborough (1),-798.8721019
+License_2056,Nelson (1),-799.2420821
+License_2057,Northland (1),-799.6120624
+License_2058,Otago (3),-799.9820426
+License_2059,Southland (1),-800.3520228
+License_2060,Taranaki (1),-800.7220031
+License_2061,Auckland (7),-801.0919833
+License_2062,Bay Of Plenty (2),-801.4619636
+License_2063,Auckland (7),-801.8319438
+License_2064,Bay Of Plenty (2),-802.201924
+License_2065,Canterbury (4),-802.5719043
+License_2066,Gisborne (3),-802.9418845
+License_2067,Manawatu Wanganui (6),-803.3118647
+License_2068,Marlborough (1),-803.681845
+License_2069,Nelson (1),-804.0518252
+License_2070,Northland (1),-804.4218054
+License_2071,Auckland (7),-804.7917857
+License_2072,Bay Of Plenty (2),-805.1617659
+License_2073,Canterbury (4),-805.5317461
+License_2074,Gisborne (3),-805.9017264
+License_2075,Manawatu Wanganui (6),-806.2717066
+License_2076,Marlborough (1),-806.6416869
+License_2077,Nelson (1),-807.0116671
+License_2078,Northland (1),-807.3816473
+License_2079,Otago (3),-807.7516276
+License_2080,Southland (1),-808.1216078
+License_2081,Taranaki (1),-808.491588
+License_2082,Auckland (7),-808.8615683
+License_2083,Bay Of Plenty (2),-809.2315485
+License_2084,Auckland (7),-809.6015287
+License_2085,Bay Of Plenty (2),-809.971509
+License_2086,Canterbury (4),-810.3414892
+License_2087,Gisborne (3),-810.7114694
+License_2088,Manawatu Wanganui (6),-811.0814497
+License_2089,Marlborough (1),-811.4514299
+License_2090,Nelson (1),-811.8214102
+License_2091,Northland (1),-812.1913904
+License_2092,Otago (3),-812.5613706
+License_2093,Southland (1),-812.9313509
+License_2094,Taranaki (1),-813.3013311
+License_2095,Auckland (7),-813.6713113
+License_2096,Bay Of Plenty (2),-814.0412916
+License_2097,Auckland (7),-814.4112718
+License_2098,Bay Of Plenty (2),-814.781252
+License_2099,Canterbury (4),-815.1512323
+License_2100,Gisborne (3),-815.5212125
+License_2101,Manawatu Wanganui (6),-815.8911927
+License_2102,Marlborough (1),-816.261173
+License_2103,Nelson (1),-816.6311532
+License_2104,Northland (1),-817.0011335
+License_2105,Otago (3),-817.3711137
+License_2106,Southland (1),-817.7410939
+License_2107,Taranaki (1),-818.1110742
+License_2108,Auckland (7),-818.4810544
+License_2109,Bay Of Plenty (2),-818.8510346
+License_2110,Auckland (7),-819.2210149
+License_2111,Bay Of Plenty (2),-819.5909951
+License_2112,Canterbury (4),-819.9609753
+License_2113,Gisborne (3),-820.3309556
+License_2114,Manawatu Wanganui (6),-820.7009358
+License_2115,Marlborough (1),-821.070916
+License_2116,Nelson (1),-821.4408963
+License_2117,Northland (1),-821.8108765
+License_2118,Otago (3),-822.1808568
+License_2119,Southland (1),-822.550837
+License_2120,Taranaki (1),-822.9208172
+License_2121,Auckland (7),-823.2907975
+License_2122,Bay Of Plenty (2),-823.6607777
+License_2123,Auckland (7),-824.0307579
+License_2124,Bay Of Plenty (2),-824.4007382
+License_2125,Canterbury (4),-824.7707184
+License_2126,Gisborne (3),-825.1406986
+License_2127,Manawatu Wanganui (6),-825.5106789
+License_2128,Marlborough (1),-825.8806591
+License_2129,Nelson (1),-826.2506393
+License_2130,Northland (1),-826.6206196
+License_2131,Otago (3),-826.9905998
+License_2132,Southland (1),-827.3605801
+License_2133,Taranaki (1),-827.7305603
+License_2134,Auckland (7),-828.1005405
+License_2135,Bay Of Plenty (2),-828.4705208
+License_2136,Auckland (7),-828.840501
+License_2137,Bay Of Plenty (2),-829.2104812
+License_2138,Canterbury (4),-829.5804615
+License_2139,Gisborne (3),-829.9504417
+License_2140,Manawatu Wanganui (6),-830.3204219
+License_2141,Marlborough (1),-830.6904022
+License_2142,Nelson (1),-831.0603824
+License_2143,Northland (1),-831.4303626
+License_2144,Otago (3),-831.8003429
+License_2145,Southland (1),-832.1703231
+License_2146,Taranaki (1),-832.5403034
+License_2147,Auckland (7),-832.9102836
+License_2148,Bay Of Plenty (2),-833.2802638
+License_2149,Auckland (7),-833.6502441
+License_2150,Bay Of Plenty (2),-834.0202243
+License_2151,Canterbury (4),-834.3902045
+License_2152,Gisborne (3),-834.7601848
+License_2153,Manawatu Wanganui (6),-835.130165
+License_2154,Marlborough (1),-835.5001452
+License_2155,Nelson (1),-835.8701255
+License_2156,Northland (1),-836.2401057
+License_2157,Otago (3),-836.6100859
+License_2158,Southland (1),-836.9800662
+License_2159,Taranaki (1),-837.3500464
+License_2160,Auckland (7),-837.7200267
+License_2161,Bay Of Plenty (2),-838.0900069
+License_2162,Auckland (7),-838.4599871
+License_2163,Bay Of Plenty (2),-838.8299674
+License_2164,Canterbury (4),-839.1999476
+License_2165,Gisborne (3),-839.5699278
+License_2166,Manawatu Wanganui (6),-839.9399081
+License_2167,Marlborough (1),-840.3098883
+License_2168,Nelson (1),-840.6798685
+License_2169,Northland (1),-841.0498488
+License_2170,Otago (3),-841.419829
+License_2171,Southland (1),-841.7898092
+License_2172,Taranaki (1),-842.1597895
+License_2173,Auckland (7),-842.5297697
+License_2174,Bay Of Plenty (2),-842.89975
+License_2175,Auckland (7),-843.2697302
+License_2176,Bay Of Plenty (2),-843.6397104
+License_2177,Canterbury (4),-844.0096907
+License_2178,Gisborne (3),-844.3796709
+License_2179,Manawatu Wanganui (6),-844.7496511
+License_2180,Marlborough (1),-845.1196314
+License_2181,Nelson (1),-845.4896116
+License_2182,Northland (1),-845.8595918
+License_2183,Otago (3),-846.2295721
+License_2184,Southland (1),-846.5995523
+License_2185,Taranaki (1),-846.9695325
+License_2186,Auckland (7),-847.3395128
+License_2187,Bay Of Plenty (2),-847.709493
+License_2188,Auckland (7),-848.0794733
+License_2189,Bay Of Plenty (2),-848.4494535
+License_2190,Canterbury (4),-848.8194337
+License_2191,Gisborne (3),-849.189414
+License_2192,Manawatu Wanganui (6),-849.5593942
+License_2193,Marlborough (1),-849.9293744
+License_2194,Nelson (1),-850.2993547
+License_2195,Northland (1),-850.6693349
+License_2196,Otago (3),-851.0393151
+License_2197,Southland (1),-851.4092954
+License_2198,Taranaki (1),-851.7792756
+License_2199,Auckland (7),-852.1492558
+License_2200,Bay Of Plenty (2),-852.5192361
+License_2201,Auckland (7),-852.8892163
+License_2202,Bay Of Plenty (2),-853.2591966
+License_2203,Canterbury (4),-853.6291768
+License_2204,Gisborne (3),-853.999157
+License_2205,Manawatu Wanganui (6),-854.3691373
+License_2206,Marlborough (1),-854.7391175
+License_2207,Nelson (1),-855.1090977
+License_2208,Northland (1),-855.479078
+License_2209,Auckland (7),-855.8490582
+License_2210,Bay Of Plenty (2),-856.2190384
+License_2211,Canterbury (4),-856.5890187
+License_2212,Gisborne (3),-856.9589989
+License_2213,Manawatu Wanganui (6),-857.3289791
+License_2214,Marlborough (1),-857.6989594
+License_2215,Nelson (1),-858.0689396
+License_2216,Northland (1),-858.4389199
+License_2217,Otago (3),-858.8089001
+License_2218,Southland (1),-859.1788803
+License_2219,Taranaki (1),-859.5488606
+License_2220,Auckland (7),-859.9188408
+License_2221,Bay Of Plenty (2),-860.288821
+License_2222,Auckland (7),-860.6588013
+License_2223,Bay Of Plenty (2),-861.0287815
+License_2224,Canterbury (4),-861.3987617
+License_2225,Gisborne (3),-861.768742
+License_2226,Manawatu Wanganui (6),-862.1387222
+License_2227,Marlborough (1),-862.5087024
+License_2228,Nelson (1),-862.8786827
+License_2229,Northland (1),-863.2486629
+License_2230,Otago (3),-863.6186432
+License_2231,Southland (1),-863.9886234
+License_2232,Taranaki (1),-864.3586036
+License_2233,Auckland (7),-864.7285839
+License_2234,Bay Of Plenty (2),-865.0985641
+License_2235,Auckland (7),-865.4685443
+License_2236,Bay Of Plenty (2),-865.8385246
+License_2237,Canterbury (4),-866.2085048
+License_2238,Gisborne (3),-866.578485
+License_2239,Manawatu Wanganui (6),-866.9484653
+License_2240,Marlborough (1),-867.3184455
+License_2241,Nelson (1),-867.6884257
+License_2242,Northland (1),-868.058406
+License_2243,Otago (3),-868.4283862
+License_2244,Southland (1),-868.7983665
+License_2245,Taranaki (1),-869.1683467
+License_2246,Auckland (7),-869.5383269
+License_2247,Bay Of Plenty (2),-869.9083072
+License_2248,Auckland (7),-870.2782874
+License_2249,Bay Of Plenty (2),-870.6482676
+License_2250,Canterbury (4),-871.0182479
+License_2251,Gisborne (3),-871.3882281
+License_2252,Manawatu Wanganui (6),-871.7582083
+License_2253,Marlborough (1),-872.1281886
+License_2254,Nelson (1),-872.4981688
+License_2255,Northland (1),-872.868149
+License_2256,Otago (3),-873.2381293
+License_2257,Southland (1),-873.6081095
+License_2258,Taranaki (1),-873.9780898
+License_2259,Auckland (7),-874.34807
+License_2260,Bay Of Plenty (2),-874.7180502
+License_2261,Auckland (7),-875.0880305
+License_2262,Bay Of Plenty (2),-875.4580107
+License_2263,Canterbury (4),-875.8279909
+License_2264,Gisborne (3),-876.1979712
+License_2265,Manawatu Wanganui (6),-876.5679514
+License_2266,Marlborough (1),-876.9379316
+License_2267,Nelson (1),-877.3079119
+License_2268,Northland (1),-877.6778921
+License_2269,Otago (3),-878.0478723
+License_2270,Southland (1),-878.4178526
+License_2271,Taranaki (1),-878.7878328
+License_2272,Auckland (7),-879.1578131
+License_2273,Bay Of Plenty (2),-879.5277933
+License_2274,Auckland (7),-879.8977735
+License_2275,Bay Of Plenty (2),-880.2677538
+License_2276,Canterbury (4),-880.637734
+License_2277,Gisborne (3),-881.0077142
+License_2278,Manawatu Wanganui (6),-881.3776945
+License_2279,Marlborough (1),-881.7476747
+License_2280,Nelson (1),-882.1176549
+License_2281,Northland (1),-882.4876352
+License_2282,Otago (3),-882.8576154
+License_2283,Southland (1),-883.2275956
+License_2284,Taranaki (1),-883.5975759
+License_2285,Auckland (7),-883.9675561
+License_2286,Bay Of Plenty (2),-884.3375364
+License_2287,Auckland (7),-884.7075166
+License_2288,Bay Of Plenty (2),-885.0774968
+License_2289,Canterbury (4),-885.4474771
+License_2290,Gisborne (3),-885.8174573
+License_2291,Manawatu Wanganui (6),-886.1874375
+License_2292,Marlborough (1),-886.5574178
+License_2293,Nelson (1),-886.927398
+License_2294,Northland (1),-887.2973782
+License_2295,Otago (3),-887.6673585
+License_2296,Southland (1),-888.0373387
+License_2297,Taranaki (1),-888.4073189
+License_2298,Auckland (7),-888.7772992
+License_2299,Bay Of Plenty (2),-889.1472794
+License_2300,Auckland (7),-889.5172597
+License_2301,Bay Of Plenty (2),-889.8872399
+License_2302,Canterbury (4),-890.2572201
+License_2303,Gisborne (3),-890.6272004
+License_2304,Manawatu Wanganui (6),-890.9971806
+License_2305,Marlborough (1),-891.3671608
+License_2306,Nelson (1),-891.7371411
+License_2307,Northland (1),-892.1071213
+License_2308,Otago (3),-892.4771015
+License_2309,Southland (1),-892.8470818
+License_2310,Taranaki (1),-893.217062
+License_2311,Auckland (7),-893.5870422
+License_2312,Bay Of Plenty (2),-893.9570225
+License_2313,Auckland (7),-894.3270027
+License_2314,Bay Of Plenty (2),-894.696983
+License_2315,Canterbury (4),-895.0669632
+License_2316,Gisborne (3),-895.4369434
+License_2317,Manawatu Wanganui (6),-895.8069237
+License_2318,Marlborough (1),-896.1769039
+License_2319,Nelson (1),-896.5468841
+License_2320,Northland (1),-896.9168644
+License_2321,Otago (3),-897.2868446
+License_2322,Southland (1),-897.6568248
+License_2323,Taranaki (1),-898.0268051
+License_2324,Auckland (7),-898.3967853
+License_2325,Bay Of Plenty (2),-898.7667655
+License_2326,Auckland (7),-899.1367458
+License_2327,Bay Of Plenty (2),-899.506726
+License_2328,Canterbury (4),-899.8767063
+License_2329,Gisborne (3),-900.2466865
+License_2330,Manawatu Wanganui (6),-900.6166667
+License_2331,Marlborough (1),-900.986647
+License_2332,Nelson (1),-901.3566272
+License_2333,Northland (1),-901.7266074
+License_2334,Otago (3),-902.0965877
+License_2335,Southland (1),-902.4665679
+License_2336,Taranaki (1),-902.8365481
+License_2337,Auckland (7),-903.2065284
+License_2338,Bay Of Plenty (2),-903.5765086
+License_2339,Auckland (7),-903.9464888
+License_2340,Bay Of Plenty (2),-904.3164691
+License_2341,Canterbury (4),-904.6864493
+License_2342,Gisborne (3),-905.0564296
+License_2343,Manawatu Wanganui (6),-905.4264098
+License_2344,Marlborough (1),-905.79639
+License_2345,Nelson (1),-906.1663703
+License_2346,Northland (1),-906.5363505
+License_2347,Auckland (7),-906.9063307
+License_2348,Bay Of Plenty (2),-907.276311
+License_2349,Canterbury (4),-907.6462912
+License_2350,Gisborne (3),-908.0162714
+License_2351,Manawatu Wanganui (6),-908.3862517
+License_2352,Marlborough (1),-908.7562319
+License_2353,Nelson (1),-909.1262121
+License_2354,Northland (1),-909.4961924
+License_2355,Otago (3),-909.8661726
+License_2356,Southland (1),-910.2361529
+License_2357,Taranaki (1),-910.6061331
+License_2358,Auckland (7),-910.9761133
+License_2359,Bay Of Plenty (2),-911.3460936
+License_2360,Auckland (7),-911.7160738
+License_2361,Bay Of Plenty (2),-912.086054
+License_2362,Canterbury (4),-912.4560343
+License_2363,Gisborne (3),-912.8260145
+License_2364,Manawatu Wanganui (6),-913.1959947
+License_2365,Marlborough (1),-913.565975
+License_2366,Nelson (1),-913.9359552
+License_2367,Northland (1),-914.3059354
+License_2368,Otago (3),-914.6759157
+License_2369,Southland (1),-915.0458959
+License_2370,Taranaki (1),-915.4158762
+License_2371,Auckland (7),-915.7858564
+License_2372,Bay Of Plenty (2),-916.1558366
+License_2373,Auckland (7),-916.5258169
+License_2374,Bay Of Plenty (2),-916.8957971
+License_2375,Canterbury (4),-917.2657773
+License_2376,Gisborne (3),-917.6357576
+License_2377,Manawatu Wanganui (6),-918.0057378
+License_2378,Marlborough (1),-918.375718
+License_2379,Nelson (1),-918.7456983
+License_2380,Northland (1),-919.1156785
+License_2381,Otago (3),-919.4856587
+License_2382,Southland (1),-919.855639
+License_2383,Taranaki (1),-920.2256192
+License_2384,Auckland (7),-920.5955995
+License_2385,Bay Of Plenty (2),-920.9655797
+License_2386,Auckland (7),-921.3355599
+License_2387,Bay Of Plenty (2),-921.7055402
+License_2388,Canterbury (4),-922.0755204
+License_2389,Gisborne (3),-922.4455006
+License_2390,Manawatu Wanganui (6),-922.8154809
+License_2391,Marlborough (1),-923.1854611
+License_2392,Nelson (1),-923.5554413
+License_2393,Northland (1),-923.9254216
+License_2394,Otago (3),-924.2954018
+License_2395,Southland (1),-924.665382
+License_2396,Taranaki (1),-925.0353623
+License_2397,Auckland (7),-925.4053425
+License_2398,Bay Of Plenty (2),-925.7753228
+License_2399,Auckland (7),-926.145303
+License_2400,Bay Of Plenty (2),-926.5152832
+License_2401,Canterbury (4),-926.8852635
+License_2402,Gisborne (3),-927.2552437
+License_2403,Manawatu Wanganui (6),-927.6252239
+License_2404,Marlborough (1),-927.9952042
+License_2405,Nelson (1),-928.3651844
+License_2406,Northland (1),-928.7351646
+License_2407,Otago (3),-929.1051449
+License_2408,Southland (1),-929.4751251
+License_2409,Taranaki (1),-929.8451053
+License_2410,Auckland (7),-930.2150856
+License_2411,Bay Of Plenty (2),-930.5850658
+License_2412,Auckland (7),-930.9550461
+License_2413,Bay Of Plenty (2),-931.3250263
+License_2414,Canterbury (4),-931.6950065
+License_2415,Gisborne (3),-932.0649868
+License_2416,Manawatu Wanganui (6),-932.434967
+License_2417,Marlborough (1),-932.8049472
+License_2418,Nelson (1),-933.1749275
+License_2419,Northland (1),-933.5449077
+License_2420,Otago (3),-933.9148879
+License_2421,Southland (1),-934.2848682
+License_2422,Taranaki (1),-934.6548484
+License_2423,Auckland (7),-935.0248286
+License_2424,Bay Of Plenty (2),-935.3948089
+License_2425,Auckland (7),-935.7647891
+License_2426,Bay Of Plenty (2),-936.1347694
+License_2427,Canterbury (4),-936.5047496
+License_2428,Gisborne (3),-936.8747298
+License_2429,Manawatu Wanganui (6),-937.2447101
+License_2430,Marlborough (1),-937.6146903
+License_2431,Nelson (1),-937.9846705
+License_2432,Northland (1),-938.3546508
+License_2433,Otago (3),-938.724631
+License_2434,Southland (1),-939.0946112
+License_2435,Taranaki (1),-939.4645915
+License_2436,Auckland (7),-939.8345717
+License_2437,Bay Of Plenty (2),-940.2045519
+License_2438,Auckland (7),-940.5745322
+License_2439,Bay Of Plenty (2),-940.9445124
+License_2440,Canterbury (4),-941.3144927
+License_2441,Gisborne (3),-941.6844729
+License_2442,Manawatu Wanganui (6),-942.0544531
+License_2443,Marlborough (1),-942.4244334
+License_2444,Nelson (1),-942.7944136
+License_2445,Northland (1),-943.1643938
+License_2446,Otago (3),-943.5343741
+License_2447,Southland (1),-943.9043543
+License_2448,Taranaki (1),-944.2743345
+License_2449,Auckland (7),-944.6443148
+License_2450,Bay Of Plenty (2),-945.014295
+License_2451,Auckland (7),-945.3842752
+License_2452,Bay Of Plenty (2),-945.7542555
+License_2453,Canterbury (4),-946.1242357
+License_2454,Gisborne (3),-946.494216
+License_2455,Manawatu Wanganui (6),-946.8641962
+License_2456,Marlborough (1),-947.2341764
+License_2457,Nelson (1),-947.6041567
+License_2458,Northland (1),-947.9741369
+License_2459,Otago (3),-948.3441171
+License_2460,Southland (1),-948.7140974
+License_2461,Taranaki (1),-949.0840776
+License_2462,Auckland (7),-949.4540578
+License_2463,Bay Of Plenty (2),-949.8240381
+License_2464,Auckland (7),-950.1940183
+License_2465,Bay Of Plenty (2),-950.5639985
+License_2466,Canterbury (4),-950.9339788
+License_2467,Gisborne (3),-951.303959
+License_2468,Manawatu Wanganui (6),-951.6739393
+License_2469,Marlborough (1),-952.0439195
+License_2470,Nelson (1),-952.4138997
+License_2471,Northland (1),-952.78388
+License_2472,Otago (3),-953.1538602
+License_2473,Southland (1),-953.5238404
+License_2474,Taranaki (1),-953.8938207
+License_2475,Auckland (7),-954.2638009
+License_2476,Bay Of Plenty (2),-954.6337811
+License_2477,Auckland (7),-955.0037614
+License_2478,Bay Of Plenty (2),-955.3737416
+License_2479,Canterbury (4),-955.7437218
+License_2480,Gisborne (3),-956.1137021
+License_2481,Manawatu Wanganui (6),-956.4836823
+License_2482,Marlborough (1),-956.8536626
+License_2483,Nelson (1),-957.2236428
+License_2484,Northland (1),-957.593623
+License_2485,Auckland (7),-957.9636033
+License_2486,Bay Of Plenty (2),-958.3335835
+License_2487,Canterbury (4),-958.7035637
+License_2488,Gisborne (3),-959.073544
+License_2489,Manawatu Wanganui (6),-959.4435242
+License_2490,Marlborough (1),-959.8135044
+License_2491,Nelson (1),-960.1834847
+License_2492,Northland (1),-960.5534649
+License_2493,Otago (3),-960.9234452
+License_2494,Southland (1),-961.2934254
+License_2495,Taranaki (1),-961.6634056
+License_2496,Auckland (7),-962.0333859
+License_2497,Bay Of Plenty (2),-962.4033661
+License_2498,Auckland (7),-962.7733463
+License_2499,Bay Of Plenty (2),-963.1433266
+License_2500,Canterbury (4),-963.5133068
+License_2501,Gisborne (3),-963.883287
+License_2502,Manawatu Wanganui (6),-964.2532673
+License_2503,Marlborough (1),-964.6232475
+License_2504,Nelson (1),-964.9932277
+License_2505,Northland (1),-965.363208
+License_2506,Otago (3),-965.7331882
+License_2507,Southland (1),-966.1031685
+License_2508,Taranaki (1),-966.4731487
+License_2509,Auckland (7),-966.8431289
+License_2510,Bay Of Plenty (2),-967.2131092
+License_2511,Auckland (7),-967.5830894
+License_2512,Bay Of Plenty (2),-967.9530696
+License_2513,Canterbury (4),-968.3230499
+License_2514,Gisborne (3),-968.6930301
+License_2515,Manawatu Wanganui (6),-969.0630103
+License_2516,Marlborough (1),-969.4329906
+License_2517,Nelson (1),-969.8029708
+License_2518,Northland (1),-970.172951
+License_2519,Otago (3),-970.5429313
+License_2520,Southland (1),-970.9129115
+License_2521,Taranaki (1),-971.2828918
+License_2522,Auckland (7),-971.652872
+License_2523,Bay Of Plenty (2),-972.0228522
+License_2524,Auckland (7),-972.3928325
+License_2525,Bay Of Plenty (2),-972.7628127
+License_2526,Canterbury (4),-973.1327929
+License_2527,Gisborne (3),-973.5027732
+License_2528,Manawatu Wanganui (6),-973.8727534
+License_2529,Marlborough (1),-974.2427336
+License_2530,Nelson (1),-974.6127139
+License_2531,Northland (1),-974.9826941
+License_2532,Otago (3),-975.3526743
+License_2533,Southland (1),-975.7226546
+License_2534,Taranaki (1),-976.0926348
+License_2535,Auckland (7),-976.4626151
+License_2536,Bay Of Plenty (2),-976.8325953
+License_2537,Auckland (7),-977.2025755
+License_2538,Bay Of Plenty (2),-977.5725558
+License_2539,Canterbury (4),-977.942536
+License_2540,Gisborne (3),-978.3125162
+License_2541,Manawatu Wanganui (6),-978.6824965
+License_2542,Marlborough (1),-979.0524767
+License_2543,Nelson (1),-979.4224569
+License_2544,Northland (1),-979.7924372
+License_2545,Otago (3),-980.1624174
+License_2546,Southland (1),-980.5323976
+License_2547,Taranaki (1),-980.9023779
+License_2548,Auckland (7),-981.2723581
+License_2549,Bay Of Plenty (2),-981.6423384
+License_2550,Auckland (7),-982.0123186
+License_2551,Bay Of Plenty (2),-982.3822988
+License_2552,Canterbury (4),-982.7522791
+License_2553,Gisborne (3),-983.1222593
+License_2554,Manawatu Wanganui (6),-983.4922395
+License_2555,Marlborough (1),-983.8622198
+License_2556,Nelson (1),-984.2322
+License_2557,Northland (1),-984.6021802
+License_2558,Otago (3),-984.9721605
+License_2559,Southland (1),-985.3421407
+License_2560,Taranaki (1),-985.7121209
+License_2561,Auckland (7),-986.0821012
+License_2562,Bay Of Plenty (2),-986.4520814
+License_2563,Auckland (7),-986.8220617
+License_2564,Bay Of Plenty (2),-987.1920419
+License_2565,Canterbury (4),-987.5620221
+License_2566,Gisborne (3),-987.9320024
+License_2567,Manawatu Wanganui (6),-988.3019826
+License_2568,Marlborough (1),-988.6719628
+License_2569,Nelson (1),-989.0419431
+License_2570,Northland (1),-989.4119233
+License_2571,Otago (3),-989.7819035
+License_2572,Southland (1),-990.1518838
+License_2573,Taranaki (1),-990.521864
+License_2574,Auckland (7),-990.8918442
+License_2575,Bay Of Plenty (2),-991.2618245
+License_2576,Auckland (7),-991.6318047
+License_2577,Bay Of Plenty (2),-992.001785
+License_2578,Canterbury (4),-992.3717652
+License_2579,Gisborne (3),-992.7417454
+License_2580,Manawatu Wanganui (6),-993.1117257
+License_2581,Marlborough (1),-993.4817059
+License_2582,Nelson (1),-993.8516861
+License_2583,Northland (1),-994.2216664
+License_2584,Otago (3),-994.5916466
+License_2585,Southland (1),-994.9616268
+License_2586,Taranaki (1),-995.3316071
+License_2587,Auckland (7),-995.7015873
+License_2588,Bay Of Plenty (2),-996.0715675
+License_2589,Auckland (7),-996.4415478
+License_2590,Bay Of Plenty (2),-996.811528
+License_2591,Canterbury (4),-997.1815083
+License_2592,Gisborne (3),-997.5514885
+License_2593,Manawatu Wanganui (6),-997.9214687
+License_2594,Marlborough (1),-998.291449
+License_2595,Nelson (1),-998.6614292
+License_2596,Northland (1),-999.0314094
+License_2597,Otago (3),-999.4013897
+License_2598,Southland (1),-999.7713699
+License_2599,Taranaki (1),-1000.14135
+License_2600,Auckland (7),-1000.51133
+License_2601,Bay Of Plenty (2),-1000.881311
+License_2602,Auckland (7),-1001.251291
+License_2603,Bay Of Plenty (2),-1001.621271
+License_2604,Canterbury (4),-1001.991251
+License_2605,Gisborne (3),-1002.361232
+License_2606,Manawatu Wanganui (6),-1002.731212
+License_2607,Marlborough (1),-1003.101192
+License_2608,Nelson (1),-1003.471172
+License_2609,Northland (1),-1003.841152
+License_2610,Otago (3),-1004.211133
+License_2611,Southland (1),-1004.581113
+License_2612,Taranaki (1),-1004.951093
+License_2613,Auckland (7),-1005.321073
+License_2614,Bay Of Plenty (2),-1005.691054
+License_2615,Auckland (7),-1006.061034
+License_2616,Bay Of Plenty (2),-1006.431014
+License_2617,Canterbury (4),-1006.800994
+License_2618,Gisborne (3),-1007.170975
+License_2619,Manawatu Wanganui (6),-1007.540955
+License_2620,Marlborough (1),-1007.910935
+License_2621,Nelson (1),-1008.280915
+License_2622,Northland (1),-1008.650896
+License_2623,Auckland (7),-1009.020876
+License_2624,Bay Of Plenty (2),-1009.390856
+License_2625,Canterbury (4),-1009.760836
+License_2626,Gisborne (3),-1010.130817
+License_2627,Manawatu Wanganui (6),-1010.500797
+License_2628,Marlborough (1),-1010.870777
+License_2629,Nelson (1),-1011.240757
+License_2630,Northland (1),-1011.610737
+License_2631,Otago (3),-1011.980718
+License_2632,Southland (1),-1012.350698
+License_2633,Taranaki (1),-1012.720678
+License_2634,Auckland (7),-1013.090658
+License_2635,Bay Of Plenty (2),-1013.460639
+License_2636,Auckland (7),-1013.830619
+License_2637,Bay Of Plenty (2),-1014.200599
+License_2638,Canterbury (4),-1014.570579
+License_2639,Gisborne (3),-1014.94056
+License_2640,Manawatu Wanganui (6),-1015.31054
+License_2641,Marlborough (1),-1015.68052
+License_2642,Nelson (1),-1016.0505
+License_2643,Northland (1),-1016.420481
+License_2644,Otago (3),-1016.790461
+License_2645,Southland (1),-1017.160441
+License_2646,Taranaki (1),-1017.530421
+License_2647,Auckland (7),-1017.900401
+License_2648,Bay Of Plenty (2),-1018.270382
+License_2649,Auckland (7),-1018.640362
+License_2650,Bay Of Plenty (2),-1019.010342
+License_2651,Canterbury (4),-1019.380322
+License_2652,Gisborne (3),-1019.750303
+License_2653,Manawatu Wanganui (6),-1020.120283
+License_2654,Marlborough (1),-1020.490263
+License_2655,Nelson (1),-1020.860243
+License_2656,Northland (1),-1021.230224
+License_2657,Otago (3),-1021.600204
+License_2658,Southland (1),-1021.970184
+License_2659,Taranaki (1),-1022.340164
+License_2660,Auckland (7),-1022.710145
+License_2661,Bay Of Plenty (2),-1023.080125
+License_2662,Auckland (7),-1023.450105
+License_2663,Bay Of Plenty (2),-1023.820085
+License_2664,Canterbury (4),-1024.190065
+License_2665,Gisborne (3),-1024.560046
+License_2666,Manawatu Wanganui (6),-1024.930026
+License_2667,Marlborough (1),-1025.300006
+License_2668,Nelson (1),-1025.669986
+License_2669,Northland (1),-1026.039967
+License_2670,Otago (3),-1026.409947
+License_2671,Southland (1),-1026.779927
+License_2672,Taranaki (1),-1027.149907
+License_2673,Auckland (7),-1027.519888
+License_2674,Bay Of Plenty (2),-1027.889868
+License_2675,Auckland (7),-1028.259848
+License_2676,Bay Of Plenty (2),-1028.629828
+License_2677,Canterbury (4),-1028.999809
+License_2678,Gisborne (3),-1029.369789
+License_2679,Manawatu Wanganui (6),-1029.739769
+License_2680,Marlborough (1),-1030.109749
+License_2681,Nelson (1),-1030.479729
+License_2682,Northland (1),-1030.84971
+License_2683,Otago (3),-1031.21969
+License_2684,Southland (1),-1031.58967
+License_2685,Taranaki (1),-1031.95965
+License_2686,Auckland (7),-1032.329631
+License_2687,Bay Of Plenty (2),-1032.699611
+License_2688,Auckland (7),-1033.069591
+License_2689,Bay Of Plenty (2),-1033.439571
+License_2690,Canterbury (4),-1033.809552
+License_2691,Gisborne (3),-1034.179532
+License_2692,Manawatu Wanganui (6),-1034.549512
+License_2693,Marlborough (1),-1034.919492
+License_2694,Nelson (1),-1035.289473
+License_2695,Northland (1),-1035.659453
+License_2696,Otago (3),-1036.029433
+License_2697,Southland (1),-1036.399413
+License_2698,Taranaki (1),-1036.769393
+License_2699,Auckland (7),-1037.139374
+License_2700,Bay Of Plenty (2),-1037.509354
+License_2701,Auckland (7),-1037.879334
+License_2702,Bay Of Plenty (2),-1038.249314
+License_2703,Canterbury (4),-1038.619295
+License_2704,Gisborne (3),-1038.989275
+License_2705,Manawatu Wanganui (6),-1039.359255
+License_2706,Marlborough (1),-1039.729235
+License_2707,Nelson (1),-1040.099216
+License_2708,Northland (1),-1040.469196
+License_2709,Otago (3),-1040.839176
+License_2710,Southland (1),-1041.209156
+License_2711,Taranaki (1),-1041.579137
+License_2712,Auckland (7),-1041.949117
+License_2713,Bay Of Plenty (2),-1042.319097
+License_2714,Auckland (7),-1042.689077
+License_2715,Bay Of Plenty (2),-1043.059057
+License_2716,Canterbury (4),-1043.429038
+License_2717,Gisborne (3),-1043.799018
+License_2718,Manawatu Wanganui (6),-1044.168998
+License_2719,Marlborough (1),-1044.538978
+License_2720,Nelson (1),-1044.908959
+License_2721,Northland (1),-1045.278939
+License_2722,Otago (3),-1045.648919
+License_2723,Southland (1),-1046.018899
+License_2724,Taranaki (1),-1046.38888
+License_2725,Auckland (7),-1046.75886
+License_2726,Bay Of Plenty (2),-1047.12884
+License_2727,Auckland (7),-1047.49882
+License_2728,Bay Of Plenty (2),-1047.868801
+License_2729,Canterbury (4),-1048.238781
+License_2730,Gisborne (3),-1048.608761
+License_2731,Manawatu Wanganui (6),-1048.978741
+License_2732,Marlborough (1),-1049.348721
+License_2733,Nelson (1),-1049.718702
+License_2734,Northland (1),-1050.088682
+License_2735,Otago (3),-1050.458662
+License_2736,Southland (1),-1050.828642
+License_2737,Taranaki (1),-1051.198623
+License_2738,Auckland (7),-1051.568603
+License_2739,Bay Of Plenty (2),-1051.938583
+License_2740,Auckland (7),-1052.308563
+License_2741,Bay Of Plenty (2),-1052.678544
+License_2742,Canterbury (4),-1053.048524
+License_2743,Gisborne (3),-1053.418504
+License_2744,Manawatu Wanganui (6),-1053.788484
+License_2745,Marlborough (1),-1054.158465
+License_2746,Nelson (1),-1054.528445
+License_2747,Northland (1),-1054.898425
+License_2748,Otago (3),-1055.268405
+License_2749,Southland (1),-1055.638385
+License_2750,Taranaki (1),-1056.008366
+License_2751,Auckland (7),-1056.378346
+License_2752,Bay Of Plenty (2),-1056.748326
+License_2753,Auckland (7),-1057.118306
+License_2754,Bay Of Plenty (2),-1057.488287
+License_2755,Canterbury (4),-1057.858267
+License_2756,Gisborne (3),-1058.228247
+License_2757,Manawatu Wanganui (6),-1058.598227
+License_2758,Marlborough (1),-1058.968208
+License_2759,Nelson (1),-1059.338188
+License_2760,Northland (1),-1059.708168
+License_2761,Auckland (7),-1060.078148
+License_2762,Bay Of Plenty (2),-1060.448129
+License_2763,Canterbury (4),-1060.818109
+License_2764,Gisborne (3),-1061.188089
+License_2765,Manawatu Wanganui (6),-1061.558069
+License_2766,Marlborough (1),-1061.92805
+License_2767,Nelson (1),-1062.29803
+License_2768,Northland (1),-1062.66801
+License_2769,Otago (3),-1063.03799
+License_2770,Southland (1),-1063.40797
+License_2771,Taranaki (1),-1063.777951
+License_2772,Auckland (7),-1064.147931
+License_2773,Bay Of Plenty (2),-1064.517911
+License_2774,Auckland (7),-1064.887891
+License_2775,Bay Of Plenty (2),-1065.257872
+License_2776,Canterbury (4),-1065.627852
+License_2777,Gisborne (3),-1065.997832
+License_2778,Manawatu Wanganui (6),-1066.367812
+License_2779,Marlborough (1),-1066.737793
+License_2780,Nelson (1),-1067.107773
+License_2781,Northland (1),-1067.477753
+License_2782,Otago (3),-1067.847733
+License_2783,Southland (1),-1068.217714
+License_2784,Taranaki (1),-1068.587694
+License_2785,Auckland (7),-1068.957674
+License_2786,Bay Of Plenty (2),-1069.327654
+License_2787,Auckland (7),-1069.697634
+License_2788,Bay Of Plenty (2),-1070.067615
+License_2789,Canterbury (4),-1070.437595
+License_2790,Gisborne (3),-1070.807575
+License_2791,Manawatu Wanganui (6),-1071.177555
+License_2792,Marlborough (1),-1071.547536
+License_2793,Nelson (1),-1071.917516
+License_2794,Northland (1),-1072.287496
+License_2795,Otago (3),-1072.657476
+License_2796,Southland (1),-1073.027457
+License_2797,Taranaki (1),-1073.397437
+License_2798,Auckland (7),-1073.767417
+License_2799,Bay Of Plenty (2),-1074.137397
+License_2800,Auckland (7),-1074.507378
+License_2801,Bay Of Plenty (2),-1074.877358
+License_2802,Canterbury (4),-1075.247338
+License_2803,Gisborne (3),-1075.617318
+License_2804,Manawatu Wanganui (6),-1075.987298
+License_2805,Marlborough (1),-1076.357279
+License_2806,Nelson (1),-1076.727259
+License_2807,Northland (1),-1077.097239
+License_2808,Otago (3),-1077.467219
+License_2809,Southland (1),-1077.8372
+License_2810,Taranaki (1),-1078.20718
+License_2811,Auckland (7),-1078.57716
+License_2812,Bay Of Plenty (2),-1078.94714
+License_2813,Auckland (7),-1079.317121
+License_2814,Bay Of Plenty (2),-1079.687101
+License_2815,Canterbury (4),-1080.057081
+License_2816,Gisborne (3),-1080.427061
+License_2817,Manawatu Wanganui (6),-1080.797042
+License_2818,Marlborough (1),-1081.167022
+License_2819,Nelson (1),-1081.537002
+License_2820,Northland (1),-1081.906982
+License_2821,Otago (3),-1082.276962
+License_2822,Southland (1),-1082.646943
+License_2823,Taranaki (1),-1083.016923
+License_2824,Auckland (7),-1083.386903
+License_2825,Bay Of Plenty (2),-1083.756883
+License_2826,Auckland (7),-1084.126864
+License_2827,Bay Of Plenty (2),-1084.496844
+License_2828,Canterbury (4),-1084.866824
+License_2829,Gisborne (3),-1085.236804
+License_2830,Manawatu Wanganui (6),-1085.606785
+License_2831,Marlborough (1),-1085.976765
+License_2832,Nelson (1),-1086.346745
+License_2833,Northland (1),-1086.716725
+License_2834,Otago (3),-1087.086706
+License_2835,Southland (1),-1087.456686
+License_2836,Taranaki (1),-1087.826666
+License_2837,Auckland (7),-1088.196646
+License_2838,Bay Of Plenty (2),-1088.566626
+License_2839,Auckland (7),-1088.936607
+License_2840,Bay Of Plenty (2),-1089.306587
+License_2841,Canterbury (4),-1089.676567
+License_2842,Gisborne (3),-1090.046547
+License_2843,Manawatu Wanganui (6),-1090.416528
+License_2844,Marlborough (1),-1090.786508
+License_2845,Nelson (1),-1091.156488
+License_2846,Northland (1),-1091.526468
+License_2847,Otago (3),-1091.896449
+License_2848,Southland (1),-1092.266429
+License_2849,Taranaki (1),-1092.636409
+License_2850,Auckland (7),-1093.006389
+License_2851,Bay Of Plenty (2),-1093.37637
+License_2852,Auckland (7),-1093.74635
+License_2853,Bay Of Plenty (2),-1094.11633
+License_2854,Canterbury (4),-1094.48631
+License_2855,Gisborne (3),-1094.85629
+License_2856,Manawatu Wanganui (6),-1095.226271
+License_2857,Marlborough (1),-1095.596251
+License_2858,Nelson (1),-1095.966231
+License_2859,Northland (1),-1096.336211
+License_2860,Otago (3),-1096.706192
+License_2861,Southland (1),-1097.076172
+License_2862,Taranaki (1),-1097.446152
+License_2863,Auckland (7),-1097.816132
+License_2864,Bay Of Plenty (2),-1098.186113
+License_2865,Auckland (7),-1098.556093
+License_2866,Bay Of Plenty (2),-1098.926073
+License_2867,Canterbury (4),-1099.296053
+License_2868,Gisborne (3),-1099.666034
+License_2869,Manawatu Wanganui (6),-1100.036014
+License_2870,Marlborough (1),-1100.405994
+License_2871,Nelson (1),-1100.775974
+License_2872,Northland (1),-1101.145954
+License_2873,Otago (3),-1101.515935
+License_2874,Southland (1),-1101.885915
+License_2875,Taranaki (1),-1102.255895
+License_2876,Auckland (7),-1102.625875
+License_2877,Bay Of Plenty (2),-1102.995856
+License_2878,Auckland (7),-1103.365836
+License_2879,Bay Of Plenty (2),-1103.735816
+License_2880,Canterbury (4),-1104.105796
+License_2881,Gisborne (3),-1104.475777
+License_2882,Manawatu Wanganui (6),-1104.845757
+License_2883,Marlborough (1),-1105.215737
+License_2884,Nelson (1),-1105.585717
+License_2885,Northland (1),-1105.955698
+License_2886,Otago (3),-1106.325678
+License_2887,Southland (1),-1106.695658
+License_2888,Taranaki (1),-1107.065638
+License_2889,Auckland (7),-1107.435618
+License_2890,Bay Of Plenty (2),-1107.805599
+License_2891,Auckland (7),-1108.175579
+License_2892,Bay Of Plenty (2),-1108.545559
+License_2893,Canterbury (4),-1108.915539
+License_2894,Gisborne (3),-1109.28552
+License_2895,Manawatu Wanganui (6),-1109.6555
+License_2896,Marlborough (1),-1110.02548
+License_2897,Nelson (1),-1110.39546
+License_2898,Northland (1),-1110.765441
+License_2899,Auckland (7),-1111.135421
+License_2900,Bay Of Plenty (2),-1111.505401
+License_2901,Canterbury (4),-1111.875381
+License_2902,Gisborne (3),-1112.245362
+License_2903,Manawatu Wanganui (6),-1112.615342
+License_2904,Marlborough (1),-1112.985322
+License_2905,Nelson (1),-1113.355302
+License_2906,Northland (1),-1113.725283
+License_2907,Otago (3),-1114.095263
+License_2908,Southland (1),-1114.465243
+License_2909,Taranaki (1),-1114.835223
+License_2910,Auckland (7),-1115.205203
+License_2911,Bay Of Plenty (2),-1115.575184
+License_2912,Auckland (7),-1115.945164
+License_2913,Bay Of Plenty (2),-1116.315144
+License_2914,Canterbury (4),-1116.685124
+License_2915,Gisborne (3),-1117.055105
+License_2916,Manawatu Wanganui (6),-1117.425085
+License_2917,Marlborough (1),-1117.795065
+License_2918,Nelson (1),-1118.165045
+License_2919,Northland (1),-1118.535026
+License_2920,Otago (3),-1118.905006
+License_2921,Southland (1),-1119.274986
+License_2922,Taranaki (1),-1119.644966
+License_2923,Auckland (7),-1120.014947
+License_2924,Bay Of Plenty (2),-1120.384927
+License_2925,Auckland (7),-1120.754907
+License_2926,Bay Of Plenty (2),-1121.124887
+License_2927,Canterbury (4),-1121.494867
+License_2928,Gisborne (3),-1121.864848
+License_2929,Manawatu Wanganui (6),-1122.234828
+License_2930,Marlborough (1),-1122.604808
+License_2931,Nelson (1),-1122.974788
+License_2932,Northland (1),-1123.344769
+License_2933,Otago (3),-1123.714749
+License_2934,Southland (1),-1124.084729
+License_2935,Taranaki (1),-1124.454709
+License_2936,Auckland (7),-1124.82469
+License_2937,Bay Of Plenty (2),-1125.19467
+License_2938,Auckland (7),-1125.56465
+License_2939,Bay Of Plenty (2),-1125.93463
+License_2940,Canterbury (4),-1126.304611
+License_2941,Gisborne (3),-1126.674591
+License_2942,Manawatu Wanganui (6),-1127.044571
+License_2943,Marlborough (1),-1127.414551
+License_2944,Nelson (1),-1127.784531
+License_2945,Northland (1),-1128.154512
+License_2946,Otago (3),-1128.524492
+License_2947,Southland (1),-1128.894472
+License_2948,Taranaki (1),-1129.264452
+License_2949,Auckland (7),-1129.634433
+License_2950,Bay Of Plenty (2),-1130.004413
+License_2951,Auckland (7),-1130.374393
+License_2952,Bay Of Plenty (2),-1130.744373
+License_2953,Canterbury (4),-1131.114354
+License_2954,Gisborne (3),-1131.484334
+License_2955,Manawatu Wanganui (6),-1131.854314
+License_2956,Marlborough (1),-1132.224294
+License_2957,Nelson (1),-1132.594275
+License_2958,Northland (1),-1132.964255
+License_2959,Otago (3),-1133.334235
+License_2960,Southland (1),-1133.704215
+License_2961,Taranaki (1),-1134.074195
+License_2962,Auckland (7),-1134.444176
+License_2963,Bay Of Plenty (2),-1134.814156
+License_2964,Auckland (7),-1135.184136
+License_2965,Bay Of Plenty (2),-1135.554116
+License_2966,Canterbury (4),-1135.924097
+License_2967,Gisborne (3),-1136.294077
+License_2968,Manawatu Wanganui (6),-1136.664057
+License_2969,Marlborough (1),-1137.034037
+License_2970,Nelson (1),-1137.404018
+License_2971,Northland (1),-1137.773998
+License_2972,Otago (3),-1138.143978
+License_2973,Southland (1),-1138.513958
+License_2974,Taranaki (1),-1138.883939
+License_2975,Auckland (7),-1139.253919
+License_2976,Bay Of Plenty (2),-1139.623899
+License_2977,Auckland (7),-1139.993879
+License_2978,Bay Of Plenty (2),-1140.363859
+License_2979,Canterbury (4),-1140.73384
+License_2980,Gisborne (3),-1141.10382
+License_2981,Manawatu Wanganui (6),-1141.4738
+License_2982,Marlborough (1),-1141.84378
+License_2983,Nelson (1),-1142.213761
+License_2984,Northland (1),-1142.583741
+License_2985,Otago (3),-1142.953721
+License_2986,Southland (1),-1143.323701
+License_2987,Taranaki (1),-1143.693682
+License_2988,Auckland (7),-1144.063662
+License_2989,Bay Of Plenty (2),-1144.433642
+License_2990,Auckland (7),-1144.803622
+License_2991,Bay Of Plenty (2),-1145.173603
+License_2992,Canterbury (4),-1145.543583
+License_2993,Gisborne (3),-1145.913563
+License_2994,Manawatu Wanganui (6),-1146.283543
+License_2995,Marlborough (1),-1146.653523
+License_2996,Nelson (1),-1147.023504
+License_2997,Northland (1),-1147.393484
+License_2998,Otago (3),-1147.763464
+License_2999,Southland (1),-1148.133444
+License_3000,Taranaki (1),-1148.503425
+License_3001,Auckland (7),-1148.873405
+License_3002,Bay Of Plenty (2),-1149.243385
+License_3003,Auckland (7),-1149.613365
+License_3004,Bay Of Plenty (2),-1149.983346
+License_3005,Canterbury (4),-1150.353326
+License_3006,Gisborne (3),-1150.723306
+License_3007,Manawatu Wanganui (6),-1151.093286
+License_3008,Marlborough (1),-1151.463267
+License_3009,Nelson (1),-1151.833247
+License_3010,Northland (1),-1152.203227
+License_3011,Otago (3),-1152.573207
+License_3012,Southland (1),-1152.943187
+License_3013,Taranaki (1),-1153.313168
+License_3014,Auckland (7),-1153.683148
+License_3015,Bay Of Plenty (2),-1154.053128
+License_3016,Auckland (7),-1154.423108
+License_3017,Bay Of Plenty (2),-1154.793089
+License_3018,Canterbury (4),-1155.163069
+License_3019,Gisborne (3),-1155.533049
+License_3020,Manawatu Wanganui (6),-1155.903029
+License_3021,Marlborough (1),-1156.27301
+License_3022,Nelson (1),-1156.64299
+License_3023,Northland (1),-1157.01297
+License_3024,Otago (3),-1157.38295
+License_3025,Southland (1),-1157.752931
+License_3026,Taranaki (1),-1158.122911
+License_3027,Auckland (7),-1158.492891
+License_3028,Bay Of Plenty (2),-1158.862871
+License_3029,Auckland (7),-1159.232851
+License_3030,Bay Of Plenty (2),-1159.602832
+License_3031,Canterbury (4),-1159.972812
+License_3032,Gisborne (3),-1160.342792
+License_3033,Manawatu Wanganui (6),-1160.712772
+License_3034,Marlborough (1),-1161.082753
+License_3035,Nelson (1),-1161.452733
+License_3036,Northland (1),-1161.822713
+License_3037,Auckland (7),-1162.192693
+License_3038,Bay Of Plenty (2),-1162.562674
+License_3039,Canterbury (4),-1162.932654
+License_3040,Gisborne (3),-1163.302634
+License_3041,Manawatu Wanganui (6),-1163.672614
+License_3042,Marlborough (1),-1164.042595
+License_3043,Nelson (1),-1164.412575
+License_3044,Northland (1),-1164.782555
+License_3045,Otago (3),-1165.152535
+License_3046,Southland (1),-1165.522516
+License_3047,Taranaki (1),-1165.892496
+License_3048,Auckland (7),-1166.262476
+License_3049,Bay Of Plenty (2),-1166.632456
+License_3050,Auckland (7),-1167.002436
+License_3051,Bay Of Plenty (2),-1167.372417
+License_3052,Canterbury (4),-1167.742397
+License_3053,Gisborne (3),-1168.112377
+License_3054,Manawatu Wanganui (6),-1168.482357
+License_3055,Marlborough (1),-1168.852338
+License_3056,Nelson (1),-1169.222318
+License_3057,Northland (1),-1169.592298
+License_3058,Otago (3),-1169.962278
+License_3059,Southland (1),-1170.332259
+License_3060,Taranaki (1),-1170.702239
+License_3061,Auckland (7),-1171.072219
+License_3062,Bay Of Plenty (2),-1171.442199
+License_3063,Auckland (7),-1171.81218
+License_3064,Bay Of Plenty (2),-1172.18216
+License_3065,Canterbury (4),-1172.55214
+License_3066,Gisborne (3),-1172.92212
+License_3067,Manawatu Wanganui (6),-1173.2921
+License_3068,Marlborough (1),-1173.662081
+License_3069,Nelson (1),-1174.032061
+License_3070,Northland (1),-1174.402041
+License_3071,Otago (3),-1174.772021
+License_3072,Southland (1),-1175.142002
+License_3073,Taranaki (1),-1175.511982
+License_3074,Auckland (7),-1175.881962
+License_3075,Bay Of Plenty (2),-1176.251942
+License_3076,Auckland (7),-1176.621923
+License_3077,Bay Of Plenty (2),-1176.991903
+License_3078,Canterbury (4),-1177.361883
+License_3079,Gisborne (3),-1177.731863
+License_3080,Manawatu Wanganui (6),-1178.101844
+License_3081,Marlborough (1),-1178.471824
+License_3082,Nelson (1),-1178.841804
+License_3083,Northland (1),-1179.211784
+License_3084,Otago (3),-1179.581764
+License_3085,Southland (1),-1179.951745
+License_3086,Taranaki (1),-1180.321725
+License_3087,Auckland (7),-1180.691705
+License_3088,Bay Of Plenty (2),-1181.061685
+License_3089,Auckland (7),-1181.431666
+License_3090,Bay Of Plenty (2),-1181.801646
+License_3091,Canterbury (4),-1182.171626
+License_3092,Gisborne (3),-1182.541606
+License_3093,Manawatu Wanganui (6),-1182.911587
+License_3094,Marlborough (1),-1183.281567
+License_3095,Nelson (1),-1183.651547
+License_3096,Northland (1),-1184.021527
+License_3097,Otago (3),-1184.391508
+License_3098,Southland (1),-1184.761488
+License_3099,Taranaki (1),-1185.131468
+License_3100,Auckland (7),-1185.501448
+License_3101,Bay Of Plenty (2),-1185.871428
+License_3102,Auckland (7),-1186.241409
+License_3103,Bay Of Plenty (2),-1186.611389
+License_3104,Canterbury (4),-1186.981369
+License_3105,Gisborne (3),-1187.351349
+License_3106,Manawatu Wanganui (6),-1187.72133
+License_3107,Marlborough (1),-1188.09131
+License_3108,Nelson (1),-1188.46129
+License_3109,Northland (1),-1188.83127
+License_3110,Otago (3),-1189.201251
+License_3111,Southland (1),-1189.571231
+License_3112,Taranaki (1),-1189.941211
+License_3113,Auckland (7),-1190.311191
+License_3114,Bay Of Plenty (2),-1190.681172
+License_3115,Auckland (7),-1191.051152
+License_3116,Bay Of Plenty (2),-1191.421132
+License_3117,Canterbury (4),-1191.791112
+License_3118,Gisborne (3),-1192.161092
+License_3119,Manawatu Wanganui (6),-1192.531073
+License_3120,Marlborough (1),-1192.901053
+License_3121,Nelson (1),-1193.271033
+License_3122,Northland (1),-1193.641013
+License_3123,Otago (3),-1194.010994
+License_3124,Southland (1),-1194.380974
+License_3125,Taranaki (1),-1194.750954
+License_3126,Auckland (7),-1195.120934
+License_3127,Bay Of Plenty (2),-1195.490915
+License_3128,Auckland (7),-1195.860895
+License_3129,Bay Of Plenty (2),-1196.230875
+License_3130,Canterbury (4),-1196.600855
+License_3131,Gisborne (3),-1196.970836
+License_3132,Manawatu Wanganui (6),-1197.340816
+License_3133,Marlborough (1),-1197.710796
+License_3134,Nelson (1),-1198.080776
+License_3135,Northland (1),-1198.450756
+License_3136,Otago (3),-1198.820737
+License_3137,Southland (1),-1199.190717
+License_3138,Taranaki (1),-1199.560697
+License_3139,Auckland (7),-1199.930677
+License_3140,Bay Of Plenty (2),-1200.300658
+License_3141,Auckland (7),-1200.670638
+License_3142,Bay Of Plenty (2),-1201.040618
+License_3143,Canterbury (4),-1201.410598
+License_3144,Gisborne (3),-1201.780579
+License_3145,Manawatu Wanganui (6),-1202.150559
+License_3146,Marlborough (1),-1202.520539
+License_3147,Nelson (1),-1202.890519
+License_3148,Northland (1),-1203.2605
+License_3149,Otago (3),-1203.63048
+License_3150,Southland (1),-1204.00046
+License_3151,Taranaki (1),-1204.37044
+License_3152,Auckland (7),-1204.74042
+License_3153,Bay Of Plenty (2),-1205.110401
+License_3154,Auckland (7),-1205.480381
+License_3155,Bay Of Plenty (2),-1205.850361
+License_3156,Canterbury (4),-1206.220341
+License_3157,Gisborne (3),-1206.590322
+License_3158,Manawatu Wanganui (6),-1206.960302
+License_3159,Marlborough (1),-1207.330282
+License_3160,Nelson (1),-1207.700262
+License_3161,Northland (1),-1208.070243
+License_3162,Otago (3),-1208.440223
+License_3163,Southland (1),-1208.810203
+License_3164,Taranaki (1),-1209.180183
+License_3165,Auckland (7),-1209.550164
+License_3166,Bay Of Plenty (2),-1209.920144
+License_3167,Auckland (7),-1210.290124
+License_3168,Bay Of Plenty (2),-1210.660104
+License_3169,Canterbury (4),-1211.030085
+License_3170,Gisborne (3),-1211.400065
+License_3171,Manawatu Wanganui (6),-1211.770045
+License_3172,Marlborough (1),-1212.140025
+License_3173,Nelson (1),-1212.510005
+License_3174,Northland (1),-1212.879986
+License_3175,Auckland (7),-1213.249966
+License_3176,Bay Of Plenty (2),-1213.619946
+License_3177,Canterbury (4),-1213.989926
+License_3178,Gisborne (3),-1214.359907
+License_3179,Manawatu Wanganui (6),-1214.729887
+License_3180,Marlborough (1),-1215.099867
+License_3181,Nelson (1),-1215.469847
+License_3182,Northland (1),-1215.839828
+License_3183,Otago (3),-1216.209808
+License_3184,Southland (1),-1216.579788
+License_3185,Taranaki (1),-1216.949768
+License_3186,Auckland (7),-1217.319749
+License_3187,Bay Of Plenty (2),-1217.689729
+License_3188,Auckland (7),-1218.059709
+License_3189,Bay Of Plenty (2),-1218.429689
+License_3190,Canterbury (4),-1218.799669
+License_3191,Gisborne (3),-1219.16965
+License_3192,Manawatu Wanganui (6),-1219.53963
+License_3193,Marlborough (1),-1219.90961
+License_3194,Nelson (1),-1220.27959
+License_3195,Northland (1),-1220.649571
+License_3196,Otago (3),-1221.019551
+License_3197,Southland (1),-1221.389531
+License_3198,Taranaki (1),-1221.759511
+License_3199,Auckland (7),-1222.129492
+License_3200,Bay Of Plenty (2),-1222.499472
+License_3201,Auckland (7),-1222.869452
+License_3202,Bay Of Plenty (2),-1223.239432
+License_3203,Canterbury (4),-1223.609413
+License_3204,Gisborne (3),-1223.979393
+License_3205,Manawatu Wanganui (6),-1224.349373
+License_3206,Marlborough (1),-1224.719353
+License_3207,Nelson (1),-1225.089333
+License_3208,Northland (1),-1225.459314
+License_3209,Otago (3),-1225.829294
+License_3210,Southland (1),-1226.199274
+License_3211,Taranaki (1),-1226.569254
+License_3212,Auckland (7),-1226.939235
+License_3213,Bay Of Plenty (2),-1227.309215
+License_3214,Auckland (7),-1227.679195
+License_3215,Bay Of Plenty (2),-1228.049175
+License_3216,Canterbury (4),-1228.419156
+License_3217,Gisborne (3),-1228.789136
+License_3218,Manawatu Wanganui (6),-1229.159116
+License_3219,Marlborough (1),-1229.529096
+License_3220,Nelson (1),-1229.899077
+License_3221,Northland (1),-1230.269057
+License_3222,Otago (3),-1230.639037
+License_3223,Southland (1),-1231.009017
+License_3224,Taranaki (1),-1231.378997
+License_3225,Auckland (7),-1231.748978
+License_3226,Bay Of Plenty (2),-1232.118958
+License_3227,Auckland (7),-1232.488938
+License_3228,Bay Of Plenty (2),-1232.858918
+License_3229,Canterbury (4),-1233.228899
+License_3230,Gisborne (3),-1233.598879
+License_3231,Manawatu Wanganui (6),-1233.968859
+License_3232,Marlborough (1),-1234.338839
+License_3233,Nelson (1),-1234.70882
+License_3234,Northland (1),-1235.0788
+License_3235,Otago (3),-1235.44878
+License_3236,Southland (1),-1235.81876
+License_3237,Taranaki (1),-1236.188741
+License_3238,Auckland (7),-1236.558721
+License_3239,Bay Of Plenty (2),-1236.928701
+License_3240,Auckland (7),-1237.298681
+License_3241,Bay Of Plenty (2),-1237.668661
+License_3242,Canterbury (4),-1238.038642
+License_3243,Gisborne (3),-1238.408622
+License_3244,Manawatu Wanganui (6),-1238.778602
+License_3245,Marlborough (1),-1239.148582
+License_3246,Nelson (1),-1239.518563
+License_3247,Northland (1),-1239.888543
+License_3248,Otago (3),-1240.258523
+License_3249,Southland (1),-1240.628503
+License_3250,Taranaki (1),-1240.998484
+License_3251,Auckland (7),-1241.368464
+License_3252,Bay Of Plenty (2),-1241.738444
+License_3253,Auckland (7),-1242.108424
+License_3254,Bay Of Plenty (2),-1242.478405
+License_3255,Canterbury (4),-1242.848385
+License_3256,Gisborne (3),-1243.218365
+License_3257,Manawatu Wanganui (6),-1243.588345
+License_3258,Marlborough (1),-1243.958325
+License_3259,Nelson (1),-1244.328306
+License_3260,Northland (1),-1244.698286
+License_3261,Otago (3),-1245.068266
+License_3262,Southland (1),-1245.438246
+License_3263,Taranaki (1),-1245.808227
+License_3264,Auckland (7),-1246.178207
+License_3265,Bay Of Plenty (2),-1246.548187
+License_3266,Auckland (7),-1246.918167
+License_3267,Bay Of Plenty (2),-1247.288148
+License_3268,Canterbury (4),-1247.658128
+License_3269,Gisborne (3),-1248.028108
+License_3270,Manawatu Wanganui (6),-1248.398088
+License_3271,Marlborough (1),-1248.768069
+License_3272,Nelson (1),-1249.138049
+License_3273,Northland (1),-1249.508029
+License_3274,Otago (3),-1249.878009
+License_3275,Southland (1),-1250.247989
+License_3276,Taranaki (1),-1250.61797
+License_3277,Auckland (7),-1250.98795
+License_3278,Bay Of Plenty (2),-1251.35793
+License_3279,Auckland (7),-1251.72791
+License_3280,Bay Of Plenty (2),-1252.097891
+License_3281,Canterbury (4),-1252.467871
+License_3282,Gisborne (3),-1252.837851
+License_3283,Manawatu Wanganui (6),-1253.207831
+License_3284,Marlborough (1),-1253.577812
+License_3285,Nelson (1),-1253.947792
+License_3286,Northland (1),-1254.317772
+License_3287,Otago (3),-1254.687752
+License_3288,Southland (1),-1255.057733
+License_3289,Taranaki (1),-1255.427713
+License_3290,Auckland (7),-1255.797693
+License_3291,Bay Of Plenty (2),-1256.167673
+License_3292,Auckland (7),-1256.537653
+License_3293,Bay Of Plenty (2),-1256.907634
+License_3294,Canterbury (4),-1257.277614
+License_3295,Gisborne (3),-1257.647594
+License_3296,Manawatu Wanganui (6),-1258.017574
+License_3297,Marlborough (1),-1258.387555
+License_3298,Nelson (1),-1258.757535
+License_3299,Northland (1),-1259.127515
+License_3300,Otago (3),-1259.497495
+License_3301,Southland (1),-1259.867476
+License_3302,Taranaki (1),-1260.237456
+License_3303,Auckland (7),-1260.607436
+License_3304,Bay Of Plenty (2),-1260.977416
+License_3305,Auckland (7),-1261.347397
+License_3306,Bay Of Plenty (2),-1261.717377
+License_3307,Canterbury (4),-1262.087357
+License_3308,Gisborne (3),-1262.457337
+License_3309,Manawatu Wanganui (6),-1262.827318
+License_3310,Marlborough (1),-1263.197298
+License_3311,Nelson (1),-1263.567278
+License_3312,Northland (1),-1263.937258
+License_3313,Auckland (7),-1264.307238
+License_3314,Bay Of Plenty (2),-1264.677219
+License_3315,Canterbury (4),-1265.047199
+License_3316,Gisborne (3),-1265.417179
+License_3317,Manawatu Wanganui (6),-1265.787159
+License_3318,Marlborough (1),-1266.15714
+License_3319,Nelson (1),-1266.52712
+License_3320,Northland (1),-1266.8971
+License_3321,Otago (3),-1267.26708
+License_3322,Southland (1),-1267.637061
+License_3323,Taranaki (1),-1268.007041
+License_3324,Auckland (7),-1268.377021
+License_3325,Bay Of Plenty (2),-1268.747001
+License_3326,Auckland (7),-1269.116982
+License_3327,Bay Of Plenty (2),-1269.486962
+License_3328,Canterbury (4),-1269.856942
+License_3329,Gisborne (3),-1270.226922
+License_3330,Manawatu Wanganui (6),-1270.596902
+License_3331,Marlborough (1),-1270.966883
+License_3332,Nelson (1),-1271.336863
+License_3333,Northland (1),-1271.706843
+License_3334,Otago (3),-1272.076823
+License_3335,Southland (1),-1272.446804
+License_3336,Taranaki (1),-1272.816784
+License_3337,Auckland (7),-1273.186764
+License_3338,Bay Of Plenty (2),-1273.556744
+License_3339,Auckland (7),-1273.926725
+License_3340,Bay Of Plenty (2),-1274.296705
+License_3341,Canterbury (4),-1274.666685
+License_3342,Gisborne (3),-1275.036665
+License_3343,Manawatu Wanganui (6),-1275.406646
+License_3344,Marlborough (1),-1275.776626
+License_3345,Nelson (1),-1276.146606
+License_3346,Northland (1),-1276.516586
+License_3347,Otago (3),-1276.886566
+License_3348,Southland (1),-1277.256547
+License_3349,Taranaki (1),-1277.626527
+License_3350,Auckland (7),-1277.996507
+License_3351,Bay Of Plenty (2),-1278.366487
+License_3352,Auckland (7),-1278.736468
+License_3353,Bay Of Plenty (2),-1279.106448
+License_3354,Canterbury (4),-1279.476428
+License_3355,Gisborne (3),-1279.846408
+License_3356,Manawatu Wanganui (6),-1280.216389
+License_3357,Marlborough (1),-1280.586369
+License_3358,Nelson (1),-1280.956349
+License_3359,Northland (1),-1281.326329
+License_3360,Otago (3),-1281.69631
+License_3361,Southland (1),-1282.06629
+License_3362,Taranaki (1),-1282.43627
+License_3363,Auckland (7),-1282.80625
+License_3364,Bay Of Plenty (2),-1283.17623
+License_3365,Auckland (7),-1283.546211
+License_3366,Bay Of Plenty (2),-1283.916191
+License_3367,Canterbury (4),-1284.286171
+License_3368,Gisborne (3),-1284.656151
+License_3369,Manawatu Wanganui (6),-1285.026132
+License_3370,Marlborough (1),-1285.396112
+License_3371,Nelson (1),-1285.766092
+License_3372,Northland (1),-1286.136072
+License_3373,Otago (3),-1286.506053
+License_3374,Southland (1),-1286.876033
+License_3375,Taranaki (1),-1287.246013
+License_3376,Auckland (7),-1287.615993
+License_3377,Bay Of Plenty (2),-1287.985974
+License_3378,Auckland (7),-1288.355954
+License_3379,Bay Of Plenty (2),-1288.725934
+License_3380,Canterbury (4),-1289.095914
+License_3381,Gisborne (3),-1289.465894
+License_3382,Manawatu Wanganui (6),-1289.835875
+License_3383,Marlborough (1),-1290.205855
+License_3384,Nelson (1),-1290.575835
+License_3385,Northland (1),-1290.945815
+License_3386,Otago (3),-1291.315796
+License_3387,Southland (1),-1291.685776
+License_3388,Taranaki (1),-1292.055756
+License_3389,Auckland (7),-1292.425736
+License_3390,Bay Of Plenty (2),-1292.795717
+License_3391,Auckland (7),-1293.165697
+License_3392,Bay Of Plenty (2),-1293.535677
+License_3393,Canterbury (4),-1293.905657
+License_3394,Gisborne (3),-1294.275638
+License_3395,Manawatu Wanganui (6),-1294.645618
+License_3396,Marlborough (1),-1295.015598
+License_3397,Nelson (1),-1295.385578
+License_3398,Northland (1),-1295.755558
+License_3399,Otago (3),-1296.125539
+License_3400,Southland (1),-1296.495519
+License_3401,Taranaki (1),-1296.865499
+License_3402,Auckland (7),-1297.235479
+License_3403,Bay Of Plenty (2),-1297.60546
+License_3404,Auckland (7),-1297.97544
+License_3405,Bay Of Plenty (2),-1298.34542
+License_3406,Canterbury (4),-1298.7154
+License_3407,Gisborne (3),-1299.085381
+License_3408,Manawatu Wanganui (6),-1299.455361
+License_3409,Marlborough (1),-1299.825341
+License_3410,Nelson (1),-1300.195321
+License_3411,Northland (1),-1300.565302
+License_3412,Otago (3),-1300.935282
+License_3413,Southland (1),-1301.305262
+License_3414,Taranaki (1),-1301.675242
+License_3415,Auckland (7),-1302.045222
+License_3416,Bay Of Plenty (2),-1302.415203
+License_3417,Auckland (7),-1302.785183
+License_3418,Bay Of Plenty (2),-1303.155163
+License_3419,Canterbury (4),-1303.525143
+License_3420,Gisborne (3),-1303.895124
+License_3421,Manawatu Wanganui (6),-1304.265104
+License_3422,Marlborough (1),-1304.635084
+License_3423,Nelson (1),-1305.005064
+License_3424,Northland (1),-1305.375045
+License_3425,Otago (3),-1305.745025
+License_3426,Southland (1),-1306.115005
+License_3427,Taranaki (1),-1306.484985
+License_3428,Auckland (7),-1306.854966
+License_3429,Bay Of Plenty (2),-1307.224946
+License_3430,Auckland (7),-1307.594926
+License_3431,Bay Of Plenty (2),-1307.964906
+License_3432,Canterbury (4),-1308.334886
+License_3433,Gisborne (3),-1308.704867
+License_3434,Manawatu Wanganui (6),-1309.074847
+License_3435,Marlborough (1),-1309.444827
+License_3436,Nelson (1),-1309.814807
+License_3437,Northland (1),-1310.184788
+License_3438,Otago (3),-1310.554768
+License_3439,Southland (1),-1310.924748
+License_3440,Taranaki (1),-1311.294728
+License_3441,Auckland (7),-1311.664709
+License_3442,Bay Of Plenty (2),-1312.034689
+License_3443,Auckland (7),-1312.404669
+License_3444,Bay Of Plenty (2),-1312.774649
+License_3445,Canterbury (4),-1313.14463
+License_3446,Gisborne (3),-1313.51461
+License_3447,Manawatu Wanganui (6),-1313.88459
+License_3448,Marlborough (1),-1314.25457
+License_3449,Nelson (1),-1314.624551
+License_3450,Northland (1),-1314.994531
+License_3451,Auckland (7),-1315.364511
+License_3452,Bay Of Plenty (2),-1315.734491
+License_3453,Canterbury (4),-1316.104471
+License_3454,Gisborne (3),-1316.474452
+License_3455,Manawatu Wanganui (6),-1316.844432
+License_3456,Marlborough (1),-1317.214412
+License_3457,Nelson (1),-1317.584392
+License_3458,Northland (1),-1317.954373
+License_3459,Otago (3),-1318.324353
+License_3460,Southland (1),-1318.694333
+License_3461,Taranaki (1),-1319.064313
+License_3462,Auckland (7),-1319.434294
+License_3463,Bay Of Plenty (2),-1319.804274
+License_3464,Auckland (7),-1320.174254
+License_3465,Bay Of Plenty (2),-1320.544234
+License_3466,Canterbury (4),-1320.914215
+License_3467,Gisborne (3),-1321.284195
+License_3468,Manawatu Wanganui (6),-1321.654175
+License_3469,Marlborough (1),-1322.024155
+License_3470,Nelson (1),-1322.394135
+License_3471,Northland (1),-1322.764116
+License_3472,Otago (3),-1323.134096
+License_3473,Southland (1),-1323.504076
+License_3474,Taranaki (1),-1323.874056
+License_3475,Auckland (7),-1324.244037
+License_3476,Bay Of Plenty (2),-1324.614017
+License_3477,Auckland (7),-1324.983997
+License_3478,Bay Of Plenty (2),-1325.353977
+License_3479,Canterbury (4),-1325.723958
+License_3480,Gisborne (3),-1326.093938
+License_3481,Manawatu Wanganui (6),-1326.463918
+License_3482,Marlborough (1),-1326.833898
+License_3483,Nelson (1),-1327.203879
+License_3484,Northland (1),-1327.573859
+License_3485,Otago (3),-1327.943839
+License_3486,Southland (1),-1328.313819
+License_3487,Taranaki (1),-1328.683799
+License_3488,Auckland (7),-1329.05378
+License_3489,Bay Of Plenty (2),-1329.42376
+License_3490,Auckland (7),-1329.79374
+License_3491,Bay Of Plenty (2),-1330.16372
+License_3492,Canterbury (4),-1330.533701
+License_3493,Gisborne (3),-1330.903681
+License_3494,Manawatu Wanganui (6),-1331.273661
+License_3495,Marlborough (1),-1331.643641
+License_3496,Nelson (1),-1332.013622
+License_3497,Northland (1),-1332.383602
+License_3498,Otago (3),-1332.753582
+License_3499,Southland (1),-1333.123562
+License_3500,Taranaki (1),-1333.493543
+License_3501,Auckland (7),-1333.863523
+License_3502,Bay Of Plenty (2),-1334.233503
+License_3503,Auckland (7),-1334.603483
+License_3504,Bay Of Plenty (2),-1334.973463
+License_3505,Canterbury (4),-1335.343444
+License_3506,Gisborne (3),-1335.713424
+License_3507,Manawatu Wanganui (6),-1336.083404
+License_3508,Marlborough (1),-1336.453384
+License_3509,Nelson (1),-1336.823365
+License_3510,Northland (1),-1337.193345
+License_3511,Otago (3),-1337.563325
+License_3512,Southland (1),-1337.933305
+License_3513,Taranaki (1),-1338.303286
+License_3514,Auckland (7),-1338.673266
+License_3515,Bay Of Plenty (2),-1339.043246
+License_3516,Auckland (7),-1339.413226
+License_3517,Bay Of Plenty (2),-1339.783207
+License_3518,Canterbury (4),-1340.153187
+License_3519,Gisborne (3),-1340.523167
+License_3520,Manawatu Wanganui (6),-1340.893147
+License_3521,Marlborough (1),-1341.263127
+License_3522,Nelson (1),-1341.633108
+License_3523,Northland (1),-1342.003088
+License_3524,Otago (3),-1342.373068
+License_3525,Southland (1),-1342.743048
+License_3526,Taranaki (1),-1343.113029
+License_3527,Auckland (7),-1343.483009
+License_3528,Bay Of Plenty (2),-1343.852989
+License_3529,Auckland (7),-1344.222969
+License_3530,Bay Of Plenty (2),-1344.59295
+License_3531,Canterbury (4),-1344.96293
+License_3532,Gisborne (3),-1345.33291
+License_3533,Manawatu Wanganui (6),-1345.70289
+License_3534,Marlborough (1),-1346.072871
+License_3535,Nelson (1),-1346.442851
+License_3536,Northland (1),-1346.812831
+License_3537,Otago (3),-1347.182811
+License_3538,Southland (1),-1347.552791
+License_3539,Taranaki (1),-1347.922772
+License_3540,Auckland (7),-1348.292752
+License_3541,Bay Of Plenty (2),-1348.662732
+License_3542,Auckland (7),-1349.032712
+License_3543,Bay Of Plenty (2),-1349.402693
+License_3544,Canterbury (4),-1349.772673
+License_3545,Gisborne (3),-1350.142653
+License_3546,Manawatu Wanganui (6),-1350.512633
+License_3547,Marlborough (1),-1350.882614
+License_3548,Nelson (1),-1351.252594
+License_3549,Northland (1),-1351.622574
+License_3550,Otago (3),-1351.992554
+License_3551,Southland (1),-1352.362535
+License_3552,Taranaki (1),-1352.732515
+License_3553,Auckland (7),-1353.102495
+License_3554,Bay Of Plenty (2),-1353.472475
+License_3555,Auckland (7),-1353.842455
+License_3556,Bay Of Plenty (2),-1354.212436
+License_3557,Canterbury (4),-1354.582416
+License_3558,Gisborne (3),-1354.952396
+License_3559,Manawatu Wanganui (6),-1355.322376
+License_3560,Marlborough (1),-1355.692357
+License_3561,Nelson (1),-1356.062337
+License_3562,Northland (1),-1356.432317
+License_3563,Otago (3),-1356.802297
+License_3564,Southland (1),-1357.172278
+License_3565,Taranaki (1),-1357.542258
+License_3566,Auckland (7),-1357.912238
+License_3567,Bay Of Plenty (2),-1358.282218
+License_3568,Auckland (7),-1358.652199
+License_3569,Bay Of Plenty (2),-1359.022179
+License_3570,Canterbury (4),-1359.392159
+License_3571,Gisborne (3),-1359.762139
+License_3572,Manawatu Wanganui (6),-1360.132119
+License_3573,Marlborough (1),-1360.5021
+License_3574,Nelson (1),-1360.87208
+License_3575,Northland (1),-1361.24206
+License_3576,Otago (3),-1361.61204
+License_3577,Southland (1),-1361.982021
+License_3578,Taranaki (1),-1362.352001
+License_3579,Auckland (7),-1362.721981
+License_3580,Bay Of Plenty (2),-1363.091961
+License_3581,Auckland (7),-1363.461942
+License_3582,Bay Of Plenty (2),-1363.831922
+License_3583,Canterbury (4),-1364.201902
+License_3584,Gisborne (3),-1364.571882
+License_3585,Manawatu Wanganui (6),-1364.941863
+License_3586,Marlborough (1),-1365.311843
+License_3587,Nelson (1),-1365.681823
+License_3588,Northland (1),-1366.051803
+License_3589,Auckland (7),-1366.421784
+License_3590,Bay Of Plenty (2),-1366.791764
+License_3591,Canterbury (4),-1367.161744
+License_3592,Gisborne (3),-1367.531724
+License_3593,Manawatu Wanganui (6),-1367.901704
+License_3594,Marlborough (1),-1368.271685
+License_3595,Nelson (1),-1368.641665
+License_3596,Northland (1),-1369.011645
+License_3597,Otago (3),-1369.381625
+License_3598,Southland (1),-1369.751606
+License_3599,Taranaki (1),-1370.121586
+License_3600,Auckland (7),-1370.491566
+License_3601,Bay Of Plenty (2),-1370.861546
+License_3602,Auckland (7),-1371.231527
+License_3603,Bay Of Plenty (2),-1371.601507
+License_3604,Canterbury (4),-1371.971487
+License_3605,Gisborne (3),-1372.341467
+License_3606,Manawatu Wanganui (6),-1372.711448
+License_3607,Marlborough (1),-1373.081428
+License_3608,Nelson (1),-1373.451408
+License_3609,Northland (1),-1373.821388
+License_3610,Otago (3),-1374.191368
+License_3611,Southland (1),-1374.561349
+License_3612,Taranaki (1),-1374.931329
+License_3613,Auckland (7),-1375.301309
+License_3614,Bay Of Plenty (2),-1375.671289
+License_3615,Auckland (7),-1376.04127
+License_3616,Bay Of Plenty (2),-1376.41125
+License_3617,Canterbury (4),-1376.78123
+License_3618,Gisborne (3),-1377.15121
+License_3619,Manawatu Wanganui (6),-1377.521191
+License_3620,Marlborough (1),-1377.891171
+License_3621,Nelson (1),-1378.261151
+License_3622,Northland (1),-1378.631131
+License_3623,Otago (3),-1379.001112
+License_3624,Southland (1),-1379.371092
+License_3625,Taranaki (1),-1379.741072
+License_3626,Auckland (7),-1380.111052
+License_3627,Bay Of Plenty (2),-1380.481032
+License_3628,Auckland (7),-1380.851013
+License_3629,Bay Of Plenty (2),-1381.220993
+License_3630,Canterbury (4),-1381.590973
+License_3631,Gisborne (3),-1381.960953
+License_3632,Manawatu Wanganui (6),-1382.330934
+License_3633,Marlborough (1),-1382.700914
+License_3634,Nelson (1),-1383.070894
+License_3635,Northland (1),-1383.440874
+License_3636,Otago (3),-1383.810855
+License_3637,Southland (1),-1384.180835
+License_3638,Taranaki (1),-1384.550815
+License_3639,Auckland (7),-1384.920795
+License_3640,Bay Of Plenty (2),-1385.290776
+License_3641,Auckland (7),-1385.660756
+License_3642,Bay Of Plenty (2),-1386.030736
+License_3643,Canterbury (4),-1386.400716
+License_3644,Gisborne (3),-1386.770696
+License_3645,Manawatu Wanganui (6),-1387.140677
+License_3646,Marlborough (1),-1387.510657
+License_3647,Nelson (1),-1387.880637
+License_3648,Northland (1),-1388.250617
+License_3649,Otago (3),-1388.620598
+License_3650,Southland (1),-1388.990578
+License_3651,Taranaki (1),-1389.360558
+License_3652,Auckland (7),-1389.730538
+License_3653,Bay Of Plenty (2),-1390.100519
+License_3654,Auckland (7),-1390.470499
+License_3655,Bay Of Plenty (2),-1390.840479
+License_3656,Canterbury (4),-1391.210459
+License_3657,Gisborne (3),-1391.58044
+License_3658,Manawatu Wanganui (6),-1391.95042
+License_3659,Marlborough (1),-1392.3204
+License_3660,Nelson (1),-1392.69038
+License_3661,Northland (1),-1393.06036
+License_3662,Otago (3),-1393.430341
+License_3663,Southland (1),-1393.800321
+License_3664,Taranaki (1),-1394.170301
+License_3665,Auckland (7),-1394.540281
+License_3666,Bay Of Plenty (2),-1394.910262
+License_3667,Auckland (7),-1395.280242
+License_3668,Bay Of Plenty (2),-1395.650222
+License_3669,Canterbury (4),-1396.020202
+License_3670,Gisborne (3),-1396.390183
+License_3671,Manawatu Wanganui (6),-1396.760163
+License_3672,Marlborough (1),-1397.130143
+License_3673,Nelson (1),-1397.500123
+License_3674,Northland (1),-1397.870104
+License_3675,Otago (3),-1398.240084
+License_3676,Southland (1),-1398.610064
+License_3677,Taranaki (1),-1398.980044
+License_3678,Auckland (7),-1399.350024
+License_3679,Bay Of Plenty (2),-1399.720005
+License_3680,Auckland (7),-1400.089985
+License_3681,Bay Of Plenty (2),-1400.459965
+License_3682,Canterbury (4),-1400.829945
+License_3683,Gisborne (3),-1401.199926
+License_3684,Manawatu Wanganui (6),-1401.569906
+License_3685,Marlborough (1),-1401.939886
+License_3686,Nelson (1),-1402.309866
+License_3687,Northland (1),-1402.679847
+License_3688,Otago (3),-1403.049827
+License_3689,Southland (1),-1403.419807
+License_3690,Taranaki (1),-1403.789787
+License_3691,Auckland (7),-1404.159768
+License_3692,Bay Of Plenty (2),-1404.529748
+License_3693,Auckland (7),-1404.899728
+License_3694,Bay Of Plenty (2),-1405.269708
+License_3695,Canterbury (4),-1405.639688
+License_3696,Gisborne (3),-1406.009669
+License_3697,Manawatu Wanganui (6),-1406.379649
+License_3698,Marlborough (1),-1406.749629
+License_3699,Nelson (1),-1407.119609
+License_3700,Northland (1),-1407.48959
+License_3701,Otago (3),-1407.85957
+License_3702,Southland (1),-1408.22955
+License_3703,Taranaki (1),-1408.59953
+License_3704,Auckland (7),-1408.969511
+License_3705,Bay Of Plenty (2),-1409.339491
+License_3706,Auckland (7),-1409.709471
+License_3707,Bay Of Plenty (2),-1410.079451
+License_3708,Canterbury (4),-1410.449432
+License_3709,Gisborne (3),-1410.819412
+License_3710,Manawatu Wanganui (6),-1411.189392
+License_3711,Marlborough (1),-1411.559372
+License_3712,Nelson (1),-1411.929353
+License_3713,Northland (1),-1412.299333
+License_3714,Otago (3),-1412.669313
+License_3715,Southland (1),-1413.039293
+License_3716,Taranaki (1),-1413.409273
+License_3717,Auckland (7),-1413.779254
+License_3718,Bay Of Plenty (2),-1414.149234
+License_3719,Auckland (7),-1414.519214
+License_3720,Bay Of Plenty (2),-1414.889194
+License_3721,Canterbury (4),-1415.259175
+License_3722,Gisborne (3),-1415.629155
+License_3723,Manawatu Wanganui (6),-1415.999135
+License_3724,Marlborough (1),-1416.369115
+License_3725,Nelson (1),-1416.739096
+License_3726,Northland (1),-1417.109076
+License_3727,Auckland (7),-1417.479056
+License_3728,Bay Of Plenty (2),-1417.849036
+License_3729,Canterbury (4),-1418.219017
+License_3730,Gisborne (3),-1418.588997
+License_3731,Manawatu Wanganui (6),-1418.958977
+License_3732,Marlborough (1),-1419.328957
+License_3733,Nelson (1),-1419.698937
+License_3734,Northland (1),-1420.068918
+License_3735,Otago (3),-1420.438898
+License_3736,Southland (1),-1420.808878
+License_3737,Taranaki (1),-1421.178858
+License_3738,Auckland (7),-1421.548839
+License_3739,Bay Of Plenty (2),-1421.918819
+License_3740,Auckland (7),-1422.288799
+License_3741,Bay Of Plenty (2),-1422.658779
+License_3742,Canterbury (4),-1423.02876
+License_3743,Gisborne (3),-1423.39874
+License_3744,Manawatu Wanganui (6),-1423.76872
+License_3745,Marlborough (1),-1424.1387
+License_3746,Nelson (1),-1424.508681
+License_3747,Northland (1),-1424.878661
+License_3748,Otago (3),-1425.248641
+License_3749,Southland (1),-1425.618621
+License_3750,Taranaki (1),-1425.988601
+License_3751,Auckland (7),-1426.358582
+License_3752,Bay Of Plenty (2),-1426.728562
+License_3753,Auckland (7),-1427.098542
+License_3754,Bay Of Plenty (2),-1427.468522
+License_3755,Canterbury (4),-1427.838503
+License_3756,Gisborne (3),-1428.208483
+License_3757,Manawatu Wanganui (6),-1428.578463
+License_3758,Marlborough (1),-1428.948443
+License_3759,Nelson (1),-1429.318424
+License_3760,Northland (1),-1429.688404
+License_3761,Otago (3),-1430.058384
+License_3762,Southland (1),-1430.428364
+License_3763,Taranaki (1),-1430.798345
+License_3764,Auckland (7),-1431.168325
+License_3765,Bay Of Plenty (2),-1431.538305
+License_3766,Auckland (7),-1431.908285
+License_3767,Bay Of Plenty (2),-1432.278265
+License_3768,Canterbury (4),-1432.648246
+License_3769,Gisborne (3),-1433.018226
+License_3770,Manawatu Wanganui (6),-1433.388206
+License_3771,Marlborough (1),-1433.758186
+License_3772,Nelson (1),-1434.128167
+License_3773,Northland (1),-1434.498147
+License_3774,Otago (3),-1434.868127
+License_3775,Southland (1),-1435.238107
+License_3776,Taranaki (1),-1435.608088
+License_3777,Auckland (7),-1435.978068
+License_3778,Bay Of Plenty (2),-1436.348048
+License_3779,Auckland (7),-1436.718028
+License_3780,Bay Of Plenty (2),-1437.088009
+License_3781,Canterbury (4),-1437.457989
+License_3782,Gisborne (3),-1437.827969
+License_3783,Manawatu Wanganui (6),-1438.197949
+License_3784,Marlborough (1),-1438.567929
+License_3785,Nelson (1),-1438.93791
+License_3786,Northland (1),-1439.30789
+License_3787,Otago (3),-1439.67787
+License_3788,Southland (1),-1440.04785
+License_3789,Taranaki (1),-1440.417831
+License_3790,Auckland (7),-1440.787811
+License_3791,Bay Of Plenty (2),-1441.157791
+License_3792,Auckland (7),-1441.527771
+License_3793,Bay Of Plenty (2),-1441.897752
+License_3794,Canterbury (4),-1442.267732
+License_3795,Gisborne (3),-1442.637712
+License_3796,Manawatu Wanganui (6),-1443.007692
+License_3797,Marlborough (1),-1443.377673
+License_3798,Nelson (1),-1443.747653
+License_3799,Northland (1),-1444.117633
+License_3800,Otago (3),-1444.487613
+License_3801,Southland (1),-1444.857593
+License_3802,Taranaki (1),-1445.227574
+License_3803,Auckland (7),-1445.597554
+License_3804,Bay Of Plenty (2),-1445.967534
+License_3805,Auckland (7),-1446.337514
+License_3806,Bay Of Plenty (2),-1446.707495
+License_3807,Canterbury (4),-1447.077475
+License_3808,Gisborne (3),-1447.447455
+License_3809,Manawatu Wanganui (6),-1447.817435
+License_3810,Marlborough (1),-1448.187416
+License_3811,Nelson (1),-1448.557396
+License_3812,Northland (1),-1448.927376
+License_3813,Otago (3),-1449.297356
+License_3814,Southland (1),-1449.667337
+License_3815,Taranaki (1),-1450.037317
+License_3816,Auckland (7),-1450.407297
+License_3817,Bay Of Plenty (2),-1450.777277
+License_3818,Auckland (7),-1451.147257
+License_3819,Bay Of Plenty (2),-1451.517238
+License_3820,Canterbury (4),-1451.887218
+License_3821,Gisborne (3),-1452.257198
+License_3822,Manawatu Wanganui (6),-1452.627178
+License_3823,Marlborough (1),-1452.997159
+License_3824,Nelson (1),-1453.367139
+License_3825,Northland (1),-1453.737119
+License_3826,Otago (3),-1454.107099
+License_3827,Southland (1),-1454.47708
+License_3828,Taranaki (1),-1454.84706
+License_3829,Auckland (7),-1455.21704
+License_3830,Bay Of Plenty (2),-1455.58702
+License_3831,Auckland (7),-1455.957001
+License_3832,Bay Of Plenty (2),-1456.326981
+License_3833,Canterbury (4),-1456.696961
+License_3834,Gisborne (3),-1457.066941
+License_3835,Manawatu Wanganui (6),-1457.436921
+License_3836,Marlborough (1),-1457.806902
+License_3837,Nelson (1),-1458.176882
+License_3838,Northland (1),-1458.546862
+License_3839,Otago (3),-1458.916842
+License_3840,Southland (1),-1459.286823
+License_3841,Taranaki (1),-1459.656803
+License_3842,Auckland (7),-1460.026783
+License_3843,Bay Of Plenty (2),-1460.396763
+License_3844,Auckland (7),-1460.766744
+License_3845,Bay Of Plenty (2),-1461.136724
+License_3846,Canterbury (4),-1461.506704
+License_3847,Gisborne (3),-1461.876684
+License_3848,Manawatu Wanganui (6),-1462.246665
+License_3849,Marlborough (1),-1462.616645
+License_3850,Nelson (1),-1462.986625
+License_3851,Northland (1),-1463.356605
+License_3852,Otago (3),-1463.726586
+License_3853,Southland (1),-1464.096566
+License_3854,Taranaki (1),-1464.466546
+License_3855,Auckland (7),-1464.836526
+License_3856,Bay Of Plenty (2),-1465.206506
+License_3857,Auckland (7),-1465.576487
+License_3858,Bay Of Plenty (2),-1465.946467
+License_3859,Canterbury (4),-1466.316447
+License_3860,Gisborne (3),-1466.686427
+License_3861,Manawatu Wanganui (6),-1467.056408
+License_3862,Marlborough (1),-1467.426388
+License_3863,Nelson (1),-1467.796368
+License_3864,Northland (1),-1468.166348
+License_3865,Auckland (7),-1468.536329
+License_3866,Bay Of Plenty (2),-1468.906309
+License_3867,Canterbury (4),-1469.276289
+License_3868,Gisborne (3),-1469.646269
+License_3869,Manawatu Wanganui (6),-1470.01625
+License_3870,Marlborough (1),-1470.38623
+License_3871,Nelson (1),-1470.75621
+License_3872,Northland (1),-1471.12619
+License_3873,Otago (3),-1471.49617
+License_3874,Southland (1),-1471.866151
+License_3875,Taranaki (1),-1472.236131
+License_3876,Auckland (7),-1472.606111
+License_3877,Bay Of Plenty (2),-1472.976091
+License_3878,Auckland (7),-1473.346072
+License_3879,Bay Of Plenty (2),-1473.716052
+License_3880,Canterbury (4),-1474.086032
+License_3881,Gisborne (3),-1474.456012
+License_3882,Manawatu Wanganui (6),-1474.825993
+License_3883,Marlborough (1),-1475.195973
+License_3884,Nelson (1),-1475.565953
+License_3885,Northland (1),-1475.935933
+License_3886,Otago (3),-1476.305914
+License_3887,Southland (1),-1476.675894
+License_3888,Taranaki (1),-1477.045874
+License_3889,Auckland (7),-1477.415854
+License_3890,Bay Of Plenty (2),-1477.785834
+License_3891,Auckland (7),-1478.155815
+License_3892,Bay Of Plenty (2),-1478.525795
+License_3893,Canterbury (4),-1478.895775
+License_3894,Gisborne (3),-1479.265755
+License_3895,Manawatu Wanganui (6),-1479.635736
+License_3896,Marlborough (1),-1480.005716
+License_3897,Nelson (1),-1480.375696
+License_3898,Northland (1),-1480.745676
+License_3899,Otago (3),-1481.115657
+License_3900,Southland (1),-1481.485637
+License_3901,Taranaki (1),-1481.855617
+License_3902,Auckland (7),-1482.225597
+License_3903,Bay Of Plenty (2),-1482.595578
+License_3904,Auckland (7),-1482.965558
+License_3905,Bay Of Plenty (2),-1483.335538
+License_3906,Canterbury (4),-1483.705518
+License_3907,Gisborne (3),-1484.075498
+License_3908,Manawatu Wanganui (6),-1484.445479
+License_3909,Marlborough (1),-1484.815459
+License_3910,Nelson (1),-1485.185439
+License_3911,Northland (1),-1485.555419
+License_3912,Otago (3),-1485.9254
+License_3913,Southland (1),-1486.29538
+License_3914,Taranaki (1),-1486.66536
+License_3915,Auckland (7),-1487.03534
+License_3916,Bay Of Plenty (2),-1487.405321
+License_3917,Auckland (7),-1487.775301
+License_3918,Bay Of Plenty (2),-1488.145281
+License_3919,Canterbury (4),-1488.515261
+License_3920,Gisborne (3),-1488.885242
+License_3921,Manawatu Wanganui (6),-1489.255222
+License_3922,Marlborough (1),-1489.625202
+License_3923,Nelson (1),-1489.995182
+License_3924,Northland (1),-1490.365162
+License_3925,Otago (3),-1490.735143
+License_3926,Southland (1),-1491.105123
+License_3927,Taranaki (1),-1491.475103
+License_3928,Auckland (7),-1491.845083
+License_3929,Bay Of Plenty (2),-1492.215064
+License_3930,Auckland (7),-1492.585044
+License_3931,Bay Of Plenty (2),-1492.955024
+License_3932,Canterbury (4),-1493.325004
+License_3933,Gisborne (3),-1493.694985
+License_3934,Manawatu Wanganui (6),-1494.064965
+License_3935,Marlborough (1),-1494.434945
+License_3936,Nelson (1),-1494.804925
+License_3937,Northland (1),-1495.174906
+License_3938,Otago (3),-1495.544886
+License_3939,Southland (1),-1495.914866
+License_3940,Taranaki (1),-1496.284846
+License_3941,Auckland (7),-1496.654826
+License_3942,Bay Of Plenty (2),-1497.024807
+License_3943,Auckland (7),-1497.394787
+License_3944,Bay Of Plenty (2),-1497.764767
+License_3945,Canterbury (4),-1498.134747
+License_3946,Gisborne (3),-1498.504728
+License_3947,Manawatu Wanganui (6),-1498.874708
+License_3948,Marlborough (1),-1499.244688
+License_3949,Nelson (1),-1499.614668
+License_3950,Northland (1),-1499.984649
+License_3951,Otago (3),-1500.354629
+License_3952,Southland (1),-1500.724609
+License_3953,Taranaki (1),-1501.094589
+License_3954,Auckland (7),-1501.46457
+License_3955,Bay Of Plenty (2),-1501.83455
+License_3956,Auckland (7),-1502.20453
+License_3957,Bay Of Plenty (2),-1502.57451
+License_3958,Canterbury (4),-1502.94449
+License_3959,Gisborne (3),-1503.314471
+License_3960,Manawatu Wanganui (6),-1503.684451
+License_3961,Marlborough (1),-1504.054431
+License_3962,Nelson (1),-1504.424411
+License_3963,Northland (1),-1504.794392
+License_3964,Otago (3),-1505.164372
+License_3965,Southland (1),-1505.534352
+License_3966,Taranaki (1),-1505.904332
+License_3967,Auckland (7),-1506.274313
+License_3968,Bay Of Plenty (2),-1506.644293
+License_3969,Auckland (7),-1507.014273
+License_3970,Bay Of Plenty (2),-1507.384253
+License_3971,Canterbury (4),-1507.754234
+License_3972,Gisborne (3),-1508.124214
+License_3973,Manawatu Wanganui (6),-1508.494194
+License_3974,Marlborough (1),-1508.864174
+License_3975,Nelson (1),-1509.234154
+License_3976,Northland (1),-1509.604135
+License_3977,Otago (3),-1509.974115
+License_3978,Southland (1),-1510.344095
+License_3979,Taranaki (1),-1510.714075
+License_3980,Auckland (7),-1511.084056
+License_3981,Bay Of Plenty (2),-1511.454036
+License_3982,Auckland (7),-1511.824016
+License_3983,Bay Of Plenty (2),-1512.193996
+License_3984,Canterbury (4),-1512.563977
+License_3985,Gisborne (3),-1512.933957
+License_3986,Manawatu Wanganui (6),-1513.303937
+License_3987,Marlborough (1),-1513.673917
+License_3988,Nelson (1),-1514.043898
+License_3989,Northland (1),-1514.413878
+License_3990,Otago (3),-1514.783858
+License_3991,Southland (1),-1515.153838
+License_3992,Taranaki (1),-1515.523819
+License_3993,Auckland (7),-1515.893799
+License_3994,Bay Of Plenty (2),-1516.263779
+License_3995,Auckland (7),-1516.633759
+License_3996,Bay Of Plenty (2),-1517.003739
+License_3997,Canterbury (4),-1517.37372
+License_3998,Gisborne (3),-1517.7437
+License_3999,Manawatu Wanganui (6),-1518.11368
+License_4000,Marlborough (1),-1518.48366
+License_4001,Nelson (1),-1518.853641
+License_4002,Northland (1),-1519.223621
+License_4003,Auckland (7),-1519.593601
+License_4004,Bay Of Plenty (2),-1519.963581
+License_4005,Canterbury (4),-1520.333562
+License_4006,Gisborne (3),-1520.703542
+License_4007,Manawatu Wanganui (6),-1521.073522
+License_4008,Marlborough (1),-1521.443502
+License_4009,Nelson (1),-1521.813483
+License_4010,Northland (1),-1522.183463
+License_4011,Otago (3),-1522.553443
+License_4012,Southland (1),-1522.923423
+License_4013,Taranaki (1),-1523.293403
+License_4014,Auckland (7),-1523.663384
+License_4015,Bay Of Plenty (2),-1524.033364
+License_4016,Auckland (7),-1524.403344
+License_4017,Bay Of Plenty (2),-1524.773324
+License_4018,Canterbury (4),-1525.143305
+License_4019,Gisborne (3),-1525.513285
+License_4020,Manawatu Wanganui (6),-1525.883265
+License_4021,Marlborough (1),-1526.253245
+License_4022,Nelson (1),-1526.623226
+License_4023,Northland (1),-1526.993206
+License_4024,Otago (3),-1527.363186
+License_4025,Southland (1),-1527.733166
+License_4026,Taranaki (1),-1528.103147
+License_4027,Auckland (7),-1528.473127
+License_4028,Bay Of Plenty (2),-1528.843107
+License_4029,Auckland (7),-1529.213087
+License_4030,Bay Of Plenty (2),-1529.583067
+License_4031,Canterbury (4),-1529.953048
+License_4032,Gisborne (3),-1530.323028
+License_4033,Manawatu Wanganui (6),-1530.693008
+License_4034,Marlborough (1),-1531.062988
+License_4035,Nelson (1),-1531.432969
+License_4036,Northland (1),-1531.802949
+License_4037,Otago (3),-1532.172929
+License_4038,Southland (1),-1532.542909
+License_4039,Taranaki (1),-1532.91289
+License_4040,Auckland (7),-1533.28287
+License_4041,Bay Of Plenty (2),-1533.65285
+License_4042,Auckland (7),-1534.02283
+License_4043,Bay Of Plenty (2),-1534.392811
+License_4044,Canterbury (4),-1534.762791
+License_4045,Gisborne (3),-1535.132771
+License_4046,Manawatu Wanganui (6),-1535.502751
+License_4047,Marlborough (1),-1535.872731
+License_4048,Nelson (1),-1536.242712
+License_4049,Northland (1),-1536.612692
+License_4050,Otago (3),-1536.982672
+License_4051,Southland (1),-1537.352652
+License_4052,Taranaki (1),-1537.722633
+License_4053,Auckland (7),-1538.092613
+License_4054,Bay Of Plenty (2),-1538.462593
+License_4055,Auckland (7),-1538.832573
+License_4056,Bay Of Plenty (2),-1539.202554
+License_4057,Canterbury (4),-1539.572534
+License_4058,Gisborne (3),-1539.942514
+License_4059,Manawatu Wanganui (6),-1540.312494
+License_4060,Marlborough (1),-1540.682475
+License_4061,Nelson (1),-1541.052455
+License_4062,Northland (1),-1541.422435
+License_4063,Otago (3),-1541.792415
+License_4064,Southland (1),-1542.162395
+License_4065,Taranaki (1),-1542.532376
+License_4066,Auckland (7),-1542.902356
+License_4067,Bay Of Plenty (2),-1543.272336
+License_4068,Auckland (7),-1543.642316
+License_4069,Bay Of Plenty (2),-1544.012297
+License_4070,Canterbury (4),-1544.382277
+License_4071,Gisborne (3),-1544.752257
+License_4072,Manawatu Wanganui (6),-1545.122237
+License_4073,Marlborough (1),-1545.492218
+License_4074,Nelson (1),-1545.862198
+License_4075,Northland (1),-1546.232178
+License_4076,Otago (3),-1546.602158
+License_4077,Southland (1),-1546.972139
+License_4078,Taranaki (1),-1547.342119
+License_4079,Auckland (7),-1547.712099
+License_4080,Bay Of Plenty (2),-1548.082079
+License_4081,Auckland (7),-1548.452059
+License_4082,Bay Of Plenty (2),-1548.82204
+License_4083,Canterbury (4),-1549.19202
+License_4084,Gisborne (3),-1549.562
+License_4085,Manawatu Wanganui (6),-1549.93198
+License_4086,Marlborough (1),-1550.301961
+License_4087,Nelson (1),-1550.671941
+License_4088,Northland (1),-1551.041921
+License_4089,Otago (3),-1551.411901
+License_4090,Southland (1),-1551.781882
+License_4091,Taranaki (1),-1552.151862
+License_4092,Auckland (7),-1552.521842
+License_4093,Bay Of Plenty (2),-1552.891822
+License_4094,Auckland (7),-1553.261803
+License_4095,Bay Of Plenty (2),-1553.631783
+License_4096,Canterbury (4),-1554.001763
+License_4097,Gisborne (3),-1554.371743
+License_4098,Manawatu Wanganui (6),-1554.741723
+License_4099,Marlborough (1),-1555.111704
+License_4100,Nelson (1),-1555.481684
+License_4101,Northland (1),-1555.851664
+License_4102,Otago (3),-1556.221644
+License_4103,Southland (1),-1556.591625
+License_4104,Taranaki (1),-1556.961605
+License_4105,Auckland (7),-1557.331585
+License_4106,Bay Of Plenty (2),-1557.701565
+License_4107,Auckland (7),-1558.071546
+License_4108,Bay Of Plenty (2),-1558.441526
+License_4109,Canterbury (4),-1558.811506
+License_4110,Gisborne (3),-1559.181486
+License_4111,Manawatu Wanganui (6),-1559.551467
+License_4112,Marlborough (1),-1559.921447
+License_4113,Nelson (1),-1560.291427
+License_4114,Northland (1),-1560.661407
+License_4115,Otago (3),-1561.031387
+License_4116,Southland (1),-1561.401368
+License_4117,Taranaki (1),-1561.771348
+License_4118,Auckland (7),-1562.141328
+License_4119,Bay Of Plenty (2),-1562.511308
+License_4120,Auckland (7),-1562.881289
+License_4121,Bay Of Plenty (2),-1563.251269
+License_4122,Canterbury (4),-1563.621249
+License_4123,Gisborne (3),-1563.991229
+License_4124,Manawatu Wanganui (6),-1564.36121
+License_4125,Marlborough (1),-1564.73119
+License_4126,Nelson (1),-1565.10117
+License_4127,Northland (1),-1565.47115
+License_4128,Otago (3),-1565.841131
+License_4129,Southland (1),-1566.211111
+License_4130,Taranaki (1),-1566.581091
+License_4131,Auckland (7),-1566.951071
+License_4132,Bay Of Plenty (2),-1567.321052
+License_4133,Auckland (7),-1567.691032
+License_4134,Bay Of Plenty (2),-1568.061012
+License_4135,Canterbury (4),-1568.430992
+License_4136,Gisborne (3),-1568.800972
+License_4137,Manawatu Wanganui (6),-1569.170953
+License_4138,Marlborough (1),-1569.540933
+License_4139,Nelson (1),-1569.910913
+License_4140,Northland (1),-1570.280893
+License_4141,Auckland (7),-1570.650874
+License_4142,Bay Of Plenty (2),-1571.020854
+License_4143,Canterbury (4),-1571.390834
+License_4144,Gisborne (3),-1571.760814
+License_4145,Manawatu Wanganui (6),-1572.130795
+License_4146,Marlborough (1),-1572.500775
+License_4147,Nelson (1),-1572.870755
+License_4148,Northland (1),-1573.240735
+License_4149,Otago (3),-1573.610716
+License_4150,Southland (1),-1573.980696
+License_4151,Taranaki (1),-1574.350676
+License_4152,Auckland (7),-1574.720656
+License_4153,Bay Of Plenty (2),-1575.090636
+License_4154,Auckland (7),-1575.460617
+License_4155,Bay Of Plenty (2),-1575.830597
+License_4156,Canterbury (4),-1576.200577
+License_4157,Gisborne (3),-1576.570557
+License_4158,Manawatu Wanganui (6),-1576.940538
+License_4159,Marlborough (1),-1577.310518
+License_4160,Nelson (1),-1577.680498
+License_4161,Northland (1),-1578.050478
+License_4162,Otago (3),-1578.420459
+License_4163,Southland (1),-1578.790439
+License_4164,Taranaki (1),-1579.160419
+License_4165,Auckland (7),-1579.530399
+License_4166,Bay Of Plenty (2),-1579.90038
+License_4167,Auckland (7),-1580.27036
+License_4168,Bay Of Plenty (2),-1580.64034
+License_4169,Canterbury (4),-1581.01032
+License_4170,Gisborne (3),-1581.3803
+License_4171,Manawatu Wanganui (6),-1581.750281
+License_4172,Marlborough (1),-1582.120261
+License_4173,Nelson (1),-1582.490241
+License_4174,Northland (1),-1582.860221
+License_4175,Otago (3),-1583.230202
+License_4176,Southland (1),-1583.600182
+License_4177,Taranaki (1),-1583.970162
+License_4178,Auckland (7),-1584.340142
+License_4179,Bay Of Plenty (2),-1584.710123
+License_4180,Auckland (7),-1585.080103
+License_4181,Bay Of Plenty (2),-1585.450083
+License_4182,Canterbury (4),-1585.820063
+License_4183,Gisborne (3),-1586.190044
+License_4184,Manawatu Wanganui (6),-1586.560024
+License_4185,Marlborough (1),-1586.930004
+License_4186,Nelson (1),-1587.299984
+License_4187,Northland (1),-1587.669964
+License_4188,Otago (3),-1588.039945
+License_4189,Southland (1),-1588.409925
+License_4190,Taranaki (1),-1588.779905
+License_4191,Auckland (7),-1589.149885
+License_4192,Bay Of Plenty (2),-1589.519866
+License_4193,Auckland (7),-1589.889846
+License_4194,Bay Of Plenty (2),-1590.259826
+License_4195,Canterbury (4),-1590.629806
+License_4196,Gisborne (3),-1590.999787
+License_4197,Manawatu Wanganui (6),-1591.369767
+License_4198,Marlborough (1),-1591.739747
+License_4199,Nelson (1),-1592.109727
+License_4200,Northland (1),-1592.479708
+License_4201,Otago (3),-1592.849688
+License_4202,Southland (1),-1593.219668
+License_4203,Taranaki (1),-1593.589648
+License_4204,Auckland (7),-1593.959628
+License_4205,Bay Of Plenty (2),-1594.329609
+License_4206,Auckland (7),-1594.699589
+License_4207,Bay Of Plenty (2),-1595.069569
+License_4208,Canterbury (4),-1595.439549
+License_4209,Gisborne (3),-1595.80953
+License_4210,Manawatu Wanganui (6),-1596.17951
+License_4211,Marlborough (1),-1596.54949
+License_4212,Nelson (1),-1596.91947
+License_4213,Northland (1),-1597.289451
+License_4214,Otago (3),-1597.659431
+License_4215,Southland (1),-1598.029411
+License_4216,Taranaki (1),-1598.399391
+License_4217,Auckland (7),-1598.769372
+License_4218,Bay Of Plenty (2),-1599.139352
+License_4219,Auckland (7),-1599.509332
+License_4220,Bay Of Plenty (2),-1599.879312
+License_4221,Canterbury (4),-1600.249292
+License_4222,Gisborne (3),-1600.619273
+License_4223,Manawatu Wanganui (6),-1600.989253
+License_4224,Marlborough (1),-1601.359233
+License_4225,Nelson (1),-1601.729213
+License_4226,Northland (1),-1602.099194
+License_4227,Otago (3),-1602.469174
+License_4228,Southland (1),-1602.839154
+License_4229,Taranaki (1),-1603.209134
+License_4230,Auckland (7),-1603.579115
+License_4231,Bay Of Plenty (2),-1603.949095
+License_4232,Auckland (7),-1604.319075
+License_4233,Bay Of Plenty (2),-1604.689055
+License_4234,Canterbury (4),-1605.059036
+License_4235,Gisborne (3),-1605.429016
+License_4236,Manawatu Wanganui (6),-1605.798996
+License_4237,Marlborough (1),-1606.168976
+License_4238,Nelson (1),-1606.538956
+License_4239,Northland (1),-1606.908937
+License_4240,Otago (3),-1607.278917
+License_4241,Southland (1),-1607.648897
+License_4242,Taranaki (1),-1608.018877
+License_4243,Auckland (7),-1608.388858
+License_4244,Bay Of Plenty (2),-1608.758838
+License_4245,Auckland (7),-1609.128818
+License_4246,Bay Of Plenty (2),-1609.498798
+License_4247,Canterbury (4),-1609.868779
+License_4248,Gisborne (3),-1610.238759
+License_4249,Manawatu Wanganui (6),-1610.608739
+License_4250,Marlborough (1),-1610.978719
+License_4251,Nelson (1),-1611.3487
+License_4252,Northland (1),-1611.71868
+License_4253,Otago (3),-1612.08866
+License_4254,Southland (1),-1612.45864
+License_4255,Taranaki (1),-1612.828621
+License_4256,Auckland (7),-1613.198601
+License_4257,Bay Of Plenty (2),-1613.568581
+License_4258,Auckland (7),-1613.938561
+License_4259,Bay Of Plenty (2),-1614.308541
+License_4260,Canterbury (4),-1614.678522
+License_4261,Gisborne (3),-1615.048502
+License_4262,Manawatu Wanganui (6),-1615.418482
+License_4263,Marlborough (1),-1615.788462
+License_4264,Nelson (1),-1616.158443
+License_4265,Northland (1),-1616.528423
+License_4266,Otago (3),-1616.898403
+License_4267,Southland (1),-1617.268383
+License_4268,Taranaki (1),-1617.638364
+License_4269,Auckland (7),-1618.008344
+License_4270,Bay Of Plenty (2),-1618.378324
+License_4271,Auckland (7),-1618.748304
+License_4272,Bay Of Plenty (2),-1619.118285
+License_4273,Canterbury (4),-1619.488265
+License_4274,Gisborne (3),-1619.858245
+License_4275,Manawatu Wanganui (6),-1620.228225
+License_4276,Marlborough (1),-1620.598205
+License_4277,Nelson (1),-1620.968186
+License_4278,Northland (1),-1621.338166
+License_4279,Auckland (7),-1621.708146
+License_4280,Bay Of Plenty (2),-1622.078126
+License_4281,Canterbury (4),-1622.448107
+License_4282,Gisborne (3),-1622.818087
+License_4283,Manawatu Wanganui (6),-1623.188067
+License_4284,Marlborough (1),-1623.558047
+License_4285,Nelson (1),-1623.928028
+License_4286,Northland (1),-1624.298008
+License_4287,Otago (3),-1624.667988
+License_4288,Southland (1),-1625.037968
+License_4289,Taranaki (1),-1625.407949
+License_4290,Auckland (7),-1625.777929
+License_4291,Bay Of Plenty (2),-1626.147909
+License_4292,Auckland (7),-1626.517889
+License_4293,Bay Of Plenty (2),-1626.887869
+License_4294,Canterbury (4),-1627.25785
+License_4295,Gisborne (3),-1627.62783
+License_4296,Manawatu Wanganui (6),-1627.99781
+License_4297,Marlborough (1),-1628.36779
+License_4298,Nelson (1),-1628.737771
+License_4299,Northland (1),-1629.107751
+License_4300,Otago (3),-1629.477731
+License_4301,Southland (1),-1629.847711
+License_4302,Taranaki (1),-1630.217692
+License_4303,Auckland (7),-1630.587672
+License_4304,Bay Of Plenty (2),-1630.957652
+License_4305,Auckland (7),-1631.327632
+License_4306,Bay Of Plenty (2),-1631.697613
+License_4307,Canterbury (4),-1632.067593
+License_4308,Gisborne (3),-1632.437573
+License_4309,Manawatu Wanganui (6),-1632.807553
+License_4310,Marlborough (1),-1633.177533
+License_4311,Nelson (1),-1633.547514
+License_4312,Northland (1),-1633.917494
+License_4313,Otago (3),-1634.287474
+License_4314,Southland (1),-1634.657454
+License_4315,Taranaki (1),-1635.027435
+License_4316,Auckland (7),-1635.397415
+License_4317,Bay Of Plenty (2),-1635.767395
+License_4318,Auckland (7),-1636.137375
+License_4319,Bay Of Plenty (2),-1636.507356
+License_4320,Canterbury (4),-1636.877336
+License_4321,Gisborne (3),-1637.247316
+License_4322,Manawatu Wanganui (6),-1637.617296
+License_4323,Marlborough (1),-1637.987277
+License_4324,Nelson (1),-1638.357257
+License_4325,Northland (1),-1638.727237
+License_4326,Otago (3),-1639.097217
+License_4327,Southland (1),-1639.467197
+License_4328,Taranaki (1),-1639.837178
+License_4329,Auckland (7),-1640.207158
+License_4330,Bay Of Plenty (2),-1640.577138
+License_4331,Auckland (7),-1640.947118
+License_4332,Bay Of Plenty (2),-1641.317099
+License_4333,Canterbury (4),-1641.687079
+License_4334,Gisborne (3),-1642.057059
+License_4335,Manawatu Wanganui (6),-1642.427039
+License_4336,Marlborough (1),-1642.79702
+License_4337,Nelson (1),-1643.167
+License_4338,Northland (1),-1643.53698
+License_4339,Otago (3),-1643.90696
+License_4340,Southland (1),-1644.276941
+License_4341,Taranaki (1),-1644.646921
+License_4342,Auckland (7),-1645.016901
+License_4343,Bay Of Plenty (2),-1645.386881
+License_4344,Auckland (7),-1645.756861
+License_4345,Bay Of Plenty (2),-1646.126842
+License_4346,Canterbury (4),-1646.496822
+License_4347,Gisborne (3),-1646.866802
+License_4348,Manawatu Wanganui (6),-1647.236782
+License_4349,Marlborough (1),-1647.606763
+License_4350,Nelson (1),-1647.976743
+License_4351,Northland (1),-1648.346723
+License_4352,Otago (3),-1648.716703
+License_4353,Southland (1),-1649.086684
+License_4354,Taranaki (1),-1649.456664
+License_4355,Auckland (7),-1649.826644
+License_4356,Bay Of Plenty (2),-1650.196624
+License_4357,Auckland (7),-1650.566605
+License_4358,Bay Of Plenty (2),-1650.936585
+License_4359,Canterbury (4),-1651.306565
+License_4360,Gisborne (3),-1651.676545
+License_4361,Manawatu Wanganui (6),-1652.046525
+License_4362,Marlborough (1),-1652.416506
+License_4363,Nelson (1),-1652.786486
+License_4364,Northland (1),-1653.156466
+License_4365,Otago (3),-1653.526446
+License_4366,Southland (1),-1653.896427
+License_4367,Taranaki (1),-1654.266407
+License_4368,Auckland (7),-1654.636387
+License_4369,Bay Of Plenty (2),-1655.006367
+License_4370,Auckland (7),-1655.376348
+License_4371,Bay Of Plenty (2),-1655.746328
+License_4372,Canterbury (4),-1656.116308
+License_4373,Gisborne (3),-1656.486288
+License_4374,Manawatu Wanganui (6),-1656.856269
+License_4375,Marlborough (1),-1657.226249
+License_4376,Nelson (1),-1657.596229
+License_4377,Northland (1),-1657.966209
+License_4378,Otago (3),-1658.336189
+License_4379,Southland (1),-1658.70617
+License_4380,Taranaki (1),-1659.07615
+License_4381,Auckland (7),-1659.44613
+License_4382,Bay Of Plenty (2),-1659.81611
+License_4383,Auckland (7),-1660.186091
+License_4384,Bay Of Plenty (2),-1660.556071
+License_4385,Canterbury (4),-1660.926051
+License_4386,Gisborne (3),-1661.296031
+License_4387,Manawatu Wanganui (6),-1661.666012
+License_4388,Marlborough (1),-1662.035992
+License_4389,Nelson (1),-1662.405972
+License_4390,Northland (1),-1662.775952
+License_4391,Otago (3),-1663.145933
+License_4392,Southland (1),-1663.515913
+License_4393,Taranaki (1),-1663.885893
+License_4394,Auckland (7),-1664.255873
+License_4395,Bay Of Plenty (2),-1664.625854
+License_4396,Auckland (7),-1664.995834
+License_4397,Bay Of Plenty (2),-1665.365814
+License_4398,Canterbury (4),-1665.735794
+License_4399,Gisborne (3),-1666.105774
+License_4400,Manawatu Wanganui (6),-1666.475755
+License_4401,Marlborough (1),-1666.845735
+License_4402,Nelson (1),-1667.215715
+License_4403,Northland (1),-1667.585695
+License_4404,Otago (3),-1667.955676
+License_4405,Southland (1),-1668.325656
+License_4406,Taranaki (1),-1668.695636
+License_4407,Auckland (7),-1669.065616
+License_4408,Bay Of Plenty (2),-1669.435597
+License_4409,Auckland (7),-1669.805577
+License_4410,Bay Of Plenty (2),-1670.175557
+License_4411,Canterbury (4),-1670.545537
+License_4412,Gisborne (3),-1670.915518
+License_4413,Manawatu Wanganui (6),-1671.285498
+License_4414,Marlborough (1),-1671.655478
+License_4415,Nelson (1),-1672.025458
+License_4416,Northland (1),-1672.395438
+License_4417,Auckland (7),-1672.765419
+License_4418,Bay Of Plenty (2),-1673.135399
+License_4419,Canterbury (4),-1673.505379
+License_4420,Gisborne (3),-1673.875359
+License_4421,Manawatu Wanganui (6),-1674.24534
+License_4422,Marlborough (1),-1674.61532
+License_4423,Nelson (1),-1674.9853
+License_4424,Northland (1),-1675.35528
+License_4425,Otago (3),-1675.725261
+License_4426,Southland (1),-1676.095241
+License_4427,Taranaki (1),-1676.465221
+License_4428,Auckland (7),-1676.835201
+License_4429,Bay Of Plenty (2),-1677.205182
+License_4430,Auckland (7),-1677.575162
+License_4431,Bay Of Plenty (2),-1677.945142
+License_4432,Canterbury (4),-1678.315122
+License_4433,Gisborne (3),-1678.685102
+License_4434,Manawatu Wanganui (6),-1679.055083
+License_4435,Marlborough (1),-1679.425063
+License_4436,Nelson (1),-1679.795043
+License_4437,Northland (1),-1680.165023
+License_4438,Otago (3),-1680.535004
+License_4439,Southland (1),-1680.904984
+License_4440,Taranaki (1),-1681.274964
+License_4441,Auckland (7),-1681.644944
+License_4442,Bay Of Plenty (2),-1682.014925
+License_4443,Auckland (7),-1682.384905
+License_4444,Bay Of Plenty (2),-1682.754885
+License_4445,Canterbury (4),-1683.124865
+License_4446,Gisborne (3),-1683.494846
+License_4447,Manawatu Wanganui (6),-1683.864826
+License_4448,Marlborough (1),-1684.234806
+License_4449,Nelson (1),-1684.604786
+License_4450,Northland (1),-1684.974766
+License_4451,Otago (3),-1685.344747
+License_4452,Southland (1),-1685.714727
+License_4453,Taranaki (1),-1686.084707
+License_4454,Auckland (7),-1686.454687
+License_4455,Bay Of Plenty (2),-1686.824668
+License_4456,Auckland (7),-1687.194648
+License_4457,Bay Of Plenty (2),-1687.564628
+License_4458,Canterbury (4),-1687.934608
+License_4459,Gisborne (3),-1688.304589
+License_4460,Manawatu Wanganui (6),-1688.674569
+License_4461,Marlborough (1),-1689.044549
+License_4462,Nelson (1),-1689.414529
+License_4463,Northland (1),-1689.78451
+License_4464,Otago (3),-1690.15449
+License_4465,Southland (1),-1690.52447
+License_4466,Taranaki (1),-1690.89445
+License_4467,Auckland (7),-1691.26443
+License_4468,Bay Of Plenty (2),-1691.634411
+License_4469,Auckland (7),-1692.004391
+License_4470,Bay Of Plenty (2),-1692.374371
+License_4471,Canterbury (4),-1692.744351
+License_4472,Gisborne (3),-1693.114332
+License_4473,Manawatu Wanganui (6),-1693.484312
+License_4474,Marlborough (1),-1693.854292
+License_4475,Nelson (1),-1694.224272
+License_4476,Northland (1),-1694.594253
+License_4477,Otago (3),-1694.964233
+License_4478,Southland (1),-1695.334213
+License_4479,Taranaki (1),-1695.704193
+License_4480,Auckland (7),-1696.074174
+License_4481,Bay Of Plenty (2),-1696.444154
+License_4482,Auckland (7),-1696.814134
+License_4483,Bay Of Plenty (2),-1697.184114
+License_4484,Canterbury (4),-1697.554094
+License_4485,Gisborne (3),-1697.924075
+License_4486,Manawatu Wanganui (6),-1698.294055
+License_4487,Marlborough (1),-1698.664035
+License_4488,Nelson (1),-1699.034015
+License_4489,Northland (1),-1699.403996
+License_4490,Otago (3),-1699.773976
+License_4491,Southland (1),-1700.143956
+License_4492,Taranaki (1),-1700.513936
+License_4493,Auckland (7),-1700.883917
+License_4494,Bay Of Plenty (2),-1701.253897
+License_4495,Auckland (7),-1701.623877
+License_4496,Bay Of Plenty (2),-1701.993857
+License_4497,Canterbury (4),-1702.363838
+License_4498,Gisborne (3),-1702.733818
+License_4499,Manawatu Wanganui (6),-1703.103798
+License_4500,Marlborough (1),-1703.473778
+License_4501,Nelson (1),-1703.843758
+License_4502,Northland (1),-1704.213739
+License_4503,Otago (3),-1704.583719
+License_4504,Southland (1),-1704.953699
+License_4505,Taranaki (1),-1705.323679
+License_4506,Auckland (7),-1705.69366
+License_4507,Bay Of Plenty (2),-1706.06364
+License_4508,Auckland (7),-1706.43362
+License_4509,Bay Of Plenty (2),-1706.8036
+License_4510,Canterbury (4),-1707.173581
+License_4511,Gisborne (3),-1707.543561
+License_4512,Manawatu Wanganui (6),-1707.913541
+License_4513,Marlborough (1),-1708.283521
+License_4514,Nelson (1),-1708.653502
+License_4515,Northland (1),-1709.023482
+License_4516,Otago (3),-1709.393462
+License_4517,Southland (1),-1709.763442
+License_4518,Taranaki (1),-1710.133422
+License_4519,Auckland (7),-1710.503403
+License_4520,Bay Of Plenty (2),-1710.873383
+License_4521,Auckland (7),-1711.243363
+License_4522,Bay Of Plenty (2),-1711.613343
+License_4523,Canterbury (4),-1711.983324
+License_4524,Gisborne (3),-1712.353304
+License_4525,Manawatu Wanganui (6),-1712.723284
+License_4526,Marlborough (1),-1713.093264
+License_4527,Nelson (1),-1713.463245
+License_4528,Northland (1),-1713.833225
+License_4529,Otago (3),-1714.203205
+License_4530,Southland (1),-1714.573185
+License_4531,Taranaki (1),-1714.943166
+License_4532,Auckland (7),-1715.313146
+License_4533,Bay Of Plenty (2),-1715.683126
+License_4534,Auckland (7),-1716.053106
+License_4535,Bay Of Plenty (2),-1716.423087
+License_4536,Canterbury (4),-1716.793067
+License_4537,Gisborne (3),-1717.163047
+License_4538,Manawatu Wanganui (6),-1717.533027
