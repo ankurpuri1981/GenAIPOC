@@ -1,25 +1,14 @@
 import os
-
+import pyodbc
 from sqlalchemy import create_engine
 import pandas as pd
 from sdv.multi_table import HMASynthesizer  # Hierarchical Modeling Algorithm Synthesizer
 from sdv.metadata import MultiTableMetadata
-from sdv.datasets.local import load_csvs
 from sdv.evaluation.multi_table import run_diagnostic, evaluate_quality
 from sdv.evaluation.multi_table import get_column_plot
 
-# Read multitable data from multiple CSV files
-# real_data = load_csvs(
-#     folder_name='Motor+Vehicle+Thefts+CSV',
-#     read_csv_parameters={
-#         'skipinitialspace': True,
-#         # 'encoding': 'utf_32'
-#     })
-
 
 # Read input data from local SQL server database instead of csv's using pyodbc library
-import pyodbc
-
 conn_str = ("Driver={SQL Server};"
             "Server=AVD-PRD-SI-008;"
             "Database=GenAI_POCDB;"
@@ -70,16 +59,13 @@ try:
     # Create a Multitable Metadata object
     metadata = MultiTableMetadata()
 
-    # # Automatically detect the metadata based on actual data
-    # metadata.detect_from_csvs(
-    #     folder_name='Motor+Vehicle+Thefts+CSV'
-    # )
-
     # Automatically detect the metadata based on actual data
     metadata.detect_from_dataframes(real_data)
 
     # Check if metadata is correct
     metadata_dict = metadata.to_dict()
+    # Save the metadata to json file, so we can verify the dtypes and other schema properties vis a vis the input
+    # dataset
     try:
         metadata.save_to_json('multitable_metadata_motor_vehicle_theft.json')
     except ValueError:
@@ -112,7 +98,6 @@ try:
     metadata.validate()
 
     # Train the model and generate synthetic data
-
     # Step 1: Create the synthesizer
     synthesizer = HMASynthesizer(metadata)
 
@@ -124,12 +109,7 @@ try:
     # Step 3: Generate synthetic data
     synthetic_data = synthesizer.sample(scale=1)
 
-    # Saving data in csv files
-    # for table_name, synthetic_dataframe in synthetic_data.items():
-    #     print("Saving data in csv file for: " + str(table_name))
-    #     synthetic_dataframe.to_csv(str(table_name) + "_out" + ".csv", index=False)
-
-    # Saving data in database in output tables
+    # Saving data in the output tables in same database
     engine = create_engine('mssql+pyodbc://AVD-PRD-SI-008/GENAI_POCDB?driver=ODBC+Driver+17+for+SQL+Server')
 
     for table_name, synthetic_dataframe in synthetic_data.items():
@@ -139,27 +119,27 @@ finally:
     conn.close()
 
 # 1. perform basic validity checks
-# print("Performing diagnostics for basic validity checks...")
-# diagnostic = run_diagnostic(real_data, synthetic_data, metadata)
-#
-# # 2. measure the statistical similarity
-# print("Evaluating statistical similarity between real data and synthetic data generated...")
-#
-# quality_report = evaluate_quality(real_data, synthetic_data, metadata)
-#
-# # Which columns have high and low scores
-# quality_report.get_details('Column Shapes')
-# quality_report.get_details('Column Pair Trends')
-# quality_report.get_details('Cardinality')
-# quality_report.get_details('Intertable Trends')
+print("Performing diagnostics for basic validity checks...")
+diagnostic = run_diagnostic(real_data, synthetic_data, metadata)
+
+# 2. measure the statistical similarity
+print("Evaluating statistical similarity between real data and synthetic data generated...")
+
+quality_report = evaluate_quality(real_data, synthetic_data, metadata)
+
+# Which columns have high and low scores
+quality_report.get_details('Column Shapes')
+quality_report.get_details('Column Pair Trends')
+quality_report.get_details('Cardinality')
+quality_report.get_details('Intertable Trends')
 
 # 3. plot the data
-# fig = get_column_plot(
-#     real_data=real_data,
-#     synthetic_data=synthetic_data,
-#     metadata=metadata,
-#     table_name='stolen_vehicles',
-#     column_name='vehicle_type'
-# )
-#
-# fig.show()
+fig = get_column_plot(
+    real_data=real_data,
+    synthetic_data=synthetic_data,
+    metadata=metadata,
+    table_name='stolen_vehicles',
+    column_name='vehicle_type'
+)
+
+fig.show()
