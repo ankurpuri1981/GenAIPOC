@@ -10,7 +10,7 @@ from sdv.evaluation.multi_table import get_column_plot
 
 # Read input data from local SQL server database instead of csv's using pyodbc library
 conn_str = ("Driver={SQL Server};"
-            "Server=AVD-PRD-SI-008;"
+            "Server=vewprdsi-QEHKY;"
             "Database=GenAI_POCDB;"
             "Trusted_Connection=yes;")
 
@@ -87,7 +87,8 @@ try:
     metadata.add_relationship(parent_table_name='license_details', child_table_name='stolen_vehicles',
                               parent_primary_key='License_ID', child_foreign_key='License_ID')
 
-    # # Visualize the metadata
+    # # Visualize the metadata (Uses graphviz package in background, make sure you install Graphviz on local machine
+    # and add the executable in PATH variable during installation
     metadata.visualize(
         show_table_details='full',
         show_relationship_labels=True,
@@ -110,7 +111,7 @@ try:
     synthetic_data = synthesizer.sample(scale=1)
 
     # Saving data in the output tables in same database
-    engine = create_engine('mssql+pyodbc://AVD-PRD-SI-008/GENAI_POCDB?driver=ODBC+Driver+17+for+SQL+Server')
+    engine = create_engine('mssql+pyodbc://vewprdsi-QEHKY/GENAI_POCDB?driver=ODBC+Driver+17+for+SQL+Server')
 
     for table_name, synthetic_dataframe in synthetic_data.items():
         synthetic_dataframe.to_sql(table_name + str('_out'), con=engine, if_exists='replace', index=False)
