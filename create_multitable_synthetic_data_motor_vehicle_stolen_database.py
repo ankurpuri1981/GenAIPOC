@@ -1,3 +1,4 @@
+import datetime
 import os
 import pyodbc
 from sqlalchemy import create_engine
@@ -48,9 +49,11 @@ try:
                     df_dict = {table_column_name: row_value}
                     final_dict.update(df_dict)
 
+                # Create a Pandas Dataframe from dictionary for each table
                 temp_df = pd.DataFrame(final_dict, index=[0])
                 df_merged = pd.concat([df_merged, temp_df], ignore_index=True)
-
+            df_merged.to_csv(str(table) + ".csv", index=False)
+            print('finished exporting tables to csv')
             # Create merged dictionary of dataframes for each table
             table_dict = {table: df_merged}
             real_data_dict.update(table_dict)
@@ -107,8 +110,10 @@ try:
     # Step 2: Train the synthesizer
     synthesizer.fit(real_data)
 
-    # Step 3: Generate synthetic data
-    synthetic_data = synthesizer.sample(scale=1)
+    # Step 3: Generate synthetic data (Scale here means number of data points to be created, 1 means same amount of
+    # synthetic data as the real one, 2 means double data compared to the original one
+    scale: int = 1
+    synthetic_data = synthesizer.sample(scale=scale)
 
     # Saving data in the output tables in same database
     engine = create_engine('mssql+pyodbc://vewprdsi-QEHKY/GENAI_POCDB?driver=ODBC+Driver+17+for+SQL+Server')
@@ -117,6 +122,7 @@ try:
         synthetic_dataframe.to_sql(table_name + str('_out'), con=engine, if_exists='replace', index=False)
 
 finally:
+    print("Synthetic data created for all the tables at Scale: " + str(scale) + datetime.datetime.now().time().isoformat())
     conn.close()
 
 # 1. perform basic validity checks
