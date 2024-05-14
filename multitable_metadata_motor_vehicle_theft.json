@@ -1,0 +1,364 @@
+{
+    "tables": {
+        "dim_04": {
+            "columns": {
+                "Dim_04_id": {
+                    "sdtype": "id"
+                },
+                "value_dim04": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_04_id"
+        },
+        "dim_05": {
+            "columns": {
+                "Dim_05_id": {
+                    "sdtype": "id"
+                },
+                "value_dim05": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_05_id"
+        },
+        "dim_06": {
+            "columns": {
+                "Dim_06_id": {
+                    "sdtype": "id"
+                },
+                "value_dim06": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_06_id"
+        },
+        "dim_07": {
+            "columns": {
+                "Dim_07_id": {
+                    "sdtype": "id"
+                },
+                "value_dim07": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_07_id"
+        },
+        "dim_08": {
+            "columns": {
+                "Dim_08_id": {
+                    "sdtype": "id"
+                },
+                "value_dim08": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_08_id"
+        },
+        "dim_09": {
+            "columns": {
+                "Dim_09_id": {
+                    "sdtype": "id"
+                },
+                "value_dim09": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_09_id"
+        },
+        "engine_details": {
+            "columns": {
+                "Engine_ID": {
+                    "sdtype": "id"
+                },
+                "Chassis_Number": {
+                    "sdtype": "categorical"
+                },
+                "Engine_Build": {
+                    "sdtype": "categorical"
+                }
+            },
+            "primary_key": "Engine_ID"
+        },
+        "locations": {
+            "columns": {
+                "location_id": {
+                    "sdtype": "id"
+                },
+                "region": {
+                    "sdtype": "unknown",
+                    "pii": true
+                },
+                "country": {
+                    "sdtype": "categorical"
+                },
+                "population": {
+                    "sdtype": "unknown",
+                    "pii": true
+                },
+                "density": {
+                    "sdtype": "numerical"
+                }
+            },
+            "primary_key": "location_id"
+        },
+        "make_details": {
+            "columns": {
+                "make_id": {
+                    "sdtype": "id"
+                },
+                "make_name": {
+                    "sdtype": "unknown",
+                    "pii": true
+                },
+                "make_type": {
+                    "sdtype": "categorical"
+                }
+            },
+            "primary_key": "make_id"
+        },
+        "owner": {
+            "columns": {
+                "owner_id": {
+                    "sdtype": "id"
+                },
+                "name": {
+                    "sdtype": "unknown",
+                    "pii": true
+                },
+                "address": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "owner_id"
+        },
+        "price": {
+            "columns": {
+                "price_id": {
+                    "sdtype": "id"
+                },
+                "price": {
+                    "sdtype": "numerical"
+                }
+            },
+            "primary_key": "price_id"
+        },
+        "license_details": {
+            "columns": {
+                "License_ID": {
+                    "sdtype": "license_plate",
+                    "pii": true
+                },
+                "State": {
+                    "sdtype": "administrative_unit",
+                    "pii": true
+                },
+                "Latitude": {
+                    "sdtype": "latitude",
+                    "pii": true
+                }
+            },
+            "primary_key": "License_ID"
+        },
+        "stolen_vehicles": {
+            "columns": {
+                "vehicle_id": {
+                    "sdtype": "id"
+                },
+                "vehicle_type": {
+                    "sdtype": "categorical"
+                },
+                "make_id": {
+                    "sdtype": "id"
+                },
+                "model_year": {
+                    "sdtype": "numerical"
+                },
+                "vehicle_desc": {
+                    "sdtype": "unknown",
+                    "pii": true
+                },
+                "color": {
+                    "sdtype": "categorical"
+                },
+                "date_stolen": {
+                    "sdtype": "datetime",
+                    "datetime_format": "%Y-%m-%d"
+                },
+                "location_id": {
+                    "sdtype": "id"
+                },
+                "owner_id": {
+                    "sdtype": "id"
+                },
+                "price_id": {
+                    "sdtype": "id"
+                },
+                "Engine_ID": {
+                    "sdtype": "id"
+                },
+                "License_ID": {
+                    "sdtype": "license_plate"
+                },
+                "Dim_01_id": {
+                    "sdtype": "id"
+                },
+                "Dim_02_id": {
+                    "sdtype": "id"
+                },
+                "Dim_03_id": {
+                    "sdtype": "id"
+                },
+                "Dim_04_id": {
+                    "sdtype": "id"
+                },
+                "Dim_05_id": {
+                    "sdtype": "id"
+                },
+                "Dim_06_id": {
+                    "sdtype": "id"
+                },
+                "Dim_07_id": {
+                    "sdtype": "id"
+                },
+                "Dim_08_id": {
+                    "sdtype": "id"
+                },
+                "Dim_09_id": {
+                    "sdtype": "id"
+                }
+            },
+            "primary_key": "vehicle_id"
+        },
+        "dim_01": {
+            "columns": {
+                "Dim_01_id": {
+                    "sdtype": "id"
+                },
+                "value_dim01": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_01_id"
+        },
+        "dim_02": {
+            "columns": {
+                "Dim_02_id": {
+                    "sdtype": "id"
+                },
+                "value_dim02": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_02_id"
+        },
+        "dim_03": {
+            "columns": {
+                "Dim_03_id": {
+                    "sdtype": "id"
+                },
+                "value_dim03": {
+                    "sdtype": "unknown",
+                    "pii": true
+                }
+            },
+            "primary_key": "Dim_03_id"
+        }
+    },
+    "relationships": [
+        {
+            "parent_table_name": "dim_04",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_04_id",
+            "child_foreign_key": "Dim_04_id"
+        },
+        {
+            "parent_table_name": "dim_05",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_05_id",
+            "child_foreign_key": "Dim_05_id"
+        },
+        {
+            "parent_table_name": "dim_06",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_06_id",
+            "child_foreign_key": "Dim_06_id"
+        },
+        {
+            "parent_table_name": "dim_07",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_07_id",
+            "child_foreign_key": "Dim_07_id"
+        },
+        {
+            "parent_table_name": "dim_08",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_08_id",
+            "child_foreign_key": "Dim_08_id"
+        },
+        {
+            "parent_table_name": "dim_09",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_09_id",
+            "child_foreign_key": "Dim_09_id"
+        },
+        {
+            "parent_table_name": "engine_details",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Engine_ID",
+            "child_foreign_key": "Engine_ID"
+        },
+        {
+            "parent_table_name": "locations",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "location_id",
+            "child_foreign_key": "location_id"
+        },
+        {
+            "parent_table_name": "make_details",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "make_id",
+            "child_foreign_key": "make_id"
+        },
+        {
+            "parent_table_name": "owner",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "owner_id",
+            "child_foreign_key": "owner_id"
+        },
+        {
+            "parent_table_name": "price",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "price_id",
+            "child_foreign_key": "price_id"
+        },
+        {
+            "parent_table_name": "dim_01",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_01_id",
+            "child_foreign_key": "Dim_01_id"
+        },
+        {
+            "parent_table_name": "dim_02",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_02_id",
+            "child_foreign_key": "Dim_02_id"
+        },
+        {
+            "parent_table_name": "dim_03",
+            "child_table_name": "stolen_vehicles",
+            "parent_primary_key": "Dim_03_id",
+            "child_foreign_key": "Dim_03_id"
+        }
+    ],
+    "METADATA_SPEC_VERSION": "MULTI_TABLE_V1"
+}

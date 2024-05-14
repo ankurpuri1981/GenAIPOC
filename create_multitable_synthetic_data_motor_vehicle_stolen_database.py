@@ -52,8 +52,8 @@ try:
                 # Create a Pandas Dataframe from dictionary for each table
                 temp_df = pd.DataFrame(final_dict, index=[0])
                 df_merged = pd.concat([df_merged, temp_df], ignore_index=True)
-            df_merged.to_csv(str(table) + ".csv", index=False)
-            print('finished exporting tables to csv')
+            # df_merged.to_csv(str(table) + ".csv", index=False)
+            # print('finished exporting tables to csv')
             # Create merged dictionary of dataframes for each table
             table_dict = {table: df_merged}
             real_data_dict.update(table_dict)
