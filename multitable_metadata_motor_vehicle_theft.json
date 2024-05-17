@@ -1,6 +1,7 @@
 {
     "tables": {
         "dim_04": {
+            "primary_key": "Dim_04_id",
             "columns": {
                 "Dim_04_id": {
                     "sdtype": "id"
@@ -9,10 +10,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_04_id"
+            }
         },
         "dim_05": {
+            "primary_key": "Dim_05_id",
             "columns": {
                 "Dim_05_id": {
                     "sdtype": "id"
@@ -21,10 +22,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_05_id"
+            }
         },
         "dim_06": {
+            "primary_key": "Dim_06_id",
             "columns": {
                 "Dim_06_id": {
                     "sdtype": "id"
@@ -33,10 +34,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_06_id"
+            }
         },
         "dim_07": {
+            "primary_key": "Dim_07_id",
             "columns": {
                 "Dim_07_id": {
                     "sdtype": "id"
@@ -45,10 +46,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_07_id"
+            }
         },
         "dim_08": {
+            "primary_key": "Dim_08_id",
             "columns": {
                 "Dim_08_id": {
                     "sdtype": "id"
@@ -57,10 +58,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_08_id"
+            }
         },
         "dim_09": {
+            "primary_key": "Dim_09_id",
             "columns": {
                 "Dim_09_id": {
                     "sdtype": "id"
@@ -69,10 +70,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_09_id"
+            }
         },
         "engine_details": {
+            "primary_key": "Engine_ID",
             "columns": {
                 "Engine_ID": {
                     "sdtype": "id"
@@ -83,10 +84,10 @@
                 "Engine_Build": {
                     "sdtype": "categorical"
                 }
-            },
-            "primary_key": "Engine_ID"
+            }
         },
         "locations": {
+            "primary_key": "location_id",
             "columns": {
                 "location_id": {
                     "sdtype": "id"
@@ -105,10 +106,10 @@
                 "density": {
                     "sdtype": "numerical"
                 }
-            },
-            "primary_key": "location_id"
+            }
         },
         "make_details": {
+            "primary_key": "make_id",
             "columns": {
                 "make_id": {
                     "sdtype": "id"
@@ -120,10 +121,10 @@
                 "make_type": {
                     "sdtype": "categorical"
                 }
-            },
-            "primary_key": "make_id"
+            }
         },
         "owner": {
+            "primary_key": "owner_id",
             "columns": {
                 "owner_id": {
                     "sdtype": "id"
@@ -136,10 +137,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "owner_id"
+            }
         },
         "price": {
+            "primary_key": "price_id",
             "columns": {
                 "price_id": {
                     "sdtype": "id"
@@ -147,10 +148,10 @@
                 "price": {
                     "sdtype": "numerical"
                 }
-            },
-            "primary_key": "price_id"
+            }
         },
         "license_details": {
+            "primary_key": "License_ID",
             "columns": {
                 "License_ID": {
                     "sdtype": "license_plate",
@@ -164,10 +165,10 @@
                     "sdtype": "latitude",
                     "pii": true
                 }
-            },
-            "primary_key": "License_ID"
+            }
         },
         "stolen_vehicles": {
+            "primary_key": "vehicle_id",
             "columns": {
                 "vehicle_id": {
                     "sdtype": "id"
@@ -234,10 +235,10 @@
                 "Dim_09_id": {
                     "sdtype": "id"
                 }
-            },
-            "primary_key": "vehicle_id"
+            }
         },
         "dim_01": {
+            "primary_key": "Dim_01_id",
             "columns": {
                 "Dim_01_id": {
                     "sdtype": "id"
@@ -246,10 +247,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_01_id"
+            }
         },
         "dim_02": {
+            "primary_key": "Dim_02_id",
             "columns": {
                 "Dim_02_id": {
                     "sdtype": "id"
@@ -258,10 +259,10 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_02_id"
+            }
         },
         "dim_03": {
+            "primary_key": "Dim_03_id",
             "columns": {
                 "Dim_03_id": {
                     "sdtype": "id"
@@ -270,8 +271,7 @@
                     "sdtype": "unknown",
                     "pii": true
                 }
-            },
-            "primary_key": "Dim_03_id"
+            }
         }
     },
     "relationships": [

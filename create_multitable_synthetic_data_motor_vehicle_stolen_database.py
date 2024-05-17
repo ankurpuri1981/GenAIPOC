@@ -1,6 +1,7 @@
 import datetime
 import os
 import pyodbc
+import sqlalchemy
 from sqlalchemy import create_engine
 import pandas as pd
 from sdv.multi_table import HMASynthesizer  # Hierarchical Modeling Algorithm Synthesizer
@@ -52,6 +53,7 @@ try:
                 # Create a Pandas Dataframe from dictionary for each table
                 temp_df = pd.DataFrame(final_dict, index=[0])
                 df_merged = pd.concat([df_merged, temp_df], ignore_index=True)
+
             # df_merged.to_csv(str(table) + ".csv", index=False)
             # print('finished exporting tables to csv')
             # Create merged dictionary of dataframes for each table
@@ -112,14 +114,24 @@ try:
 
     # Step 3: Generate synthetic data (Scale here means number of data points to be created, 1 means same amount of
     # synthetic data as the real one, 2 means double data compared to the original one
-    scale: int = 1
+    scale: float = 0.25
     synthetic_data = synthesizer.sample(scale=scale)
 
     # Saving data in the output tables in same database
     engine = create_engine('mssql+pyodbc://vewprdsi-QEHKY/GENAI_POCDB?driver=ODBC+Driver+17+for+SQL+Server')
 
     for table_name, synthetic_dataframe in synthetic_data.items():
-        synthetic_dataframe.to_sql(table_name + str('_out'), con=engine, if_exists='replace', index=False)
+        synthesizer.set_table_parameters(
+            table_name=table_name,
+            table_parameters={
+                'enforce_min_max_values': True,
+                'default_distribution': 'truncnorm'})
+        # While reading data from SQL Database in dataframe, column Chassis_Number and Engine_Build dtype
+        # is converted to varchar(max) from nvarchar(50). This is probably causing output of model as NULL
+        # for some of the entries in these columns. So, defining the datatype for these columns using dtyp parameter.
+        synthetic_dataframe.to_sql(table_name + str('_out'), con=engine, if_exists='replace', index=False,
+                                   dtype={'Chassis_Number': sqlalchemy.types.NVARCHAR(length=50),
+                                          'Engine_Build': sqlalchemy.types.NVARCHAR(length=50)})
 
 finally:
     print("Synthetic data created for all the tables at Scale: " + str(scale) + datetime.datetime.now().time().isoformat())
